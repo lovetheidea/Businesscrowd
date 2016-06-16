@@ -1,4 +1,4 @@
-![Rocket.Chat logo](https://rocket.chat/images/logo/logo-dark.svg?v3)
+![Rocket.Chat logo](https://pbs.twimg.com/profile_images/681798560346673152/QTKH08Ba_400x400.png)
 
 # The Ultimate Open Source WebChat Platform
 
