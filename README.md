@@ -1,13 +1,12 @@
 ![Businesscrowd logo](https://pbs.twimg.com/profile_images/681798560346673152/QTKH08Ba_bigger.png)
 
-# The Ultimate Open Source WebChat Platform
+# The ultimate career-oriented social networking site for enabling a SME's and professionals
 
 [![Businesscrowd.Chat](https://demo.rocket.chat/images/join-chat.svg)](https://demo.rocket.chat/)
 [![Build Status](https://img.shields.io/travis/RocketChat/Rocket.Chat/master.svg)](https://travis-ci.org/RocketChat/Rocket.Chat)
 [![Codacy Badge](https://api.codacy.com/project/badge/grade/8580571ba024426d9649e9ab389bd5dd)](https://www.codacy.com/app/RocketChat/Rocket-Chat)
 [![Coverage Status](https://coveralls.io/repos/RocketChat/Rocket.Chat/badge.svg)](https://coveralls.io/r/RocketChat/Rocket.Chat)
 [![Code Climate](https://codeclimate.com/github/RocketChat/Rocket.Chat/badges/gpa.svg)](https://codeclimate.com/github/RocketChat/Rocket.Chat)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/RocketChat/Rocket.Chat/raw/master/LICENSE)
 
 ## Roadmap
 
@@ -34,55 +33,6 @@
 - Anonymous use of Rocket.Chat: [Issue #604](https://github.com/RocketChat/Rocket.Chat/issues/604)
 - File Sharing via P2P: [Issue #369](https://github.com/RocketChat/Rocket.Chat/issues/369), [Issue #370](https://github.com/RocketChat/Rocket.Chat/issues/370)
 - Anti-virus checking on file uploads: [Issue #757](https://github.com/RocketChat/Rocket.Chat/issues/757)
-
-## How it all started
-
-Read about [how it all started](http://osdelivers.blackducksoftware.com/2016/06/10/rocket-chat-hosted-chat-services/).
-
-## Awards
-
-[![Black Duck Open Source Rookie of the Year](https://raw.githubusercontent.com/Sing-Li/bbug/master/images/blackducksm.png)](https://www2.blackducksoftware.com/news/releases/black-duck-announces-open-source-rookies-of-the-year)
-
-## Issues
-
-[Github Issues](https://github.com/RocketChat/Rocket.Chat/issues) are used to track todos, bugs, feature requests, and more.
-
-### Stack Overflow
-
-Please use the [Stack Overflow TAG](http://stackoverflow.com/questions/tagged/rocket.chat)
-
-## Integrations
-
-#### Hubot
-
-The docker image is ready.
-Everyone can start hacking the adapter code, or launch his/her own bot within a few minutes now.
-Please head over to the [Hubot Integration Project](https://github.com/RocketChat/hubot-rocketchat) for more information.
-
-
-#### Chat-ops integrations powered by Hubot
-
-Integrate your application with fly-in panels today!   Early access is available for developers.
-
-![Sample integration of a Drones Fleet Management System](https://raw.githubusercontent.com/Sing-Li/bbug/master/images/dronechatops.png)
-
-#### Many, many, many more to come!
-
-We are developing the APIs based on the competition, so stay tuned and you will see a lot happening here.
-
-## Documentation
-
-Checkout [Documentation](https://rocket.chat/docs/)
-
-If you are not a developer and just want to run the server - see [deployment methods](https://rocket.chat/docs/master/installing-and-updating/deployment-options).
-
-## Branching Model
-
-See [Branches and Releases](https://rocket.chat/docs/master/developer-guides/branches-and-releases).
-
-It is based on [Gitflow Workflow](http://nvie.com/posts/a-successful-git-branching-model/), reference section below is derived from Vincent Driessen at nvie.
-
-See also this [Git Workflows Comparison](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) for more details.
 
 ## Translations
 We are experimenting [Lingohub](https://translate.lingohub.com/engelgabriel/rocket-dot-chat/dashboard).
