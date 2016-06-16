@@ -1,8 +1,8 @@
-![Rocket.Chat logo](https://pbs.twimg.com/profile_images/681798560346673152/QTKH08Ba_400x400.png)
+![Businesscrowd logo](https://pbs.twimg.com/profile_images/681798560346673152/QTKH08Ba_bigger.png)
 
 # The Ultimate Open Source WebChat Platform
 
-[![Rocket.Chat](https://demo.rocket.chat/images/join-chat.svg)](https://demo.rocket.chat/)
+[![Businesscrowd.Chat](https://demo.rocket.chat/images/join-chat.svg)](https://demo.rocket.chat/)
 [![Build Status](https://img.shields.io/travis/RocketChat/Rocket.Chat/master.svg)](https://travis-ci.org/RocketChat/Rocket.Chat)
 [![Codacy Badge](https://api.codacy.com/project/badge/grade/8580571ba024426d9649e9ab389bd5dd)](https://www.codacy.com/app/RocketChat/Rocket-Chat)
 [![Coverage Status](https://coveralls.io/repos/RocketChat/Rocket.Chat/badge.svg)](https://coveralls.io/r/RocketChat/Rocket.Chat)
@@ -72,27 +72,7 @@ We are developing the APIs based on the competition, so stay tuned and you will 
 
 ## Documentation
 
-Checkout [Rocket.Chat documentation](https://rocket.chat/docs/)
-
-## License
-
-Note that Rocket.Chat is distributed under the [MIT License](http://opensource.org/licenses/MIT).
-
-# Development
-
-## Quick start for code developers
-Prerequisites:
-
-* [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-* [Meteor](https://www.meteor.com/install)
-
-Now just clone and start the app:
-
-```sh
-git clone https://github.com/RocketChat/Rocket.Chat.git
-cd Rocket.Chat
-meteor
-```
+Checkout [Documentation](https://rocket.chat/docs/)
 
 If you are not a developer and just want to run the server - see [deployment methods](https://rocket.chat/docs/master/installing-and-updating/deployment-options).
 
@@ -110,13 +90,14 @@ If you want to help, send an email to support at rocket.chat to be invited to th
 
 ## Community
 
-Join thousands of members  world-wide 24 x 7 in our [community server](https://demo.rocket.chat).  Join the conversation at [Twitter](https://twitter.com/RocketChatApp), [Facebook](https://www.facebook.com/RocketChatApp) or [Google Plus](https://plus.google.com/+RocketChatApp)
+Join thousands of members  world-wide 24 x 7 in our [community server](https://demo.rocket.chat).  Join the conversation at [Twitter](https://twitter.com/crowdpromote), [Facebook](https://www.facebook.com/businescrowd)
 
 ## How to Contribute
 
-Already a JavaScript developer?  Familiar with Meteor?  [Pick an issue](https://github.com/RocketChat/Rocket.Chat/labels/contrib%3A%20easy), push a PR and instantly become a member of Rocket.Chat's international contributors community.
+Already a JavaScript developer?  
+Become a member of Business Crowd's international contributors community.
 
-A lot of work has already gone into Rocket.Chat, but we have much bigger plans for it!
+A lot of work has already gone into Business Crowd, but we have much bigger plans for it!
 
 
 # Credits
@@ -137,12 +118,5 @@ Emoji provided free by [Emoji One](http://emojione.com)
 
 Performance monitoring provided by [Kadira](https://kadira.io)
 
-Hosting powered by [Rackspace](https://rackspace.com)
+Hosting powered by [GoDaddy](https://godaddy.co.uk)
 
-# Donate
-
-Rocket.Chat will be free forever, but you can help us speed-up the development!
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZL94ZE6LGVUSN)
-
-[BountySource](https://www.bountysource.com/teams/rocketchat)
