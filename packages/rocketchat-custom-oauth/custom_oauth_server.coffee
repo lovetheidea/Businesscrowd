@@ -108,24 +108,24 @@ class CustomOAuth
 
 			identity = self.getIdentity accessToken
 
-			# Fix for Reddit
-			if identity?.result
-				identity = identity.result
+      # Fix for Reddit
+      if identity?.result
+        identity = identity.result
 
-			# Fix WordPress-like identities having 'ID' instead of 'id'
-			if identity?.ID and not identity.id
-				identity.id = identity.ID
+      # Fix WordPress-like identities having 'ID' instead of 'id'
+      if identity?.ID and not identity.id
+        identity.id = identity.ID
 
       # Fix WordPress-like identities having 'display_name' instead of 'name'
       if identity?.display_name and not identity.name
         identity.name = identity.display_name
 
-			# Fix Auth0-like identities having 'user_id' instead of 'id'
-			if identity?.user_id and not identity.id
-				identity.id = identity.user_id
+      # Fix Auth0-like identities having 'user_id' instead of 'id'
+      if identity?.user_id and not identity.id
+        identity.id = identity.user_id
 
-			if identity?.CharacterID and not identity.id
-				identity.id = identity.CharacterID
+      if identity?.CharacterID and not identity.id
+        identity.id = identity.CharacterID
 
 			# console.log 'id:', JSON.stringify identity, null, '  '
 
@@ -139,8 +139,7 @@ class CustomOAuth
 				serviceData: serviceData
 				options:
 					profile:
-						name: identity.name or identity.username or identity.nickname or identity.CharacterName
-            username: identity.username or identity.user_login
+						name: identity.name or identity.username or identity.nickname or identity.CharacterName, username: identity.username or identity.user_login
 
 			console.log data
 
