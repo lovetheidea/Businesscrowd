@@ -137,7 +137,7 @@ class CustomOAuth
 					profile:
 						name: identity.name or identity.username or identity.nickname or identity.CharacterName
 
-			# console.log data
+			console.log data
 
 			return data
 
