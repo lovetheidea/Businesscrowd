@@ -24,7 +24,7 @@ usernameIsAvaliable = (username) ->
 		usernames.push user.name
 
 	nameParts = user?.name?.split(' ')
-	if nameParts.length > 1
+	if nameParts?.length > 1
 		first = nameParts[0]
 		last = nameParts[nameParts.length - 1]
 
@@ -83,6 +83,9 @@ Meteor.methods
 	getUsernameSuggestion: ->
 		unless Meteor.userId()
 			throw new Meteor.Error 'error-invalid-user', 'Invalid user', { method: 'getUsernameSuggestion' }
-
+			
 		user = Meteor.user()
+		unless user
+			throw new Meteor.Error 'error-invalid-user', 'Invalid user model' , { method: 'getUsernameSuggestion' }
+
 		return generateSuggestion(user)
