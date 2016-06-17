@@ -116,6 +116,10 @@ class CustomOAuth
 			if identity?.ID and not identity.id
 				identity.id = identity.ID
 
+      # Fix WordPress-like identities having 'display_name' instead of 'name'
+      if identity?.display_name and not identity.name
+        identity.name = identity.display_name
+
 			# Fix Auth0-like identities having 'user_id' instead of 'id'
 			if identity?.user_id and not identity.id
 				identity.id = identity.user_id
@@ -136,6 +140,7 @@ class CustomOAuth
 				options:
 					profile:
 						name: identity.name or identity.username or identity.nickname or identity.CharacterName
+            username: identity.username or identity.user_login
 
 			console.log data
 
