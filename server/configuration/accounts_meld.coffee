@@ -27,6 +27,8 @@ Accounts.updateOrCreateUserFromExternalService = (serviceName, serviceData, opti
 				RocketChat.models.Users.resetPasswordAndSetRequirePasswordChange(user._id, true, 'This_email_has_already_been_used_and_has_not_been_verified__Please_change_your_password')
 
 			# Merge accounts
+			console.log serviceName
+			console.log serviceData
 			RocketChat.models.Users.setServiceId user._id, serviceName, serviceData.id
 
 			# Validate email
