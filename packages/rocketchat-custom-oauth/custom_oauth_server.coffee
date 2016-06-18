@@ -139,7 +139,8 @@ class CustomOAuth
 				serviceData: serviceData
 				options:
 					profile:
-						name: identity.name or identity.username or identity.nickname or identity.CharacterName, username: identity.username or identity.user_login
+						name: identity.name or identity.username or identity.nickname or identity.CharacterName
+						username: identity.username or identity.user_login
 
 			console.log data
 
