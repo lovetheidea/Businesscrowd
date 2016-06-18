@@ -1,7 +1,7 @@
 orig_updateOrCreateUserFromExternalService = Accounts.updateOrCreateUserFromExternalService
 Accounts.updateOrCreateUserFromExternalService = (serviceName, serviceData, options) ->
 
-	if serviceName not in ['facebook', 'github', 'gitlab', 'google', 'meteor-developer', 'linkedin', 'twitter', 'sandstorm'] and serviceData._OAuthCustom isnt true
+	if serviceName not in ['facebook', 'github', 'gitlab', 'google', 'meteor-developer', 'linkedin', 'twitter', 'sandstorm', 'wordpress'] and serviceData._OAuthCustom isnt true
 		return
 
 	if serviceName is 'meteor-developer'
@@ -17,6 +17,10 @@ Accounts.updateOrCreateUserFromExternalService = (serviceName, serviceData, opti
 	if serviceName is 'linkedin'
 		serviceData.email = serviceData.emailAddress
 
+	if serviceName is 'wordpress'
+		if not serviceData.email? and serviceData.user_email?
+			serviceData.email = serviceData.user_email
+
 	if serviceData.email
 
 		# Find user with given email
@@ -31,5 +35,13 @@ Accounts.updateOrCreateUserFromExternalService = (serviceName, serviceData, opti
 
 			# Validate email
 			RocketChat.models.Users.setEmailVerified user._id, serviceData.email
+			
+			#setUsername for Wordpress
+			if serviceName is 'wordpress'
+				username = options.profile.username or serviceData.user_login
+				if username?
+					RocketChat.models.Users.setUsername user._id, serviceData.email
+					RocketChat.callbacks.run('usernameSet')
+					Meteor.call 'joinDefaultChannels'
 
 	return orig_updateOrCreateUserFromExternalService.apply(this, arguments)
