@@ -25,9 +25,14 @@ Accounts.updateOrCreateUserFromExternalService = (serviceName, serviceData, opti
 
 	if serviceData.email
 
+	console.log 'orig_updateOrCreateUserFromExternalService2'
+	
 		# Find user with given email
 		user = RocketChat.models.Users.findOneByEmailAddress serviceData.email
 		if user?
+	
+			console.log 'orig_updateOrCreateUserFromExternalService3'
+	
 			# If email is not verified, reset password and require password change
 			if not _.findWhere user.emails, { address: serviceData.email, verified: true }
 				RocketChat.models.Users.resetPasswordAndSetRequirePasswordChange(user._id, true, 'This_email_has_already_been_used_and_has_not_been_verified__Please_change_your_password')
@@ -40,6 +45,9 @@ Accounts.updateOrCreateUserFromExternalService = (serviceName, serviceData, opti
 			
 			#setUsername for Wordpress
 			if serviceName is 'wordpress'
+				
+				console.log 'orig_updateOrCreateUserFromExternalService4'
+	
 				username = options.profile.username or serviceData.user_login
 				if username?
 					RocketChat.models.Users.setUsername user._id, serviceData.email
