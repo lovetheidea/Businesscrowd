@@ -292,6 +292,8 @@ RocketChat.models.Users = new class extends RocketChat.models._Base
 		setData = {}
 		unsetData = {}
 
+		console.log 'saveUserById'
+
 		if data.name?
 			if not _.isEmpty(s.trim(data.name))
 				setData.name = s.trim(data.name)
@@ -326,6 +328,7 @@ RocketChat.models.Users = new class extends RocketChat.models._Base
 
 	# INSERT
 	create: (data) ->
+		
 		user =
 			createdAt: new Date
 			avatarOrigin: 'none'
