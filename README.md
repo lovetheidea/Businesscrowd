@@ -1,6 +1,6 @@
 ![Businesscrowd logo](https://pbs.twimg.com/profile_images/681798560346673152/QTKH08Ba_bigger.png)
 
-# The ultimate career-oriented social networking site for enabling a SME's and professionals
+# The Ultimate Business-Oriented Social Networking Site for Enabling SME's and Professionals
 
 [![Build Status](https://img.shields.io/travis/RocketChat/Rocket.Chat/master.svg)](https://businesscrowd.co.uk)
 [![Codacy Badge](https://api.codacy.com/project/badge/grade/8580571ba024426d9649e9ab389bd5dd)](https://businesscrowd.co.uk)
