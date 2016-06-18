@@ -1,6 +1,7 @@
 config =
 	serverURL: ''
 	identityPath: '/oauth/me'
+	loginStyle: 'redirect'
 	addAutopublishFields:
 		forLoggedInUser: ['services.wordpress']
 		forOtherUsers: ['services.wordpress.user_login']
