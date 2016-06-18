@@ -172,6 +172,9 @@ RocketChat.models.Users = new class extends RocketChat.models._Base
 		return @update _id, update
 
 	setEmail: (_id, email) ->
+		
+		console.log 'setEmail'
+
 		update =
 			$set:
 				emails: [
@@ -182,6 +185,9 @@ RocketChat.models.Users = new class extends RocketChat.models._Base
 		return @update _id, update
 
 	setEmailVerified: (_id, email) ->
+
+		console.log 'setEmailVerified'
+
 		query =
 			_id: _id
 			emails:
@@ -196,6 +202,9 @@ RocketChat.models.Users = new class extends RocketChat.models._Base
 		return @update query, update
 
 	setName: (_id, name) ->
+
+		console.log 'saveUserById'
+	
 		update =
 			$set:
 				name: name
@@ -328,7 +337,9 @@ RocketChat.models.Users = new class extends RocketChat.models._Base
 
 	# INSERT
 	create: (data) ->
-		
+	
+		console.log 'create'
+
 		user =
 			createdAt: new Date
 			avatarOrigin: 'none'
