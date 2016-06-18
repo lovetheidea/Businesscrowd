@@ -14,6 +14,9 @@ usernameIsAvaliable = (username) ->
 @generateSuggestion = (user) ->
 	usernames = []
 	username = undefined
+	
+	console.log '--------suggestUserName'
+	console.log user
 
 	if Meteor.settings.public.sandstorm
 		usernames.push user.services.sandstorm.preferredHandle
