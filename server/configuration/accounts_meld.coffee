@@ -25,7 +25,7 @@ Accounts.updateOrCreateUserFromExternalService = (serviceName, serviceData, opti
 
 	if serviceData.email
 
-	console.log 'orig_updateOrCreateUserFromExternalService2'
+		console.log 'orig_updateOrCreateUserFromExternalService2'
 	
 		# Find user with given email
 		user = RocketChat.models.Users.findOneByEmailAddress serviceData.email
