@@ -35,7 +35,7 @@ OAuth._loginStyle = function (service, config, options) {
     }
   }
 
-  console.log('+++++ ' + loginStyle + ' +++++')
+  throw new Error("+++Login style: " + loginStyle);
 
   return loginStyle;
 };
