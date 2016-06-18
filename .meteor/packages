@@ -10,6 +10,7 @@ accounts-google
 accounts-meteor-developer
 accounts-password
 accounts-twitter
+oauth
 blaze-html-templates
 check
 coffeescript
