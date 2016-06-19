@@ -379,7 +379,7 @@ var renderEndOfLoginResponse = function (options) {
 //        the response without sanitizing it first. Only one of `error`
 //        or `credentials` should be set.
 OAuth._endOfLoginResponse = function (res, details) {
-  res.writeHead(200, {'Content-Type': 'text/html'});
+  //res.writeHead(200, {'Content-Type': 'text/html'});
 
   var redirectUrl;
   if (details.loginStyle === 'redirect') {
