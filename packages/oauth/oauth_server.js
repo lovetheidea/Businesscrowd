@@ -88,7 +88,7 @@ OAuth._loginStyleFromQuery = function (query) {
   try {
     style = OAuth._stateFromQuery(query).loginStyle;
   } catch (err) {
-    style = "popup";
+    return "popup";
   }
   if (style !== "popup" && style !== "redirect") {
     throw new Error("Unrecognized login style: " + style);
@@ -379,7 +379,7 @@ var renderEndOfLoginResponse = function (options) {
 //        the response without sanitizing it first. Only one of `error`
 //        or `credentials` should be set.
 OAuth._endOfLoginResponse = function (res, details) {
-  res.writeHead(200, {'Content-Type': 'text/html'});
+  //res.writeHead(200, {'Content-Type': 'text/html'});
 
   var redirectUrl;
   if (details.loginStyle === 'redirect') {
