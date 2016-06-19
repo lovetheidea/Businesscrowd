@@ -126,11 +126,16 @@ OAuth._isCordovaFromQuery = function (query) {
 // We export this function so that developers can override this
 // behavior to allow apps from external domains to login using the
 // redirect OAuth flow.
+//returns false
 OAuth._checkRedirectUrlOrigin = function (redirectUrl) {
   var appHost = Meteor.absoluteUrl();
   var appHostReplacedLocalhost = Meteor.absoluteUrl(undefined, {
     replaceLocalhost: true
   });
+  if(!redirectUrl || redirectUrl.length == 0){
+	  console.log(redirectUrl)
+	  return true
+  }
   return (
     redirectUrl.substr(0, appHost.length) !== appHost &&
     redirectUrl.substr(0, appHostReplacedLocalhost.length) !== appHostReplacedLocalhost
