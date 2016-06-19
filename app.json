@@ -1,12 +1,12 @@
 {
-  "name": "Rocket.Chat",
+  "name": "Business Crowd",
   "description": "Have your own open-source Slack-like online chat platform.",
-  "repository": "https://github.com/RocketChat/Rocket.Chat",
-  "logo": "https://raw.githubusercontent.com/RocketChat/Rocket.Chat/master/public/images/logo/512x512.png?v=3",
+  "repository": "https://github.com/lovetheidea/Businesscrowd",
+  "logo": "https://raw.githubusercontent.com/lovetheidea/Businesscrowd/master/public/images/logo/512x512.png?v=3",
   "keywords": ["meteor", "social", "community", "chat"],
-  "website": "https://rocket.chat",
+  "website": "https://businesscrowd.co.uk",
   "env": {
-    "BUILDPACK_URL": "https://github.com/RocketChat/heroku-buildpack-meteor.git",
+    "BUILDPACK_URL": "https://github.com/lovetheidea/heroku-buildpack-meteor.git",
     "HEROKU_APP_NAME": {
       "description": "Please re-enter your App Name from the top.",
       "required": true
