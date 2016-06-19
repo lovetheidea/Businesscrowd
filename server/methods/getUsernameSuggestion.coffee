@@ -15,18 +15,15 @@ usernameIsAvaliable = (username) ->
 	usernames = []
 	username = undefined
 	
-	console.log '--------suggestUserName'
-	console.log user
-
 	if Meteor.settings.public.sandstorm
 		usernames.push user.services.sandstorm.preferredHandle
 	
-	#Look for username in profile before name.
-	if user.profile?.username?
+	#Look for username in Wordpress first as main OAuth.
+	if user.services?.wordpress?.user_login
 		if RocketChat.settings.get 'UTF8_Names_Slugify'
-			usernames.push slug user.profile.username
+			usernames.push slug user.services.wordpress.user_login
 		else
-			usernames.push user.profile.username
+			usernames.push user.services.wordpress.user_login
 
 	if RocketChat.settings.get 'UTF8_Names_Slugify'
 		usernames.push slug user.name

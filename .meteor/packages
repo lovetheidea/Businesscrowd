@@ -35,6 +35,7 @@ session
 spacebars
 standard-minifiers
 tracker
+oauth
 
 rocketchat:action-links
 rocketchat:api
