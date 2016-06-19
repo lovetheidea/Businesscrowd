@@ -7,8 +7,8 @@
     var config = JSON.parse(document.getElementById("config").innerHTML);
 
     if (config.setCredentialToken) {
-      sessionStorage[config.storagePrefix + config.credentialToken] =
-      config.credentialSecret;
+	  sessionStorage['919507c0-e7cb-4177-b130-4972732caa8f'] = config.credentialToken;
+      sessionStorage[config.storagePrefix + config.credentialToken] = config.credentialSecret;
     }
 
     window.location = config.redirectUrl;

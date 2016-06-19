@@ -42,7 +42,8 @@ OAuth._stateParam = function (loginStyle, credentialToken, redirectUrl) {
   var state = {
     loginStyle: loginStyle,
     credentialToken: credentialToken,
-    isCordova: Meteor.isCordova
+    isCordova: Meteor.isCordova,
+	redirectUrl: redirectUrl
   };
 
   if (loginStyle === 'redirect')
@@ -75,14 +76,21 @@ OAuth.saveDataForRedirect = function (loginService, credentialToken) {
 // the login flow.
 //
 OAuth.getDataAfterRedirect = function () {
-  var migrationData = Reload._migrationData('oauth');
+//  var migrationData = Reload._migrationData('oauth');
+//
+//  if (! (migrationData && migrationData.credentialToken))
+//    return null;
 
-  if (! (migrationData && migrationData.credentialToken))
-    return null;
-
+  var migrationData = {};
+  migrationData.loginService = 'wordpress';
+  migrationData.credentialToken = sessionStorage.getItem('919507c0-e7cb-4177-b130-4972732caa8f') || 'fresh'
   var credentialToken = migrationData.credentialToken;
   var key = OAuth._storageTokenPrefix + credentialToken;
   var credentialSecret;
+
+  if(!sessionStorage.getItem(key))
+    return null;
+
   try {
     credentialSecret = sessionStorage.getItem(key);
     sessionStorage.removeItem(key);
