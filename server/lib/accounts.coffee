@@ -81,6 +81,11 @@ Accounts.onCreateUser (options, user) ->
 					address: service.email
 					verified: true
 				]
+			
+			if not user.username? and service.username?
+				user.username = service.username
+			else if not user.username? and options.profile?.username?
+				user.username = options.profile?.username
 
 	return user
 
