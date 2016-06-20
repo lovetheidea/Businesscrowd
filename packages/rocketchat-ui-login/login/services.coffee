@@ -24,8 +24,9 @@ Template.loginServices.helpers
 					icon = service.service
 				when 'wordpress'
 					serviceName = 'WordPress'
-					icon = service.service
+					icon = 'refresh'
 					service['loginStyle'] = 'redirect'
+					service['buttonLabelText'] = 'Refresh Login'
 				else
 					serviceName = _.capitalize service.service
 					icon = service.service
