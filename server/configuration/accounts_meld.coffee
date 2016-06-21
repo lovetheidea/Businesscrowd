@@ -50,7 +50,7 @@ Accounts.updateOrCreateUserFromExternalService = (serviceName, serviceData, opti
 	
 				username = options.profile.username or serviceData.user_login
 				if username?
-					RocketChat.models.Users.setUsername user._id, serviceData.email
+					RocketChat.models.Users.setUsername user._id, username
 					RocketChat.callbacks.run('usernameSet')
 					Meteor.call 'joinDefaultChannels'
 
