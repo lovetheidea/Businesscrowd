@@ -570,12 +570,14 @@ textarea[disabled] {
 	border-radius: 0;
 	width: 100%;
 	top: auto !important;
+	background: rgba(0, 0, 0, 0);
+	padding: 20px 0;
 	p {
 		font-size: 14px;
 		padding: 8px 8px;
 	}
 	> i {
-		visibility: hidden;
+		visibility: visible;
 		&:after {
 			content: " ";
 			visibility: visible;
@@ -585,6 +587,7 @@ textarea[disabled] {
 			display: block;
 			height: 40px;
 			margin-bottom: 12px;
+			display: none;
 		}
 	}
 }
