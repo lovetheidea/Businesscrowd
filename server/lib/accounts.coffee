@@ -86,6 +86,11 @@ Accounts.onCreateUser (options, user) ->
 				user.username = service.username
 			else if not user.username? and options.profile?.username?
 				user.username = options.profile?.username
+			
+			if service.profile_url?
+				Meteor.call 'setAvatarFromService', service.profile_url, null, 'url'
+			
+			Meteor.call 'joinDefaultChannels', true
 
 	return user
 
