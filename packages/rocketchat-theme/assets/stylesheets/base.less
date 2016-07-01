@@ -936,10 +936,153 @@ a.github-fork {
 	}
 }
 
+.primary-header{
+	height: 60px;
+	width: 100%;
+	position: absolute;
+
+	.container {
+		margin-right: auto;
+		margin-left: auto;
+	}
+	.primary-header-inner {
+		display: table;
+		width: 100%;
+		height: 46px;
+	}
+	.site-branding {
+		display: table-cell;
+		vertical-align: middle;
+		text-align: left;
+	}
+
+	@media (min-width: 992px){
+		.nav-menu.primary {
+			display: table-cell;
+		}
+	}
+	.nav-menu.primary {
+		display: none;
+		vertical-align: middle;
+	}
+	@media (min-width: 992px){
+		.nav-menu.primary {
+			text-align: right;
+			padding-left: 4em;
+		}
+	}
+	.nav-menu:last-child {
+		border-bottom: 0;
+	}
+	@media (min-width: 992px){
+		.nav-menu, ul.nav-menu {
+			padding: 0;
+			border: 0;
+		}
+	}
+	.nav-menu {
+		padding: 2em;
+		border-bottom: 1px solid #e9edf2;
+	}
+	.nav-menu, .nav-menu ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+	#menu-primary, .nav-menu-container {
+		display: inline-block;
+	}
+	.nav-menu.primary a, .nav-menu.primary li:before, .nav-menu.primary li:after, .nav-menu.primary a:before, .nav-menu.primary a:after {
+		color: #66757f;
+	}
+	.nav-menu ul ul a, .nav-menu.primary ul ul a{
+		color: #737373;
+	}
+	.nav-menu.primary ul ul {
+		text-align: left;
+	}
+	.nav-menu .children, .nav-menu .sub-menu, ul.nav-menu .children, ul.nav-menu .sub-menu {
+		display: none;
+		position: absolute;
+		padding: 10px 0;
+		top: 95%;
+		right: -16px;
+		z-index: 99999;
+		border-radius: 4px;
+		width: 200px;
+		box-shadow: rgba(0,0,0,.06) 0 0 0 3px;
+		background: #fff;
+		border: 0;
+	}
+	.nav-menu .children a, .nav-menu .sub-menu a, ul.nav-menu .children a, ul.nav-menu .sub-menu a {
+		margin: 0;
+		padding: 6px 20px;
+		display: block;
+	}
+	.nav-menu ul ul a {
+		font-size: 105%;
+	}
+	@media (min-width: 992px){
+		.nav-menu li, ul.nav-menu li {
+			display: inline-block;
+			margin-right: 25px;
+			position: relative;
+		}
+	}
+
+	@media (min-width: 768px){
+		.container {
+			padding-left: 15px;
+			padding-right: 15px;
+		}
+	}
+	@media (min-width: 1200px){
+		.container {
+			max-width: 1050px;
+		}
+	}
+	@media (min-width: 992px){
+		.container {
+			max-width: 970px;
+		}
+	}
+
+	@media (min-width: 768px){
+		.container {
+			max-width: 750px;
+		}
+	}
+	.site-title {
+		font-size: 23px;
+		position: relative;
+		top: 0px;
+		line-height: 53px;
+	}
+	.site-title {
+		margin: 0;
+		clear: none;
+		display: inline-block;
+		text-align: left;
+		vertical-align: middle;
+	}
+	.site-title a {
+		font-family: 'Baumans'!important;
+		font-style: normal!important;
+		font-weight: 400!important;
+		text-decoration: none!important;
+	}
+	.site-title a {
+		text-transform: uppercase;
+	}
+	.site-title a, .site-description {
+		color: #222;
+	}
+}
+
 #rocket-chat {
 	display: block;
-	position: fixed;
-	top: 0;
+	position: absolute; //fixed
+	top: 60px;
 	bottom: 0;
 	left: 0;
 	right: 0;
@@ -1122,7 +1265,7 @@ a.github-fork {
 
 // rooms-box
 .flex-nav {
-	position: fixed;
+	position: absolute; //fixed
 	top: 0;
 	left: 0;
 	height: 100%;
@@ -1279,7 +1422,7 @@ a.github-fork {
 }
 
 .side-nav {
-	position: fixed;
+	position: absolute; //fixed;
 	display: block;
 	top: 0;
 	bottom: 0;
@@ -1719,7 +1862,7 @@ a.github-fork {
 
 // MAIN CONTENT + MAIN PAGES //
 .main-content {
-	position: fixed;
+	position: absolute; //fixed;
 	top: 0;
 	bottom: 0;
 	left: @rooms-box-width;
