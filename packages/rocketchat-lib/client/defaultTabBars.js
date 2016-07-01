@@ -2,7 +2,7 @@ RocketChat.TabBar.addButton({
 	groups: ['channel', 'privategroup', 'directmessage'],
 	id: 'message-search',
 	i18nTitle: 'Search',
-	icon: 'icon-search',
+	icon: 'icon-mail',
 	template: 'messageSearch',
 	order: 1
 });
@@ -26,7 +26,7 @@ RocketChat.TabBar.addButton({
 });
 
 RocketChat.TabBar.addButton({
-	groups: ['channel', 'privategroup', 'directmessage'],
+	groups: ['privategroup', 'directmessage'],
 	id: 'uploaded-files-list',
 	i18nTitle: 'Room_uploaded_file_list',
 	icon: 'icon-attach',
