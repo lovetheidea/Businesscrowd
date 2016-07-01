@@ -86,11 +86,6 @@ Accounts.onCreateUser (options, user) ->
 				user.username = service.username
 			else if not user.username? and options.profile?.username?
 				user.username = options.profile?.username
-			
-			if service.profile_url?
-				Meteor.call 'setAvatarFromService', service.profile_url, null, 'url'
-			
-			Meteor.call 'joinDefaultChannels', true
 
 	return user
 
@@ -115,7 +110,15 @@ Accounts.insertUserDoc = _.wrap Accounts.insertUserDoc, (insertUserDoc, options,
 			roles.push 'admin'
 
 	RocketChat.authz.addUserRoles(_id, roles)
-
+	#Set avatar and Join channel since we have the _id now :)
+	if user.services?
+		for serviceName, service of user.services
+				if service.profile_url?
+					Meteor.runAsUser _id, ->
+						Meteor.call 'setAvatarFromService', service.profile_url, null, 'url'
+	Meteor.runAsUser _id, ->
+		Meteor.call 'joinDefaultChannels', true
+		
 	RocketChat.callbacks.run 'afterCreateUser', options, user
 	return _id
 
