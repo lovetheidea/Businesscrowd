@@ -52,8 +52,8 @@ Accounts.updateOrCreateUserFromExternalService = (serviceName, serviceData, opti
 				if username?
 					RocketChat.models.Users.setUsername user._id, username
 					RocketChat.callbacks.run('usernameSet')
-				if service.profile_url?
+				if serviceData.profile_url?
 					Meteor.runAsUser user._id, ->
-						Meteor.call 'setAvatarFromService', service.profile_url, null, 'url'
+						Meteor.call 'setAvatarFromService', serviceData.profile_url, null, 'url'
 
 	return orig_updateOrCreateUserFromExternalService.apply(this, arguments)
