@@ -38,7 +38,7 @@ Template.accountBox.events
 		Meteor.logout ->
 			RocketChat.callbacks.run 'afterLogoutCleanUp', user
 			Meteor.call('logoutCleanUp', user)
-			FlowRouter.go 'home'
+			window.location.href = 'https://businesscrowd.co.uk/customer-logout/'
 
 	'click #avatar': (event) ->
 		FlowRouter.go 'changeAvatar'
