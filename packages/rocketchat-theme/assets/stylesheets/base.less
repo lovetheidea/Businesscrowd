@@ -974,12 +974,7 @@ a.github-fork {
 	.nav-menu:last-child {
 		border-bottom: 0;
 	}
-	@media (min-width: 992px){
-		.nav-menu, ul.nav-menu {
-			padding: 0;
-			border: 0;
-		}
-	}
+
 	.nav-menu {
 		padding: 2em;
 		border-bottom: 1px solid #e9edf2;
@@ -1022,13 +1017,7 @@ a.github-fork {
 	.nav-menu ul ul a {
 		font-size: 105%;
 	}
-	@media (min-width: 992px){
-		.nav-menu li, ul.nav-menu li {
-			display: inline-block;
-			margin-right: 25px;
-			position: relative;
-		}
-	}
+
 
 	@media (min-width: 768px){
 		.container {
@@ -1036,9 +1025,9 @@ a.github-fork {
 			padding-right: 15px;
 		}
 	}
-	@media (min-width: 1200px){
+	@media (min-width: 768px){
 		.container {
-			max-width: 1050px;
+			max-width: 750px;
 		}
 	}
 	@media (min-width: 992px){
@@ -1046,12 +1035,25 @@ a.github-fork {
 			max-width: 970px;
 		}
 	}
-
-	@media (min-width: 768px){
-		.container {
-			max-width: 750px;
+	@media (min-width: 992px){
+		.nav-menu li, ul.nav-menu li {
+			display: inline-block;
+			margin-right: 25px;
+			position: relative;
 		}
 	}
+	@media (min-width: 992px){
+		.nav-menu, ul.nav-menu {
+			padding: 0;
+			border: 0;
+		}
+	}
+	@media (min-width: 1200px){
+		.container {
+			max-width: 1050px;
+		}
+	}
+
 	.site-title {
 		font-size: 23px;
 		position: relative;
