@@ -9,6 +9,18 @@
 			</div>
 			<div class="rooms-list" aria-label="{{_ "Channels"}}" role="region">
 				<div class="wrapper">
+					<a href="/home?advice">
+						<h3 class="add-room" style="color: #2196F3;">
+							Home
+							<i class="icon-bookmark-empty"></i>
+						</h3>
+					</a>
+					<a href="/home?business">
+						<h3 class="add-room" style="color: #2196F3;margin-top: 0;">
+							Find a Business
+							<i class="icon-building"></i>
+						</h3>
+					</a>
 					{{ > unreadRooms }}
 
 					{{#each roomType}}
