@@ -1,0 +1,27 @@
+[
+  {
+    "remotePath": "/public_html/wp-content/uploads/mailchimp-for-wp/index.html",
+    "key": "wp-content/uploads/mailchimp-for-wp/index.html",
+    "error": "Unable to calculate hash for flowing readable stream"
+  },
+  {
+    "remotePath": "/public_html/wp-content/uploads/woocommerce_uploads/index.html",
+    "key": "wp-content/uploads/woocommerce_uploads/index.html",
+    "error": "Unable to calculate hash for flowing readable stream"
+  },
+  {
+    "remotePath": "/public_html/wp-content/uploads/wc-logs/index.html",
+    "key": "wp-content/uploads/wc-logs/index.html",
+    "error": "Unable to calculate hash for flowing readable stream"
+  },
+  {
+    "remotePath": "/public_html/wp-content/uploads/wp-file-manager-pro/fm_backup/index.html",
+    "key": "wp-content/uploads/wp-file-manager-pro/fm_backup/index.html",
+    "error": "Unable to calculate hash for flowing readable stream"
+  },
+  {
+    "remotePath": "/public_html/wp-content/uploads/elementor/screenshots/index.html",
+    "key": "wp-content/uploads/elementor/screenshots/index.html",
+    "error": "Unable to calculate hash for flowing readable stream"
+  }
+]
