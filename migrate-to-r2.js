@@ -255,7 +255,8 @@ async function main() {
         if (headErr.name !== 'NotFound' && headErr.$metadata?.httpStatusCode !== 404) throw headErr;
       }
 
-      const buffer = await fetchBuffer(url);
+      const fetchURL = url.includes('?') ? `${url}&featuredimage` : `${url}?featuredimage`;
+      const buffer = await fetchBuffer(fetchURL);
       const mime   = mimeType(key);
       await uploadToR2(key, buffer, mime);
       console.log(`  ✓  ${key}  (${(buffer.length / 1024).toFixed(1)} KB)`);
