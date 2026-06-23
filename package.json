@@ -1,0 +1,13 @@
+{
+  "name": "businesscrowd",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "migrate": "node migrate-to-r2.js"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.600.0",
+    "dotenv": "^16.4.5",
+    "fast-xml-parser": "^4.4.0"
+  }
+}
