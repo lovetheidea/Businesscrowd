@@ -1,0 +1,64 @@
+<footer id="bc-footer">
+  <div class="bc-footer-inner">
+    <div class="bc-footer-grid">
+
+      <div class="bc-footer-brand">
+        <a href="{{ '/' | relative_url }}" class="bc-logo bc-logo--light">
+          <div class="bc-logo-icon">
+            <svg width="22" height="17" viewBox="0 0 22 17" fill="none" aria-hidden="true">
+              <ellipse cx="4.5" cy="13" rx="3.8" ry="3.2" fill="white" opacity="0.55"/>
+              <ellipse cx="11" cy="8.5" rx="5" ry="4.5" fill="white"/>
+              <ellipse cx="17.5" cy="13" rx="3.8" ry="3.2" fill="white" opacity="0.55"/>
+            </svg>
+          </div>
+          <span class="bc-logo-text">BusinessCrowd</span>
+        </a>
+        <p class="bc-footer-tagline">Get Your Business In Front Of The Crowd.</p>
+        <p class="bc-footer-sub">The UK's AI-powered business directory and social media promotion platform.</p>
+        <div class="bc-social">
+          <a href="#" aria-label="X / Twitter">X</a>
+          <a href="#" aria-label="LinkedIn">in</a>
+          <a href="#" aria-label="Facebook">f</a>
+          <a href="#" aria-label="Instagram">ig</a>
+        </div>
+      </div>
+
+      <div class="bc-footer-col">
+        <h4>Platform</h4>
+        <a href="{{ '/#how-it-works' | relative_url }}">How It Works</a>
+        <a href="{{ '/#book-slot' | relative_url }}">Book a Slot</a>
+        <a href="{{ '/#book-slot' | relative_url }}">BusinessCrowd Hour</a>
+        <a href="{{ '/#categories' | relative_url }}">Categories</a>
+        <a href="{{ '/#featured' | relative_url }}">Featured Businesses</a>
+      </div>
+
+      <div class="bc-footer-col">
+        <h4>Company</h4>
+        <a href="#">About Us</a>
+        <a href="#">For Business</a>
+        <a href="{{ '/blog/' | relative_url }}">Blog</a>
+        <a href="#">Contact</a>
+        <a href="#">Privacy Policy</a>
+      </div>
+
+      <div class="bc-footer-newsletter">
+        <h4>Stay in the loop</h4>
+        <p>Weekly digest — top stories, open slots, and featured businesses to your inbox.</p>
+        <form class="bc-newsletter-form" onsubmit="return false;">
+          <input type="email" placeholder="Your email address" aria-label="Email address">
+          <button type="submit">Subscribe to the Digest</button>
+        </form>
+      </div>
+
+    </div>
+
+    <div class="bc-footer-bar">
+      <p>© {{ 'now' | date: "%Y" }} BusinessCrowd · businesscrowd.co.uk · All rights reserved</p>
+      <div class="bc-footer-legal">
+        <a href="#">Terms</a>
+        <a href="#">Privacy</a>
+        <a href="#">Cookies</a>
+      </div>
+    </div>
+  </div>
+</footer>

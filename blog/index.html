@@ -1,0 +1,32 @@
+---
+layout: default
+title: "Blog"
+permalink: /blog/
+---
+
+<section class="bc-page-hero">
+  <div class="bc-page-hero-inner">
+    <p class="bc-section-label">Latest from BusinessCrowd</p>
+    <h1 style="font-size:46px;font-weight:800;color:#1B2B6B;line-height:1.1;letter-spacing:-1.5px;margin:0;">Blog</h1>
+  </div>
+</section>
+
+<section class="bc-blog-section">
+  <div class="bc-blog-inner">
+    <div class="bc-post-grid">
+      {% for post in site.posts %}
+      <article class="bc-post-card">
+        {% if post.categories.size > 0 %}
+          <span class="bc-post-cat">{{ post.categories | first }}</span>
+        {% endif %}
+        <h2>{{ post.title }}</h2>
+        <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
+        <div class="bc-post-card-footer">
+          <span class="bc-post-card-date">{{ post.date | date: "%-d %b %Y" }}</span>
+          <a href="{{ post.url | relative_url }}" class="bc-post-card-link">Read more →</a>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>

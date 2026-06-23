@@ -1,0 +1,61 @@
+title: "BusinessCrowd"
+description: "Get your business in front of the crowd"
+url: "https://businesscrowd.co.uk"
+baseurl: ""
+
+author:
+  name: "BusinessCrowd"
+  email: "hello@businesscrowd.co.uk"
+
+# Build
+timezone: Europe/London
+encoding: utf-8
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Permalinks
+permalink: /blog/:year/:month/:day/:slug/
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - "*.sh"
+  - migrate-to-r2.js
+  - migrate-sftp-to-r2.js
+  - migrate-errors.json
+  - package.json
+  - package-lock.json
+  - .env
+  - .env.example
+  - import-wordpress.js

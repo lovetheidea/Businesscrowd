@@ -1,0 +1,41 @@
+<nav id="bc-nav">
+  <a href="{{ '/' | relative_url }}" class="bc-logo" aria-label="BusinessCrowd home">
+    <div class="bc-logo-icon">
+      <svg width="22" height="17" viewBox="0 0 22 17" fill="none" aria-hidden="true">
+        <ellipse cx="4.5" cy="13" rx="3.8" ry="3.2" fill="white" opacity="0.55"/>
+        <ellipse cx="11" cy="8.5" rx="5" ry="4.5" fill="white"/>
+        <ellipse cx="17.5" cy="13" rx="3.8" ry="3.2" fill="white" opacity="0.55"/>
+      </svg>
+    </div>
+    <span class="bc-logo-text">BusinessCrowd</span>
+  </a>
+
+  <div id="bc-nav-links">
+    <a href="{{ '/#featured' | relative_url }}">Featured</a>
+    <a href="{{ '/#book-slot' | relative_url }}">Book a Slot</a>
+    <a href="{{ '/#how-it-works' | relative_url }}">How It Works</a>
+    <a href="{{ '/#categories' | relative_url }}">Categories</a>
+    <a href="{{ '/blog/' | relative_url }}">Blog</a>
+  </div>
+
+  <div id="bc-nav-right">
+    <a href="#" class="bc-signin">Sign In</a>
+    <a href="#" class="bc-cta">Get Started</a>
+  </div>
+
+  <button id="bc-hamburger" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="bc-mobile-menu">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+
+<div id="bc-mobile-menu" hidden>
+  <a href="{{ '/#featured' | relative_url }}">Featured</a>
+  <a href="{{ '/#book-slot' | relative_url }}">Book a Slot</a>
+  <a href="{{ '/#how-it-works' | relative_url }}">How It Works</a>
+  <a href="{{ '/#categories' | relative_url }}">Categories</a>
+  <a href="{{ '/blog/' | relative_url }}">Blog</a>
+  <div class="bc-mobile-auth">
+    <a href="#" class="bc-mobile-signin">Sign In</a>
+    <a href="#" class="bc-mobile-cta">Get Started</a>
+  </div>
+</div>
