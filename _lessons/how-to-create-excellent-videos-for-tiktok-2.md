@@ -3,6 +3,7 @@ layout: "lesson"
 title: "How to Create Excellent Videos for TikTok"
 date: "2024-06-14"
 status: "publish"
+course_slug: "is-tiktok-good-for-business"
 original_url: "https://academy.lovetheidea.co.uk/courses/is-tiktok-good-for-business-2/lesson/how-to-create-excellent-videos-for-tiktok-2/"
 ---
 

@@ -3,6 +3,7 @@ layout: "lesson"
 title: "Why Writing Matters?"
 date: "2024-03-12"
 status: "publish"
+course_slug: "what-to-do-with-your-spare-time"
 original_url: "https://academy.lovetheidea.co.uk/courses/what-to-do-with-your-spare-time/lesson/why-writing-matters/"
 ---
 

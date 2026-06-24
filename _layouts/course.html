@@ -76,20 +76,15 @@ layout: app
             <section class="bc-course-section">
               <h2 class="bc-course-section-title">Target Audience</h2>
               <ul class="bc-course-audience-list">
-                {% assign audience_items = page.audience | split: "\n" %}
-                {% for item in audience_items %}
-                  {% assign trimmed = item | strip %}
-                  {% if trimmed != "" %}
-                  <li>{{ trimmed }}</li>
-                  {% endif %}
+                {% for item in page.audience %}
+                <li>{{ item }}</li>
                 {% endfor %}
               </ul>
             </section>
             {% endif %}
 
             <!-- Curriculum -->
-            {% assign course_wp_id = page.original_url | split: "p=" | last | split: "&" | first %}
-            {% assign course_lessons = site.lessons | where: "course_id", course_wp_id | where: "status", "publish" %}
+            {% assign course_lessons = site.lessons | where: "course_slug", page.slug | where: "status", "publish" %}
             <section class="bc-course-section">
               <div class="bc-course-curriculum-header">
                 <h2 class="bc-course-section-title" style="margin:0;">Curriculum</h2>

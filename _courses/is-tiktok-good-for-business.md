@@ -12,15 +12,16 @@ benefits:
   - "Audience Targeting"
   - "Cost-Effective Marketing Strategies"
   - "Measuring Success"
-audience: "Marketing Professionals
-Small Business Owners
-Entrepreneurs and Startups
-Students and Aspiring Marketers
-Content Creators and Bloggers
-E-commerce Entrepreneurs
-Social Media Managers
-Freelancers and Consultants
-Nonprofit Organizations"
+audience:
+  - "Marketing Professionals"
+  - "Small Business Owners"
+  - "Entrepreneurs and Startups"
+  - "Students and Aspiring Marketers"
+  - "Content Creators and Bloggers"
+  - "E-commerce Entrepreneurs"
+  - "Social Media Managers"
+  - "Freelancers and Consultants"
+  - "Nonprofit Organizations"
 categories:
   - "Advertising"
   - "Design Tools"

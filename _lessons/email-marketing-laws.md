@@ -3,6 +3,7 @@ layout: "lesson"
 title: "Email Marketing Laws"
 date: "2024-03-13"
 status: "publish"
+course_slug: "can-social-media-rules-land-you-in-legal-trouble"
 original_url: "https://academy.lovetheidea.co.uk/courses/can-social-media-rules-land-you-in-legal-trouble/lesson/email-marketing-laws/"
 ---
 

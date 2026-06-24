@@ -3,6 +3,7 @@ layout: "lesson"
 title: "How to Move Audiences Off TikTok And Into Sale Funnels"
 date: "2024-06-14"
 status: "publish"
+course_slug: "is-tiktok-good-for-business"
 original_url: "https://academy.lovetheidea.co.uk/courses/is-tiktok-good-for-business-2/lesson/how-to-move-audiences-off-tiktok-and-into-sale-funnels-2/"
 ---
 

@@ -10,12 +10,13 @@ benefits:
   - "How to watch out for pitfalls"
   - "How your own content can help your SEO"
   - "Staying professional in work and online"
-audience: "Website Owners
-Bloggers
-Freelancers
-Digital Nomads
-Job Seekers
-Online Professionals"
+audience:
+  - "Website Owners"
+  - "Bloggers"
+  - "Freelancers"
+  - "Digital Nomads"
+  - "Job Seekers"
+  - "Online Professionals"
 categories:
   - "Data Ethics"
 tags:

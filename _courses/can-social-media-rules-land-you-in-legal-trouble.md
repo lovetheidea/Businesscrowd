@@ -10,12 +10,13 @@ benefits:
   - "How to watch out for pitfalls"
   - "Social Media and Email Marketing Rules"
   - "Staying professional in work and online"
-audience: "Bloggers
-Vloggers
-Freelancers
-Digital Nomads
-Social Media Influencers
-Expanding Networks"
+audience:
+  - "Bloggers"
+  - "Vloggers"
+  - "Freelancers"
+  - "Digital Nomads"
+  - "Social Media Influencers"
+  - "Expanding Networks"
 categories:
   - "Data Ethics"
 original_url: "https://academy.lovetheidea.co.uk/?post_type=courses&#038;p=98594"

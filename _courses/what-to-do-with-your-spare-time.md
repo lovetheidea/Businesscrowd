@@ -10,10 +10,11 @@ benefits:
   - "How to start expanding your networking circles"
   - "How writing can help you find more work"
   - "What platforms are available to help you get started"
-audience: "Freelancers
-Digital Nomads
-Job Seekers
-Expanding Networks"
+audience:
+  - "Freelancers"
+  - "Digital Nomads"
+  - "Job Seekers"
+  - "Expanding Networks"
 categories:
   - "Advertising"
   - "Leadership"

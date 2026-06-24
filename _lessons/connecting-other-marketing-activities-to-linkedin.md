@@ -3,6 +3,7 @@ layout: "lesson"
 title: "Connecting Other Marketing Activities to LinkedIn"
 date: "2024-05-16"
 status: "publish"
+course_slug: "want-to-build-a-massive-linkedin-network-quickly"
 original_url: "https://academy.lovetheidea.co.uk/courses//lesson/connecting-other-marketing-activities-to-linkedin/"
 ---
 

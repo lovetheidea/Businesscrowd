@@ -3,6 +3,7 @@ layout: "lesson"
 title: "Freelancer’s Guide to LinkedIn Marketing: Download Your Free Copy"
 date: "2024-05-24"
 status: "publish"
+course_slug: "want-to-build-a-massive-linkedin-network-quickly"
 original_url: "https://academy.lovetheidea.co.uk/courses/want-to-build-a-massive-linkedin-network-quickly/lesson/mastering-the-art-of-linkedin-networking-download-your-free-copy/"
 ---
 

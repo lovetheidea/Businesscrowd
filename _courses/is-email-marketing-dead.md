@@ -15,15 +15,16 @@ benefits:
   - "Master email marketing best practices"
   - "Measure and analyze campaign performance"
   - "Optimize email marketing strategy"
-audience: "Marketing Professionals
-Small Business Owners
-Entrepreneurs and Startups
-Students and Aspiring Marketers
-Content Creators and Bloggers
-E-commerce Entrepreneurs
-Social Media Managers
-Freelancers and Consultants
-Nonprofit Organizations"
+audience:
+  - "Marketing Professionals"
+  - "Small Business Owners"
+  - "Entrepreneurs and Startups"
+  - "Students and Aspiring Marketers"
+  - "Content Creators and Bloggers"
+  - "E-commerce Entrepreneurs"
+  - "Social Media Managers"
+  - "Freelancers and Consultants"
+  - "Nonprofit Organizations"
 categories:
   - "Advertising"
   - "Data Ethics"
