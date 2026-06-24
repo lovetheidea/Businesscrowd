@@ -1,423 +1,370 @@
 ---
-layout: default
-title: "Get Your Business In Front Of The Crowd"
+layout: app
+title: "BusinessCrowd — Get Your Business In Front Of The Crowd"
 ---
+<div class="bc-app">
 
-<!-- ── HERO ─────────────────────────────────────────────────────────────── -->
-<section class="bc-hero">
-  <div class="bc-hero-inner">
-    <div class="bc-hero-badge">
-      <div class="bc-hero-badge-dot"></div>
-      <span>AI-Powered · Live on Social Media</span>
+  <!-- ── SIDEBAR ─────────────────────────────────────────────────────────── -->
+  <aside class="bc-sidebar">
+    <div class="bc-sidebar-logo">
+      <a href="{{ '/' | relative_url }}" class="bc-app-logo">
+        <div class="bc-app-logo-icon">
+          <svg width="20" height="15" viewBox="0 0 22 17" fill="none" aria-hidden="true">
+            <ellipse cx="4.5" cy="13" rx="3.8" ry="3.2" fill="white" opacity="0.55"/>
+            <ellipse cx="11" cy="8.5" rx="5" ry="4.5" fill="white"/>
+            <ellipse cx="17.5" cy="13" rx="3.8" ry="3.2" fill="white" opacity="0.55"/>
+          </svg>
+        </div>
+        <div>
+          <div class="bc-app-logo-name">BusinessCrowd</div>
+          <div class="bc-app-logo-tld">.co.uk</div>
+        </div>
+      </a>
     </div>
-    <h1>Get Your Business<br>In Front Of The Crowd</h1>
-    <p class="bc-hero-sub">The AI-powered business directory. Submit your story, book a timeslot, and get published across social media — reaching thousands of UK businesses every week.</p>
-    <form class="bc-hero-form" onsubmit="return false;">
-      <input type="email" placeholder="Enter your business email" aria-label="Business email">
-      <button type="submit">Get Started →</button>
-    </form>
-    <p class="bc-hero-note">Join 2,400+ UK businesses · No credit card required</p>
-  </div>
-</section>
 
-<!-- ── STATS STRIP ───────────────────────────────────────────────────────── -->
-<section class="bc-stats">
-  <div class="bc-stats-inner">
-    <div class="bc-stat">
-      <span class="bc-stat-num">2,400+</span>
-      <span class="bc-stat-label">UK Businesses</span>
-    </div>
-    <div class="bc-stat">
-      <span class="bc-stat-num">48</span>
-      <span class="bc-stat-label">Sectors Covered</span>
-    </div>
-    <div class="bc-stat">
-      <span class="bc-stat-num">12k+</span>
-      <span class="bc-stat-label">Weekly Social Reach</span>
-    </div>
-    <div class="bc-stat">
-      <span class="bc-stat-num bc-stat-num--accent">Tue 12pm</span>
-      <span class="bc-stat-label">BusinessCrowd Hour</span>
-    </div>
-  </div>
-</section>
+    <nav class="bc-sidebar-nav">
+      <button type="button" class="bc-nav-item is-active" data-nav="overview">
+        <span class="bc-nav-icon">⊞</span>
+        <span>Overview</span>
+      </button>
+      <button type="button" class="bc-nav-item" data-nav="featured">
+        <span class="bc-nav-icon">✦</span>
+        <span>Featured</span>
+        <span class="bc-nav-badge">3</span>
+      </button>
+      <button type="button" class="bc-nav-item" data-nav="trending">
+        <span class="bc-nav-icon">↑</span>
+        <span>Trending</span>
+      </button>
+      <button type="button" class="bc-nav-item" data-nav="book">
+        <span class="bc-nav-icon">▦</span>
+        <span>Book a Slot</span>
+      </button>
+      <button type="button" class="bc-nav-item" data-nav="categories">
+        <span class="bc-nav-icon">◈</span>
+        <span>Categories</span>
+      </button>
+      <button type="button" class="bc-nav-item" data-nav="businesses">
+        <span class="bc-nav-icon">⬡</span>
+        <span>Businesses</span>
+      </button>
+      <button type="button" class="bc-nav-item" data-nav="tools">
+        <span class="bc-nav-icon">◻</span>
+        <span>Tools</span>
+      </button>
 
-<!-- ── FEATURED BUSINESSES ──────────────────────────────────────────────── -->
-<section id="featured">
-  <div class="bc-featured-inner">
-    <div class="bc-featured-header">
+      <div class="bc-sidebar-divider"></div>
+
+      <button type="button" class="bc-nav-item bc-nav-item--muted">
+        <span class="bc-nav-icon">⚙</span>
+        <span>Settings</span>
+      </button>
+    </nav>
+
+    <div class="bc-sidebar-upgrade">
+      <div class="bc-upgrade-title">Go Pro</div>
+      <div class="bc-upgrade-sub">Pick your slot &amp; unlock<br>BusinessCrowd Hour</div>
+      <a href="#" class="bc-upgrade-cta">View Plans →</a>
+    </div>
+  </aside>
+
+  <!-- ── MAIN CONTENT ─────────────────────────────────────────────────────── -->
+  <main class="bc-main">
+
+    <!-- Top bar -->
+    <div class="bc-topbar">
       <div>
-        <p class="bc-section-label">In the spotlight this week</p>
-        <h2 class="bc-section-h2">Featured Businesses</h2>
+        <h1 class="bc-topbar-title">This Week</h1>
+        <p class="bc-topbar-sub">Week of 23 June 2026</p>
       </div>
-      <a href="#">Browse all businesses →</a>
-    </div>
-
-    <!-- Hero card -->
-    <div class="bc-hero-card">
-      <div class="bc-hero-card-deco-1"></div>
-      <div class="bc-hero-card-deco-2"></div>
-      <div class="bc-hero-card-deco-3"></div>
-      <div class="bc-hero-card-logo">PP</div>
-      <div class="bc-hero-card-body">
-        <div class="bc-hero-card-meta">
-          <span class="bc-hero-card-badge">✦ This Week's Feature</span>
-          <span class="bc-hero-card-cat">Health &amp; Wellness</span>
-          <span class="bc-hero-card-week">Week 24 · 23 June 2025</span>
-        </div>
-        <h2>Peak Performance Coaching</h2>
-        <p>Transform your team's productivity with bespoke corporate coaching programmes trusted by 100+ UK companies. New cohorts starting this autumn — limited places available.</p>
-        <a href="#" class="bc-hero-card-cta">Read the story →</a>
-      </div>
-    </div>
-
-    <!-- 4 smaller cards -->
-    <div class="bc-small-cards">
-      <div class="bc-small-card" style="background:#F0FFF4;">
-        <div class="bc-small-card-logo" style="background:#059669;">TF</div>
-        <span class="bc-small-card-badge" style="color:#059669;">Technology</span>
-        <h3>TechFlow Solutions</h3>
-        <p>Cloud integration for 500+ UK clients.</p>
-        <a href="#" class="bc-small-card-cta" style="color:#059669;">Read post →</a>
-      </div>
-      <div class="bc-small-card" style="background:#F5F0FF;">
-        <div class="bc-small-card-logo" style="background:#7C3AED;">GL</div>
-        <span class="bc-small-card-badge" style="color:#7C3AED;">Food &amp; Hospitality</span>
-        <h3>Green Leaf Catering</h3>
-        <p>Sustainable corporate catering, UK-wide.</p>
-        <a href="#" class="bc-small-card-cta" style="color:#7C3AED;">Read post →</a>
-      </div>
-      <div class="bc-small-card" style="background:#FFF7ED;">
-        <div class="bc-small-card-logo" style="background:#EA580C;">NM</div>
-        <span class="bc-small-card-badge" style="color:#EA580C;">Marketing &amp; PR</span>
-        <h3>Northstar Marketing</h3>
-        <p>240% B2B growth — new case study live.</p>
-        <a href="#" class="bc-small-card-cta" style="color:#EA580C;">Read post →</a>
-      </div>
-      <div class="bc-small-card" style="background:#F0F9FF;">
-        <div class="bc-small-card-logo" style="background:#0284C7;">AL</div>
-        <span class="bc-small-card-badge" style="color:#0284C7;">Legal &amp; Professional</span>
-        <h3>Apex Legal Partners</h3>
-        <p>Commercial law for growing businesses.</p>
-        <a href="#" class="bc-small-card-cta" style="color:#0284C7;">Read post →</a>
-      </div>
-    </div>
-
-    <!-- Older features link list -->
-    <div class="bc-featured-links">
-      <a href="#" class="bc-featured-link">
-        <div class="bc-featured-link-left">
-          <div class="bc-featured-link-dot" style="background:#4C6EF5;"></div>
-          <span class="bc-featured-link-week">Wk 23</span>
-          <span class="bc-featured-link-name">Bright Spark Digital</span>
-          <span class="bc-featured-link-cat">Digital Marketing</span>
-        </div>
-        <span class="bc-featured-link-arrow">→</span>
-      </a>
-      <a href="#" class="bc-featured-link">
-        <div class="bc-featured-link-left">
-          <div class="bc-featured-link-dot" style="background:#7C3AED;"></div>
-          <span class="bc-featured-link-week">Wk 22</span>
-          <span class="bc-featured-link-name">Northern Property Group</span>
-          <span class="bc-featured-link-cat">Property</span>
-        </div>
-        <span class="bc-featured-link-arrow">→</span>
-      </a>
-      <a href="#" class="bc-featured-link">
-        <div class="bc-featured-link-left">
-          <div class="bc-featured-link-dot" style="background:#059669;"></div>
-          <span class="bc-featured-link-week">Wk 21</span>
-          <span class="bc-featured-link-name">EcoVault Finance</span>
-          <span class="bc-featured-link-cat">Finance</span>
-        </div>
-        <span class="bc-featured-link-arrow">→</span>
-      </a>
-      <a href="#" class="bc-featured-link">
-        <div class="bc-featured-link-left">
-          <div class="bc-featured-link-dot" style="background:#EA580C;"></div>
-          <span class="bc-featured-link-week">Wk 20</span>
-          <span class="bc-featured-link-name">Studio Bluebell</span>
-          <span class="bc-featured-link-cat">Creative &amp; Design</span>
-        </div>
-        <span class="bc-featured-link-arrow">→</span>
-      </a>
-      <div class="bc-featured-links-end"></div>
-    </div>
-  </div>
-</section>
-
-<!-- ── JOIN THE CROWD CTA ────────────────────────────────────────────────── -->
-<section class="bc-join">
-  <div class="bc-join-inner">
-    <p class="bc-join-label">For UK businesses</p>
-    <h2>Built for Business?<br>Why not join the Crowd.</h2>
-    <p>An AI-powered directory that publishes your stories to thousands of UK businesses — on social media, every single week.</p>
-    <div class="bc-join-btns">
-      <a href="#" class="bc-join-primary">Join for Free →</a>
-      <a href="#book-slot" class="bc-join-secondary">View Plans</a>
-    </div>
-  </div>
-</section>
-
-<!-- ── TIMESLOT BOOKING ──────────────────────────────────────────────────── -->
-<section id="book-slot">
-  <div class="bc-booking-inner">
-    <p class="bc-section-label">Reserve your moment</p>
-    <h2 class="bc-section-h2">Book a Timeslot</h2>
-    <p class="bc-booking-sub">Free accounts let our AI do the work. Pro accounts unlock the full calendar and the coveted BusinessCrowd Hour.</p>
-
-    <!-- Free vs Pro -->
-    <div class="bc-plans">
-      <div class="bc-plan">
-        <div class="bc-plan-tier">Free Account</div>
-        <h3>We assign your slot</h3>
-        <p>Each week our AI picks the most impactful available slot for your content type and audience — no effort needed.</p>
-        <ul class="bc-plan-features">
-          <li class="bc-plan-feature"><div class="bc-plan-feature-dot" style="background:#9CA3AF;"></div><span>Auto-assigned every Monday</span></li>
-          <li class="bc-plan-feature"><div class="bc-plan-feature-dot" style="background:#9CA3AF;"></div><span>Standard social media promotion</span></li>
-          <li class="bc-plan-feature"><div class="bc-plan-feature-dot" style="background:#9CA3AF;"></div><span>Business directory listing</span></li>
-          <li class="bc-plan-feature"><div class="bc-plan-feature-dot" style="background:#9CA3AF;"></div><span>Basic profile analytics</span></li>
-        </ul>
-        <a href="#" class="bc-plan-link">Start for free →</a>
-      </div>
-      <div class="bc-plan bc-plan--pro">
-        <span class="bc-plan-popular">Most Popular</span>
-        <div class="bc-plan-tier">Pro Account</div>
-        <h3>You choose your moment</h3>
-        <p>Pick exactly when you go live from our full calendar — including the prized <strong>BusinessCrowd Hour</strong> every Tuesday at 12pm.</p>
-        <ul class="bc-plan-features">
-          <li class="bc-plan-feature"><div class="bc-plan-feature-dot" style="background:#4C6EF5;"></div><span>Full slot calendar access</span></li>
-          <li class="bc-plan-feature"><div class="bc-plan-feature-dot" style="background:#4C6EF5;"></div><span>BusinessCrowd Hour (Tue 12pm)</span></li>
-          <li class="bc-plan-feature"><div class="bc-plan-feature-dot" style="background:#4C6EF5;"></div><span>Priority social placement</span></li>
-          <li class="bc-plan-feature"><div class="bc-plan-feature-dot" style="background:#4C6EF5;"></div><span>Advanced analytics dashboard</span></li>
-          <li class="bc-plan-feature"><div class="bc-plan-feature-dot" style="background:#4C6EF5;"></div><span>Multiple posts per week</span></li>
-        </ul>
-        <a href="#" class="bc-plan-cta">Upgrade to Pro →</a>
-      </div>
-    </div>
-
-    <!-- Free slot preview -->
-    <div class="bc-free-slot">
-      <div class="bc-free-slot-icon">
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-          <circle cx="12" cy="12" r="10" stroke="#4C6EF5" stroke-width="1.5"/>
-          <path d="M8 12.5l2.5 2.5 5-5" stroke="#4C6EF5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
-        </svg>
-      </div>
-      <div class="bc-free-slot-body">
-        <div class="bc-free-slot-label">Free Account — Your Slot This Week</div>
-        <div class="bc-free-slot-time">Wednesday · 2pm – 3pm</div>
-        <div class="bc-free-slot-note">Auto-assigned by AI · Optimised for your sector and audience · Published to all channels</div>
-      </div>
-      <a href="#" class="bc-free-slot-cta">Submit your content →</a>
-    </div>
-
-    <!-- Pro slot picker -->
-    <p class="bc-pro-label">Pro accounts — pick your slot below:</p>
-
-    <div class="bc-day-tabs">
-      <button type="button" class="bc-day-tab">Mon</button>
-      <button type="button" class="bc-day-tab">Tue</button>
-      <button type="button" class="bc-day-tab">Wed</button>
-      <button type="button" class="bc-day-tab">Thu</button>
-      <button type="button" class="bc-day-tab">Fri</button>
-    </div>
-
-    <p class="bc-slots-label">Slots for <strong id="bc-selected-day">Monday</strong></p>
-    <div class="bc-slots" id="bc-slots"></div>
-
-    <div class="bc-bc-hour-note">
-      <div class="bc-bc-hour-dot"></div>
-      <p><strong>BusinessCrowd Hour:</strong> Every Tuesday at 12pm — our most-watched slot, simultaneously promoted across all social channels. Available to Pro accounts only.</p>
-    </div>
-  </div>
-</section>
-
-<!-- ── HOW IT WORKS ──────────────────────────────────────────────────────── -->
-<section id="how-it-works">
-  <div class="bc-hiw-inner">
-    <p class="bc-section-label">Simple by design</p>
-    <div class="bc-hiw-header">
-      <h2 class="bc-section-h2">How It Works</h2>
-      <p>Three steps. No fuss.</p>
-    </div>
-
-    <div class="bc-steps">
-      <div class="bc-step">
-        <div class="bc-step-num bc-step-num--01">01</div>
-        <div class="bc-step-icon bc-step-icon--01">
-          <svg width="26" height="26" viewBox="0 0 26 26" fill="none" aria-hidden="true">
-            <rect x="4" y="2" width="15" height="20" rx="2" fill="#EEF2FF" stroke="#4C6EF5" stroke-width="1.5"/>
-            <line x1="7" y1="9"  x2="16" y2="9"  stroke="#4C6EF5" stroke-width="1.5" stroke-linecap="round"/>
-            <line x1="7" y1="13" x2="16" y2="13" stroke="#4C6EF5" stroke-width="1.5" stroke-linecap="round"/>
-            <line x1="7" y1="17" x2="12" y2="17" stroke="#4C6EF5" stroke-width="1.5" stroke-linecap="round"/>
-            <circle cx="21" cy="21" r="4" fill="#4C6EF5"/>
-            <line x1="19.5" y1="21" x2="22.5" y2="21" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
-            <line x1="21" y1="19.5" x2="21" y2="22.5" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+      <div class="bc-topbar-right">
+        <div class="bc-search">
+          <svg width="14" height="14" viewBox="0 0 15 15" fill="none" aria-hidden="true">
+            <circle cx="6.5" cy="6.5" r="5" stroke="#9CA3AF" stroke-width="1.5"/>
+            <line x1="10.5" y1="10.5" x2="13.5" y2="13.5" stroke="#9CA3AF" stroke-width="1.5" stroke-linecap="round"/>
           </svg>
+          <input type="text" placeholder="Search businesses…" aria-label="Search businesses">
         </div>
-        <h3>Submit Your Story</h3>
-        <p>Write up your news, product launch, or update. Our AI formats it for maximum social impact.</p>
-      </div>
-      <div class="bc-step-arrow" aria-hidden="true">→</div>
-      <div class="bc-step">
-        <div class="bc-step-num bc-step-num--02">02</div>
-        <div class="bc-step-icon bc-step-icon--02">
-          <svg width="26" height="26" viewBox="0 0 26 26" fill="none" aria-hidden="true">
-            <rect x="2" y="6" width="22" height="18" rx="3" fill="#F0FFF4" stroke="#059669" stroke-width="1.5"/>
-            <line x1="2" y1="11" x2="24" y2="11" stroke="#059669" stroke-width="1.5"/>
-            <line x1="8" y1="2" x2="8" y2="8" stroke="#059669" stroke-width="2" stroke-linecap="round"/>
-            <line x1="18" y1="2" x2="18" y2="8" stroke="#059669" stroke-width="2" stroke-linecap="round"/>
-            <circle cx="8" cy="17" r="1.5" fill="#059669"/>
-            <circle cx="13" cy="17" r="1.5" fill="#059669"/>
-            <circle cx="18" cy="17" r="1.5" fill="#059669" opacity="0.35"/>
+        <button class="bc-topbar-btn" aria-label="Notifications">
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+            <path d="M8 2C5.79 2 4 3.79 4 6v3l-1.5 2h11L12 9V6c0-2.21-1.79-4-4-4z" stroke="#374151" stroke-width="1.4" fill="none"/>
+            <path d="M6.5 13a1.5 1.5 0 003 0" stroke="#374151" stroke-width="1.4" stroke-linecap="round"/>
           </svg>
-        </div>
-        <h3>Get Your Slot</h3>
-        <p><strong>Free:</strong> AI auto-assigns your best slot. <strong>Pro:</strong> Pick any slot on the calendar, including BusinessCrowd Hour.</p>
-      </div>
-      <div class="bc-step-arrow" aria-hidden="true">→</div>
-      <div class="bc-step">
-        <div class="bc-step-num bc-step-num--03">03</div>
-        <div class="bc-step-icon bc-step-icon--03">
-          <svg width="26" height="26" viewBox="0 0 26 26" fill="none" aria-hidden="true">
-            <ellipse cx="6"  cy="18" rx="4.5" ry="4" fill="#F5F0FF" stroke="#7C3AED" stroke-width="1.5"/>
-            <ellipse cx="13" cy="14" rx="5.5" ry="5" fill="#F5F0FF" stroke="#7C3AED" stroke-width="1.5"/>
-            <ellipse cx="20" cy="18" rx="4.5" ry="4" fill="#F5F0FF" stroke="#7C3AED" stroke-width="1.5"/>
-          </svg>
-        </div>
-        <h3>Reach the Crowd</h3>
-        <p>Your story goes live across our social channels, reaching thousands of UK businesses in real time.</p>
+          <div class="bc-notif-dot"></div>
+        </button>
+        <div class="bc-avatar" aria-label="Account">JD</div>
       </div>
     </div>
-  </div>
-</section>
 
-<!-- ── CATEGORIES + TOOLS ────────────────────────────────────────────────── -->
-<section id="categories">
-  <div class="bc-cats-inner">
-    <div class="bc-cats-layout">
+    <!-- Scrollable feed -->
+    <div class="bc-feed">
+
+      <!-- Hero feature card -->
+      <div class="bc-feed-hero">
+        <div class="bc-feed-hero-deco-1"></div>
+        <div class="bc-feed-hero-deco-2"></div>
+        <div class="bc-feed-hero-logo">PP</div>
+        <div class="bc-feed-hero-body">
+          <div class="bc-feed-hero-meta">
+            <span class="bc-feed-hero-badge">✦ Featured this week</span>
+            <span class="bc-feed-hero-cat">Health &amp; Wellness</span>
+          </div>
+          <h2 class="bc-feed-hero-title">Peak Performance Coaching</h2>
+          <p class="bc-feed-hero-desc">Bespoke corporate coaching trusted by 100+ UK companies. New autumn cohorts open — limited places available.</p>
+          <div class="bc-feed-hero-actions">
+            <a href="#" class="bc-feed-hero-cta">Read the story →</a>
+            <span class="bc-feed-hero-slot">Booked: Tue 12pm · BusinessCrowd Hour</span>
+          </div>
+        </div>
+      </div>
 
       <!-- Categories -->
-      <div class="bc-cats-col">
-        <p class="bc-section-label">Find your sector</p>
-        <h2>Explore by Category</h2>
-        <p>Browse UK businesses and the latest news across every industry and sector.</p>
-        <div class="bc-cats-grid">
-          <div class="bc-cat-card" style="background:#EEF2FF;">
-            <div class="bc-cat-code" style="background:#4C6EF5;">FI</div>
-            <div class="bc-cat-name">Finance &amp; Banking</div>
-            <div class="bc-cat-count">124 businesses</div>
-          </div>
-          <div class="bc-cat-card" style="background:#FFF7ED;">
-            <div class="bc-cat-code" style="background:#EA580C;">MK</div>
-            <div class="bc-cat-name">Marketing &amp; PR</div>
-            <div class="bc-cat-count">98 businesses</div>
-          </div>
-          <div class="bc-cat-card" style="background:#F0FFF4;">
-            <div class="bc-cat-code" style="background:#059669;">TC</div>
-            <div class="bc-cat-name">Technology</div>
-            <div class="bc-cat-count">156 businesses</div>
-          </div>
-          <div class="bc-cat-card" style="background:#FFF0F6;">
-            <div class="bc-cat-code" style="background:#DB2777;">HC</div>
-            <div class="bc-cat-name">Healthcare</div>
-            <div class="bc-cat-count">67 businesses</div>
-          </div>
-          <div class="bc-cat-card" style="background:#F5F0FF;">
-            <div class="bc-cat-code" style="background:#7C3AED;">PR</div>
-            <div class="bc-cat-name">Property</div>
-            <div class="bc-cat-count">112 businesses</div>
-          </div>
-          <div class="bc-cat-card" style="background:#FFFBEB;">
-            <div class="bc-cat-code" style="background:#D97706;">RE</div>
-            <div class="bc-cat-name">Retail</div>
-            <div class="bc-cat-count">89 businesses</div>
-          </div>
-          <div class="bc-cat-card" style="background:#F0F9FF;">
-            <div class="bc-cat-code" style="background:#0284C7;">LP</div>
-            <div class="bc-cat-name">Legal</div>
-            <div class="bc-cat-count">54 businesses</div>
-          </div>
-          <div class="bc-cat-card" style="background:#FAF5FF;">
-            <div class="bc-cat-code" style="background:#9333EA;">CD</div>
-            <div class="bc-cat-name">Creative</div>
-            <div class="bc-cat-count">73 businesses</div>
-          </div>
+      <div class="bc-section-header">
+        <span class="bc-section-title">Browse Categories</span>
+        <a href="#" class="bc-section-link">Show all</a>
+      </div>
+      <div class="bc-cat-chips">
+        <div class="bc-cat-chip" style="background:#EEF2FF;">
+          <div class="bc-cat-chip-dot" style="background:#4C6EF5;"></div>
+          <span class="bc-cat-chip-name">Finance</span>
+          <span class="bc-cat-chip-count">124</span>
         </div>
-        <a href="#" class="bc-browse-link">Browse all categories →</a>
+        <div class="bc-cat-chip" style="background:#F0FFF4;">
+          <div class="bc-cat-chip-dot" style="background:#059669;"></div>
+          <span class="bc-cat-chip-name">Technology</span>
+          <span class="bc-cat-chip-count">156</span>
+        </div>
+        <div class="bc-cat-chip" style="background:#FFF7ED;">
+          <div class="bc-cat-chip-dot" style="background:#EA580C;"></div>
+          <span class="bc-cat-chip-name">Marketing</span>
+          <span class="bc-cat-chip-count">98</span>
+        </div>
+        <div class="bc-cat-chip" style="background:#F5F0FF;">
+          <div class="bc-cat-chip-dot" style="background:#7C3AED;"></div>
+          <span class="bc-cat-chip-name">Property</span>
+          <span class="bc-cat-chip-count">112</span>
+        </div>
+        <div class="bc-cat-chip" style="background:#F0F9FF;">
+          <div class="bc-cat-chip-dot" style="background:#0284C7;"></div>
+          <span class="bc-cat-chip-name">Legal</span>
+          <span class="bc-cat-chip-count">54</span>
+        </div>
+        <div class="bc-cat-chip" style="background:#FFFBEB;">
+          <div class="bc-cat-chip-dot" style="background:#D97706;"></div>
+          <span class="bc-cat-chip-name">Retail</span>
+          <span class="bc-cat-chip-count">89</span>
+        </div>
+        <div class="bc-cat-chip" style="background:#FAF5FF;">
+          <div class="bc-cat-chip-dot" style="background:#9333EA;"></div>
+          <span class="bc-cat-chip-name">Creative</span>
+          <span class="bc-cat-chip-count">73</span>
+        </div>
       </div>
 
-      <!-- Tools -->
-      <div class="bc-tools-col">
-        <p class="bc-section-label" style="color:#059669;">Built for business</p>
-        <h2>Handy Tools</h2>
-        <p>Everything you need to manage your BusinessCrowd presence in one place.</p>
-        <div class="bc-tools-list">
-          <a href="#" class="bc-tool">
-            <div class="bc-tool-icon" style="background:#EEF2FF;color:#4C6EF5;">
-              <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/><circle cx="8" cy="8" r="3" fill="currentColor"/></svg>
-            </div>
-            <div class="bc-tool-body">
-              <div class="bc-tool-name">Slot Availability Checker</div>
-              <div class="bc-tool-desc">See open timeslots at a glance</div>
-            </div>
-            <span class="bc-tool-arrow">→</span>
-          </a>
-          <a href="#" class="bc-tool">
-            <div class="bc-tool-icon" style="background:#F0FFF4;color:#059669;">
-              <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/><circle cx="8" cy="8" r="3" fill="currentColor"/></svg>
-            </div>
-            <div class="bc-tool-body">
-              <div class="bc-tool-name">Content Calendar</div>
-              <div class="bc-tool-desc">Plan and schedule posts in advance</div>
-            </div>
-            <span class="bc-tool-arrow">→</span>
-          </a>
-          <a href="#" class="bc-tool">
-            <div class="bc-tool-icon" style="background:#F5F0FF;color:#7C3AED;">
-              <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/><circle cx="8" cy="8" r="3" fill="currentColor"/></svg>
-            </div>
-            <div class="bc-tool-body">
-              <div class="bc-tool-name">Business Profile Builder</div>
-              <div class="bc-tool-desc">Create a profile that makes you stand out</div>
-            </div>
-            <span class="bc-tool-arrow">→</span>
-          </a>
-          <a href="#" class="bc-tool">
-            <div class="bc-tool-icon" style="background:#FFF7ED;color:#EA580C;">
-              <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/><circle cx="8" cy="8" r="3" fill="currentColor"/></svg>
-            </div>
-            <div class="bc-tool-body">
-              <div class="bc-tool-name">Audience Insights</div>
-              <div class="bc-tool-desc">See who's engaging with your content</div>
-            </div>
-            <span class="bc-tool-arrow">→</span>
-          </a>
-          <a href="#" class="bc-tool">
-            <div class="bc-tool-icon" style="background:#F0F9FF;color:#0284C7;">
-              <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/><circle cx="8" cy="8" r="3" fill="currentColor"/></svg>
-            </div>
-            <div class="bc-tool-body">
-              <div class="bc-tool-name">Post Performance Tracker</div>
-              <div class="bc-tool-desc">Track views, clicks and shares in real time</div>
-            </div>
-            <span class="bc-tool-arrow">→</span>
-          </a>
-          <a href="#" class="bc-tool">
-            <div class="bc-tool-icon" style="background:#FFFBEB;color:#D97706;">
-              <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/><circle cx="8" cy="8" r="3" fill="currentColor"/></svg>
-            </div>
-            <div class="bc-tool-body">
-              <div class="bc-tool-name">Partner Directory</div>
-              <div class="bc-tool-desc">Connect with complementary UK businesses</div>
-            </div>
-            <span class="bc-tool-arrow">→</span>
-          </a>
+      <!-- Featured businesses grid -->
+      <div class="bc-section-header">
+        <span class="bc-section-title">Featured Businesses</span>
+        <a href="#" class="bc-section-link">Show all</a>
+      </div>
+      <div class="bc-biz-grid">
+        <div class="bc-biz-card" style="background:#F0FFF4;">
+          <div class="bc-biz-card-top">
+            <div class="bc-biz-logo" style="background:#059669;">TF</div>
+            <span class="bc-biz-badge" style="color:#059669;">Technology</span>
+          </div>
+          <h3 class="bc-biz-name">TechFlow Solutions</h3>
+          <p class="bc-biz-snippet">Cloud integration for 500+ UK clients. Reshaping mid-market IT.</p>
+          <a href="#" class="bc-biz-cta" style="color:#059669;">Read post →</a>
         </div>
-        <a href="#" class="bc-browse-link">Explore all tools →</a>
+        <div class="bc-biz-card" style="background:#F5F0FF;">
+          <div class="bc-biz-card-top">
+            <div class="bc-biz-logo" style="background:#7C3AED;">GL</div>
+            <span class="bc-biz-badge" style="color:#7C3AED;">Hospitality</span>
+          </div>
+          <h3 class="bc-biz-name">Green Leaf Catering</h3>
+          <p class="bc-biz-snippet">Sustainable corporate catering across the UK. Autumn menu now live.</p>
+          <a href="#" class="bc-biz-cta" style="color:#7C3AED;">Read post →</a>
+        </div>
+        <div class="bc-biz-card" style="background:#FFF7ED;">
+          <div class="bc-biz-card-top">
+            <div class="bc-biz-logo" style="background:#EA580C;">NM</div>
+            <span class="bc-biz-badge" style="color:#EA580C;">Marketing</span>
+          </div>
+          <h3 class="bc-biz-name">Northstar Marketing</h3>
+          <p class="bc-biz-snippet">Case study: 240% B2B growth in 12 months through content strategy.</p>
+          <a href="#" class="bc-biz-cta" style="color:#EA580C;">Read post →</a>
+        </div>
+        <div class="bc-biz-card" style="background:#F0F9FF;">
+          <div class="bc-biz-card-top">
+            <div class="bc-biz-logo" style="background:#0284C7;">AL</div>
+            <span class="bc-biz-badge" style="color:#0284C7;">Legal</span>
+          </div>
+          <h3 class="bc-biz-name">Apex Legal Partners</h3>
+          <p class="bc-biz-snippet">Commercial law for growth-stage businesses. Free initial consultation.</p>
+          <a href="#" class="bc-biz-cta" style="color:#0284C7;">Read post →</a>
+        </div>
       </div>
 
+      <!-- Previous weeks -->
+      <div class="bc-prev-weeks">
+        <div class="bc-prev-weeks-header">Previous Weeks</div>
+        <a href="#" class="bc-prev-link">
+          <div class="bc-prev-link-left">
+            <div class="bc-prev-dot" style="background:#4C6EF5;"></div>
+            <span class="bc-prev-name">Bright Spark Digital</span>
+          </div>
+          <div class="bc-prev-link-right">
+            <span class="bc-prev-cat">Digital Marketing</span>
+            <span class="bc-prev-arrow">→</span>
+          </div>
+        </a>
+        <a href="#" class="bc-prev-link">
+          <div class="bc-prev-link-left">
+            <div class="bc-prev-dot" style="background:#7C3AED;"></div>
+            <span class="bc-prev-name">Northern Property Group</span>
+          </div>
+          <div class="bc-prev-link-right">
+            <span class="bc-prev-cat">Property</span>
+            <span class="bc-prev-arrow">→</span>
+          </div>
+        </a>
+        <a href="#" class="bc-prev-link">
+          <div class="bc-prev-link-left">
+            <div class="bc-prev-dot" style="background:#059669;"></div>
+            <span class="bc-prev-name">EcoVault Finance</span>
+          </div>
+          <div class="bc-prev-link-right">
+            <span class="bc-prev-cat">Finance</span>
+            <span class="bc-prev-arrow">→</span>
+          </div>
+        </a>
+        <a href="#" class="bc-prev-link">
+          <div class="bc-prev-link-left">
+            <div class="bc-prev-dot" style="background:#9333EA;"></div>
+            <span class="bc-prev-name">Studio Bluebell</span>
+          </div>
+          <div class="bc-prev-link-right">
+            <span class="bc-prev-cat">Creative &amp; Design</span>
+            <span class="bc-prev-arrow">→</span>
+          </div>
+        </a>
+      </div>
+
+    </div><!-- /bc-feed -->
+  </main>
+
+  <!-- ── RIGHT PANEL ───────────────────────────────────────────────────────── -->
+  <aside class="bc-right-panel">
+
+    <!-- Trending -->
+    <div class="bc-panel-section">
+      <div class="bc-panel-header">
+        <span class="bc-panel-title">Trending Now</span>
+        <a href="#" class="bc-section-link">Show all</a>
+      </div>
+      <div class="bc-trending-list">
+        <div class="bc-trending-item">
+          <div class="bc-trending-logo" style="background:#EEF2FF;color:#4C6EF5;">VA</div>
+          <div class="bc-trending-body">
+            <div class="bc-trending-name">Vertex Analytics</div>
+            <div class="bc-trending-cat">Technology</div>
+          </div>
+          <a href="#" class="bc-trending-btn">View</a>
+        </div>
+        <div class="bc-trending-item">
+          <div class="bc-trending-logo" style="background:#F5F0FF;color:#7C3AED;">MS</div>
+          <div class="bc-trending-body">
+            <div class="bc-trending-name">Marble &amp; Stone Co</div>
+            <div class="bc-trending-cat">Property</div>
+          </div>
+          <a href="#" class="bc-trending-btn">View</a>
+        </div>
+        <div class="bc-trending-item">
+          <div class="bc-trending-logo" style="background:#FFF7ED;color:#EA580C;">WF</div>
+          <div class="bc-trending-body">
+            <div class="bc-trending-name">Wildfire PR</div>
+            <div class="bc-trending-cat">Marketing</div>
+          </div>
+          <a href="#" class="bc-trending-btn">View</a>
+        </div>
+        <div class="bc-trending-item">
+          <div class="bc-trending-logo" style="background:#F0F9FF;color:#0284C7;">HL</div>
+          <div class="bc-trending-body">
+            <div class="bc-trending-name">Harbour Legal</div>
+            <div class="bc-trending-cat">Legal</div>
+          </div>
+          <a href="#" class="bc-trending-btn">View</a>
+        </div>
+        <div class="bc-trending-item">
+          <div class="bc-trending-logo" style="background:#F0FFF4;color:#059669;">BH</div>
+          <div class="bc-trending-body">
+            <div class="bc-trending-name">Bloom Health Studio</div>
+            <div class="bc-trending-cat">Wellness</div>
+          </div>
+          <a href="#" class="bc-trending-btn">View</a>
+        </div>
+      </div>
     </div>
-  </div>
-</section>
+
+    <!-- BC Hour promo -->
+    <div class="bc-hour-promo">
+      <div class="bc-hour-promo-live">
+        <div class="bc-hour-pulse"></div>
+        <span>Every Tuesday · 12pm</span>
+      </div>
+      <div class="bc-hour-promo-title">BusinessCrowd Hour</div>
+      <div class="bc-hour-promo-desc">Peak-reach slot. All channels simultaneously. Pro accounts only.</div>
+      <a href="#" class="bc-hour-promo-cta">Book this slot →</a>
+    </div>
+
+    <!-- Available slots -->
+    <div class="bc-panel-section">
+      <div class="bc-panel-header">
+        <span class="bc-panel-title">Available Slots</span>
+        <a href="#" class="bc-section-link">Full calendar</a>
+      </div>
+      <div class="bc-slots-list">
+        <div class="bc-slot-row">
+          <div class="bc-slot-row-body">
+            <div class="bc-slot-row-time">Mon 24 · 10am</div>
+            <div class="bc-slot-row-type">Standard · Free &amp; Pro</div>
+          </div>
+          <a href="#" class="bc-slot-btn bc-slot-btn--book">Book</a>
+        </div>
+        <div class="bc-slot-row bc-slot-row--pro">
+          <div class="bc-slot-row-body">
+            <div class="bc-slot-row-time">Tue 25 · 12pm</div>
+            <div class="bc-slot-row-type">BusinessCrowd Hour · Pro</div>
+          </div>
+          <a href="#" class="bc-slot-btn bc-slot-btn--pro">Pro only</a>
+        </div>
+        <div class="bc-slot-row">
+          <div class="bc-slot-row-body">
+            <div class="bc-slot-row-time">Wed 26 · 2pm</div>
+            <div class="bc-slot-row-type">Standard · Free &amp; Pro</div>
+          </div>
+          <a href="#" class="bc-slot-btn bc-slot-btn--book">Book</a>
+        </div>
+        <div class="bc-slot-row">
+          <div class="bc-slot-row-body">
+            <div class="bc-slot-row-time">Thu 27 · 11am</div>
+            <div class="bc-slot-row-type">Standard · Free &amp; Pro</div>
+          </div>
+          <a href="#" class="bc-slot-btn bc-slot-btn--book">Book</a>
+        </div>
+      </div>
+      <div class="bc-free-note">
+        <strong>Free account?</strong> Our AI auto-assigns you the best available slot each week. <a href="#">Learn more →</a>
+      </div>
+    </div>
+
+    <!-- Join CTA -->
+    <div class="bc-join-card">
+      <div class="bc-join-card-title">Built for Business?</div>
+      <div class="bc-join-card-desc">Why not join the Crowd — it's free to get started.</div>
+      <a href="#" class="bc-join-card-cta">Join for Free →</a>
+    </div>
+
+  </aside>
+
+</div><!-- /bc-app -->
