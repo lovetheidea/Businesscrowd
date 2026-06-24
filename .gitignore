@@ -69,3 +69,4 @@ pm2.json
 settings.json
 build.sh
 _site/
+Gemfile.lock
