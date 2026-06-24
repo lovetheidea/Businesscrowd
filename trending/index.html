@@ -1,0 +1,36 @@
+---
+layout: app
+title: "Trending — BusinessCrowd"
+permalink: /trending/
+---
+<div class="bc-app">
+  {% include bc-sidebar.html %}
+  <main class="bc-main">
+    <div class="bc-topbar">
+      <div>
+        <h1 class="bc-topbar-title">Trending</h1>
+        <p class="bc-topbar-sub">Most viewed businesses this week</p>
+      </div>
+      {% include bc-topbar-right.html %}
+    </div>
+    <div class="bc-feed">
+      <div class="bc-section-header">
+        <span class="bc-section-title">Top This Week</span>
+      </div>
+      <div class="bc-trending-list" style="max-width:600px;">
+        {% assign trending = "Vertex Analytics,Technology,#EEF2FF,#4C6EF5,VA|Marble & Stone Co,Property,#F5F0FF,#7C3AED,MS|Wildfire PR,Marketing,#FFF7ED,#EA580C,WF|Harbour Legal,Legal,#F0F9FF,#0284C7,HL|Bloom Health Studio,Wellness,#F0FFF4,#059669,BH|Bright Spark Digital,Digital Marketing,#FFFBEB,#D97706,BS|Northern Property Group,Property,#F5F0FF,#7C3AED,NP" | split: "|" %}
+        {% for item in trending %}
+        {% assign parts = item | split: "," %}
+        <div class="bc-trending-item" style="padding:14px 0;border-bottom:1px solid #F3F4F6;">
+          <div class="bc-trending-logo" style="background:{{ parts[2] }};color:{{ parts[3] }};width:42px;height:42px;font-size:13px;">{{ parts[4] }}</div>
+          <div class="bc-trending-body">
+            <div class="bc-trending-name">{{ parts[0] }}</div>
+            <div class="bc-trending-cat">{{ parts[1] }}</div>
+          </div>
+          <a href="#" class="bc-trending-btn">View →</a>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </main>
+</div>

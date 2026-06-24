@@ -1,0 +1,85 @@
+---
+layout: app
+title: "Settings — BusinessCrowd"
+permalink: /settings/
+---
+<div class="bc-app">
+  {% include bc-sidebar.html %}
+  <main class="bc-main">
+    <div class="bc-topbar">
+      <div>
+        <h1 class="bc-topbar-title">Settings</h1>
+        <p class="bc-topbar-sub">Account and notification preferences</p>
+      </div>
+      {% include bc-topbar-right.html %}
+    </div>
+    <div class="bc-feed">
+      <div class="bc-section-header">
+        <span class="bc-section-title">Notifications</span>
+      </div>
+      <div class="bc-settings-list">
+        <div class="bc-setting-row">
+          <div class="bc-setting-body">
+            <div class="bc-setting-name">Weekly slot reminder</div>
+            <div class="bc-setting-desc">Email when your slot goes live each week</div>
+          </div>
+          <label class="bc-toggle"><input type="checkbox" checked><span class="bc-toggle-slider"></span></label>
+        </div>
+        <div class="bc-setting-row">
+          <div class="bc-setting-body">
+            <div class="bc-setting-name">New businesses in my category</div>
+            <div class="bc-setting-desc">Digest of new members in your industry</div>
+          </div>
+          <label class="bc-toggle"><input type="checkbox"><span class="bc-toggle-slider"></span></label>
+        </div>
+        <div class="bc-setting-row">
+          <div class="bc-setting-body">
+            <div class="bc-setting-name">BusinessCrowd Hour alerts</div>
+            <div class="bc-setting-desc">Notify 30 min before every Tuesday 12pm slot</div>
+          </div>
+          <label class="bc-toggle"><input type="checkbox" checked><span class="bc-toggle-slider"></span></label>
+        </div>
+        <div class="bc-setting-row">
+          <div class="bc-setting-body">
+            <div class="bc-setting-name">Product updates &amp; news</div>
+            <div class="bc-setting-desc">Occasional platform announcements</div>
+          </div>
+          <label class="bc-toggle"><input type="checkbox"><span class="bc-toggle-slider"></span></label>
+        </div>
+      </div>
+
+      <div class="bc-section-header" style="margin-top:28px;">
+        <span class="bc-section-title">Account</span>
+      </div>
+      <div class="bc-settings-list">
+        <div class="bc-setting-row">
+          <div class="bc-setting-body">
+            <div class="bc-setting-name">Edit profile &amp; business details</div>
+            <div class="bc-setting-desc">Update name, email, business info</div>
+          </div>
+          <a href="/profile/" class="bc-tool-link">Go →</a>
+        </div>
+        <div class="bc-setting-row">
+          <div class="bc-setting-body">
+            <div class="bc-setting-name">Upgrade to Pro</div>
+            <div class="bc-setting-desc">Unlock slot picking and BusinessCrowd Hour</div>
+          </div>
+          <a href="/signup/" class="bc-tool-link">View plans →</a>
+        </div>
+        <div class="bc-setting-row">
+          <div class="bc-setting-body">
+            <div class="bc-setting-name">Sign out</div>
+            <div class="bc-setting-desc">Sign out of this device</div>
+          </div>
+          <button class="bc-tool-link" id="bc-settings-logout" style="background:none;border:none;cursor:pointer;font-family:inherit;">Sign out</button>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+<script>
+document.getElementById('bc-settings-logout').addEventListener('click', async function() {
+  await fetch('/api/logout', { method: 'POST' });
+  window.location.href = '/';
+});
+</script>

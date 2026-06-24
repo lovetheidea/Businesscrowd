@@ -1,0 +1,124 @@
+---
+layout: app
+title: "Join BusinessCrowd — Free Sign Up"
+permalink: /signup/
+---
+<div class="bc-auth-page">
+  <div class="bc-auth-brand">
+    <a href="/" class="bc-app-logo bc-app-logo--dark">
+      <div class="bc-app-logo-icon">
+        <svg width="20" height="15" viewBox="0 0 22 17" fill="none" aria-hidden="true">
+          <ellipse cx="4.5" cy="13" rx="3.8" ry="3.2" fill="white" opacity="0.55"/>
+          <ellipse cx="11" cy="8.5" rx="5" ry="4.5" fill="white"/>
+          <ellipse cx="17.5" cy="13" rx="3.8" ry="3.2" fill="white" opacity="0.55"/>
+        </svg>
+      </div>
+      <div>
+        <div class="bc-app-logo-name">BusinessCrowd</div>
+        <div class="bc-app-logo-tld">.co.uk</div>
+      </div>
+    </a>
+  </div>
+
+  <div class="bc-auth-card">
+    <h1 class="bc-auth-title">Join the Crowd</h1>
+    <p class="bc-auth-sub">Free to get started. Your business, in the spotlight.</p>
+
+    <div id="bc-signup-error" class="bc-auth-error" style="display:none;"></div>
+    <div id="bc-signup-success" class="bc-auth-success" style="display:none;">
+      Account created! <a href="/">Go to your dashboard →</a>
+    </div>
+
+    <form id="bc-signup-form" class="bc-auth-form" novalidate>
+      <div class="bc-form-group">
+        <label for="signup-name" class="bc-form-label">Your name</label>
+        <input type="text" id="signup-name" name="name" class="bc-form-input" placeholder="Jane Smith" required autocomplete="name">
+      </div>
+      <div class="bc-form-group">
+        <label for="signup-biz" class="bc-form-label">Business name</label>
+        <input type="text" id="signup-biz" name="business_name" class="bc-form-input" placeholder="Acme Ltd" autocomplete="organization">
+      </div>
+      <div class="bc-form-group">
+        <label for="signup-email" class="bc-form-label">Work email</label>
+        <input type="email" id="signup-email" name="email" class="bc-form-input" placeholder="jane@acme.co.uk" required autocomplete="email">
+      </div>
+      <div class="bc-form-group">
+        <label for="signup-password" class="bc-form-label">Password</label>
+        <input type="password" id="signup-password" name="password" class="bc-form-input" placeholder="Min. 8 characters" required minlength="8" autocomplete="new-password">
+      </div>
+      <div class="bc-form-group">
+        <label for="signup-category" class="bc-form-label">Industry</label>
+        <select id="signup-category" name="business_category" class="bc-form-input bc-form-select">
+          <option value="">Select your industry…</option>
+          <option>Finance</option>
+          <option>Technology</option>
+          <option>Marketing</option>
+          <option>Property</option>
+          <option>Legal</option>
+          <option>Retail</option>
+          <option>Creative &amp; Design</option>
+          <option>Health &amp; Wellness</option>
+          <option>Hospitality</option>
+          <option>Professional Services</option>
+          <option>Education &amp; Training</option>
+          <option>Consulting</option>
+          <option>Other</option>
+        </select>
+      </div>
+      <button type="submit" class="bc-auth-btn" id="bc-signup-submit">
+        <span id="bc-signup-label">Create free account →</span>
+        <span id="bc-signup-loading" style="display:none;">Creating account…</span>
+      </button>
+    </form>
+
+    <div class="bc-auth-footer">
+      Already have an account? <a href="/login/">Sign in →</a>
+    </div>
+    <div class="bc-auth-terms">
+      By signing up you agree to our <a href="/terms-of-use/">Terms</a> and <a href="/privacy-policy/">Privacy Policy</a>.
+    </div>
+  </div>
+</div>
+
+<script>
+document.getElementById('bc-signup-form').addEventListener('submit', async function(e) {
+  e.preventDefault();
+  const btn = document.getElementById('bc-signup-submit');
+  const label = document.getElementById('bc-signup-label');
+  const loading = document.getElementById('bc-signup-loading');
+  const errorEl = document.getElementById('bc-signup-error');
+  const successEl = document.getElementById('bc-signup-success');
+
+  label.style.display = 'none';
+  loading.style.display = '';
+  btn.disabled = true;
+  errorEl.style.display = 'none';
+
+  const data = {
+    name: this.name.value.trim(),
+    email: this.email.value.trim(),
+    password: this.password.value,
+    business_name: this.business_name.value.trim(),
+    business_category: this.business_category.value
+  };
+
+  try {
+    const res = await fetch('/api/signup', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(data)
+    });
+    const json = await res.json();
+    if (!res.ok) throw new Error(json.error || 'Signup failed');
+    this.style.display = 'none';
+    successEl.style.display = '';
+    setTimeout(() => window.location.href = '/', 1500);
+  } catch (err) {
+    errorEl.textContent = err.message;
+    errorEl.style.display = '';
+    label.style.display = '';
+    loading.style.display = 'none';
+    btn.disabled = false;
+  }
+});
+</script>

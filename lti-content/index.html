@@ -1,0 +1,46 @@
+---
+layout: app
+title: "LTI Content — BusinessCrowd"
+permalink: /lti-content/
+---
+<div class="bc-app">
+
+  {% include bc-sidebar.html %}
+
+  <main class="bc-main">
+
+    <div class="bc-topbar">
+      <div>
+        <h1 class="bc-topbar-title">LTI Content</h1>
+        <p class="bc-topbar-sub">Training &amp; development articles from Love the Idea</p>
+      </div>
+      {% include bc-topbar-right.html %}
+    </div>
+
+    <div class="bc-feed">
+
+      <div class="bc-section-header">
+        <span class="bc-section-title">Business Training</span>
+        <span class="bc-section-link">{{ site.posts | size }} articles</span>
+      </div>
+
+      <div class="bc-lti-grid">
+        {% for post in site.posts %}
+        <a href="{{ post.url | relative_url }}" class="bc-lti-card">
+          <div class="bc-lti-card-meta">
+            {% if post.categories.first %}
+            <span class="bc-lti-cat">{{ post.categories.first }}</span>
+            {% endif %}
+            <span class="bc-lti-date">{{ post.date | date: "%d %b %Y" }}</span>
+          </div>
+          <h3 class="bc-lti-title">{{ post.title }}</h3>
+          <p class="bc-lti-excerpt">{{ post.content | strip_html | truncatewords: 22 }}</p>
+          <span class="bc-lti-read">Read article →</span>
+        </a>
+        {% endfor %}
+      </div>
+
+    </div>
+  </main>
+
+</div>

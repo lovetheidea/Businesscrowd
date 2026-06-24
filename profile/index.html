@@ -1,0 +1,145 @@
+---
+layout: app
+title: "My Profile — BusinessCrowd"
+permalink: /profile/
+---
+<div class="bc-app">
+  {% include bc-sidebar.html %}
+  <main class="bc-main">
+    <div class="bc-topbar">
+      <div>
+        <h1 class="bc-topbar-title">My Profile</h1>
+        <p class="bc-topbar-sub">Manage your business details</p>
+      </div>
+      {% include bc-topbar-right.html %}
+    </div>
+    <div class="bc-feed">
+
+      <div id="bc-profile-loading" style="padding:40px 0;text-align:center;color:#9CA3AF;">Loading your profile…</div>
+      <div id="bc-profile-unauth" style="display:none;">
+        <div class="bc-free-note">
+          <strong>Not signed in.</strong> <a href="/login/">Sign in to view your profile →</a>
+        </div>
+      </div>
+
+      <div id="bc-profile-content" style="display:none;">
+        <div class="bc-profile-header">
+          <div class="bc-profile-avatar" id="bc-profile-initials"></div>
+          <div class="bc-profile-header-body">
+            <div class="bc-profile-name" id="bc-profile-name"></div>
+            <div class="bc-profile-email" id="bc-profile-email"></div>
+            <div class="bc-profile-plan" id="bc-profile-plan"></div>
+          </div>
+        </div>
+
+        <div class="bc-section-header" style="margin-top:28px;">
+          <span class="bc-section-title">Business Details</span>
+        </div>
+
+        <form id="bc-profile-form" class="bc-auth-form" style="max-width:560px;" novalidate>
+          <div class="bc-form-group">
+            <label class="bc-form-label">Your name</label>
+            <input type="text" name="name" class="bc-form-input" id="bc-profile-input-name" required>
+          </div>
+          <div class="bc-form-group">
+            <label class="bc-form-label">Business name</label>
+            <input type="text" name="business_name" class="bc-form-input" id="bc-profile-input-biz">
+          </div>
+          <div class="bc-form-group">
+            <label class="bc-form-label">Industry</label>
+            <select name="business_category" class="bc-form-input bc-form-select" id="bc-profile-input-cat">
+              <option value="">Select your industry…</option>
+              <option>Finance</option><option>Technology</option><option>Marketing</option>
+              <option>Property</option><option>Legal</option><option>Retail</option>
+              <option>Creative &amp; Design</option><option>Health &amp; Wellness</option>
+              <option>Hospitality</option><option>Professional Services</option>
+              <option>Education &amp; Training</option><option>Consulting</option><option>Other</option>
+            </select>
+          </div>
+          <div id="bc-profile-saved" class="bc-auth-success" style="display:none;">Profile updated ✓</div>
+          <div id="bc-profile-error" class="bc-auth-error" style="display:none;"></div>
+          <div style="display:flex;gap:12px;align-items:center;margin-top:4px;">
+            <button type="submit" class="bc-auth-btn" style="width:auto;padding:10px 24px;">Save changes</button>
+            <button type="button" class="bc-topbar-auth-link" id="bc-logout-btn">Sign out</button>
+          </div>
+        </form>
+
+        <div class="bc-section-header" style="margin-top:36px;">
+          <span class="bc-section-title">My Slots</span>
+          <a href="/book-a-slot/" class="bc-section-link">Book a new slot →</a>
+        </div>
+        <div id="bc-profile-slots" class="bc-slots-full-list">
+          <div style="color:#9CA3AF;padding:16px 0;">No slots booked yet. <a href="/book-a-slot/">Book your first slot →</a></div>
+        </div>
+      </div>
+
+    </div>
+  </main>
+</div>
+
+<script>
+(async function() {
+  const loading = document.getElementById('bc-profile-loading');
+  const unauth = document.getElementById('bc-profile-unauth');
+  const content = document.getElementById('bc-profile-content');
+
+  try {
+    const res = await fetch('/api/me');
+    if (res.status === 401) {
+      loading.style.display = 'none';
+      unauth.style.display = '';
+      return;
+    }
+    const user = await res.json();
+    loading.style.display = 'none';
+    content.style.display = '';
+
+    const initials = (user.name || '?').split(' ').map(n => n[0]).join('').slice(0,2).toUpperCase();
+    document.getElementById('bc-profile-initials').textContent = initials;
+    document.getElementById('bc-profile-name').textContent = user.name;
+    document.getElementById('bc-profile-email').textContent = user.email;
+    document.getElementById('bc-profile-plan').textContent = user.plan === 'pro' ? '⭐ Pro member' : 'Free account';
+    document.getElementById('bc-profile-input-name').value = user.name || '';
+    document.getElementById('bc-profile-input-biz').value = user.business_name || '';
+    document.getElementById('bc-profile-input-cat').value = user.business_category || '';
+
+    // Update topbar avatar
+    const avatar = document.getElementById('bc-avatar-btn');
+    if (avatar) { avatar.textContent = initials; avatar.style.display = ''; }
+    const authBtns = document.getElementById('bc-auth-btns');
+    if (authBtns) authBtns.style.display = 'none';
+  } catch(e) {
+    loading.style.display = 'none';
+    unauth.style.display = '';
+  }
+})();
+
+document.getElementById('bc-profile-form').addEventListener('submit', async function(e) {
+  e.preventDefault();
+  const saved = document.getElementById('bc-profile-saved');
+  const errEl = document.getElementById('bc-profile-error');
+  saved.style.display = 'none'; errEl.style.display = 'none';
+  try {
+    const res = await fetch('/api/me', {
+      method: 'PATCH',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        name: this.name.value.trim(),
+        business_name: this.business_name.value.trim(),
+        business_category: this.business_category.value
+      })
+    });
+    if (!res.ok) throw new Error((await res.json()).error || 'Save failed');
+    saved.style.display = '';
+    setTimeout(() => saved.style.display = 'none', 3000);
+  } catch(err) {
+    errEl.textContent = err.message;
+    errEl.style.display = '';
+  }
+});
+
+document.getElementById('bc-logout-btn').addEventListener('click', async function() {
+  await fetch('/api/logout', { method: 'POST' });
+  window.location.href = '/';
+});
+</script>

@@ -1,0 +1,81 @@
+---
+layout: app
+title: "Sign In — BusinessCrowd"
+permalink: /login/
+---
+<div class="bc-auth-page">
+  <div class="bc-auth-brand">
+    <a href="/" class="bc-app-logo bc-app-logo--dark">
+      <div class="bc-app-logo-icon">
+        <svg width="20" height="15" viewBox="0 0 22 17" fill="none" aria-hidden="true">
+          <ellipse cx="4.5" cy="13" rx="3.8" ry="3.2" fill="white" opacity="0.55"/>
+          <ellipse cx="11" cy="8.5" rx="5" ry="4.5" fill="white"/>
+          <ellipse cx="17.5" cy="13" rx="3.8" ry="3.2" fill="white" opacity="0.55"/>
+        </svg>
+      </div>
+      <div>
+        <div class="bc-app-logo-name">BusinessCrowd</div>
+        <div class="bc-app-logo-tld">.co.uk</div>
+      </div>
+    </a>
+  </div>
+
+  <div class="bc-auth-card">
+    <h1 class="bc-auth-title">Welcome back</h1>
+    <p class="bc-auth-sub">Sign in to manage your BusinessCrowd slots.</p>
+
+    <div id="bc-login-error" class="bc-auth-error" style="display:none;"></div>
+
+    <form id="bc-login-form" class="bc-auth-form" novalidate>
+      <div class="bc-form-group">
+        <label for="login-email" class="bc-form-label">Email</label>
+        <input type="email" id="login-email" name="email" class="bc-form-input" placeholder="jane@acme.co.uk" required autocomplete="email">
+      </div>
+      <div class="bc-form-group">
+        <label for="login-password" class="bc-form-label">Password</label>
+        <input type="password" id="login-password" name="password" class="bc-form-input" placeholder="Your password" required autocomplete="current-password">
+        <a href="/forgot-password/" class="bc-form-link">Forgot password?</a>
+      </div>
+      <button type="submit" class="bc-auth-btn" id="bc-login-submit">
+        <span id="bc-login-label">Sign in →</span>
+        <span id="bc-login-loading" style="display:none;">Signing in…</span>
+      </button>
+    </form>
+
+    <div class="bc-auth-footer">
+      Don't have an account? <a href="/signup/">Join for free →</a>
+    </div>
+  </div>
+</div>
+
+<script>
+document.getElementById('bc-login-form').addEventListener('submit', async function(e) {
+  e.preventDefault();
+  const btn = document.getElementById('bc-login-submit');
+  const label = document.getElementById('bc-login-label');
+  const loading = document.getElementById('bc-login-loading');
+  const errorEl = document.getElementById('bc-login-error');
+
+  label.style.display = 'none';
+  loading.style.display = '';
+  btn.disabled = true;
+  errorEl.style.display = 'none';
+
+  try {
+    const res = await fetch('/api/login', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email: this.email.value.trim(), password: this.password.value })
+    });
+    const json = await res.json();
+    if (!res.ok) throw new Error(json.error || 'Login failed');
+    window.location.href = '/';
+  } catch (err) {
+    errorEl.textContent = err.message;
+    errorEl.style.display = '';
+    label.style.display = '';
+    loading.style.display = 'none';
+    btn.disabled = false;
+  }
+});
+</script>

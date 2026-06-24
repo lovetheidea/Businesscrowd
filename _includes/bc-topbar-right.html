@@ -1,0 +1,23 @@
+<div class="bc-topbar-right">
+  <div class="bc-search">
+    <svg width="14" height="14" viewBox="0 0 15 15" fill="none" aria-hidden="true">
+      <circle cx="6.5" cy="6.5" r="5" stroke="#9CA3AF" stroke-width="1.5"/>
+      <line x1="10.5" y1="10.5" x2="13.5" y2="13.5" stroke="#9CA3AF" stroke-width="1.5" stroke-linecap="round"/>
+    </svg>
+    <input type="text" placeholder="Search businesses…" aria-label="Search businesses">
+  </div>
+  <button class="bc-topbar-btn" aria-label="Notifications" id="bc-notif-btn" style="display:none;">
+    <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+      <path d="M8 2C5.79 2 4 3.79 4 6v3l-1.5 2h11L12 9V6c0-2.21-1.79-4-4-4z" stroke="#374151" stroke-width="1.4" fill="none"/>
+      <path d="M6.5 13a1.5 1.5 0 003 0" stroke="#374151" stroke-width="1.4" stroke-linecap="round"/>
+    </svg>
+    <div class="bc-notif-dot"></div>
+  </button>
+  <!-- Shown when logged in -->
+  <a href="/profile/" class="bc-avatar" aria-label="My profile" id="bc-avatar-btn" style="display:none;text-decoration:none;"></a>
+  <!-- Shown when logged out -->
+  <div id="bc-auth-btns">
+    <a href="/login/" class="bc-topbar-auth-link">Sign In</a>
+    <a href="/signup/" class="bc-topbar-auth-cta">Join Free →</a>
+  </div>
+</div>

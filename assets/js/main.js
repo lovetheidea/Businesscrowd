@@ -1,3 +1,22 @@
+// Auth state — show avatar / hide sign-in buttons if logged in
+(function () {
+  const avatarBtn = document.getElementById('bc-avatar-btn');
+  const notifBtn  = document.getElementById('bc-notif-btn');
+  const authBtns  = document.getElementById('bc-auth-btns');
+  if (!avatarBtn && !authBtns) return;
+
+  fetch('/api/me')
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (user) {
+      if (!user) return;
+      const initials = (user.name || '?').split(' ').map(function (n) { return n[0]; }).join('').slice(0, 2).toUpperCase();
+      if (avatarBtn) { avatarBtn.textContent = initials; avatarBtn.style.display = ''; }
+      if (notifBtn)  { notifBtn.style.display = ''; }
+      if (authBtns)  { authBtns.style.display = 'none'; }
+    })
+    .catch(function () {});
+})();
+
 // Mobile menu toggle
 (function () {
   const btn  = document.getElementById('bc-hamburger');

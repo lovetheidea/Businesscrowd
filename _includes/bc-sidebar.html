@@ -1,0 +1,66 @@
+<aside class="bc-sidebar">
+  <div class="bc-sidebar-logo">
+    <a href="{{ '/' | relative_url }}" class="bc-app-logo">
+      <div class="bc-app-logo-icon">
+        <svg width="20" height="15" viewBox="0 0 22 17" fill="none" aria-hidden="true">
+          <ellipse cx="4.5" cy="13" rx="3.8" ry="3.2" fill="white" opacity="0.55"/>
+          <ellipse cx="11" cy="8.5" rx="5" ry="4.5" fill="white"/>
+          <ellipse cx="17.5" cy="13" rx="3.8" ry="3.2" fill="white" opacity="0.55"/>
+        </svg>
+      </div>
+      <div>
+        <div class="bc-app-logo-name">BusinessCrowd</div>
+        <div class="bc-app-logo-tld">.co.uk</div>
+      </div>
+    </a>
+  </div>
+
+  <nav class="bc-sidebar-nav">
+    <a href="{{ '/' | relative_url }}" class="bc-nav-item{% if page.url == '/' or page.url == '/index.html' %} is-active{% endif %}">
+      <span class="bc-nav-icon">⊞</span>
+      <span>Overview</span>
+    </a>
+    <a href="{{ '/featured/' | relative_url }}" class="bc-nav-item{% if page.url contains '/featured' %} is-active{% endif %}">
+      <span class="bc-nav-icon">✦</span>
+      <span>Featured</span>
+      <span class="bc-nav-badge">3</span>
+    </a>
+    <a href="{{ '/trending/' | relative_url }}" class="bc-nav-item{% if page.url contains '/trending' %} is-active{% endif %}">
+      <span class="bc-nav-icon">↑</span>
+      <span>Trending</span>
+    </a>
+    <a href="{{ '/book-a-slot/' | relative_url }}" class="bc-nav-item{% if page.url contains '/book-a-slot' %} is-active{% endif %}">
+      <span class="bc-nav-icon">▦</span>
+      <span>Book a Slot</span>
+    </a>
+    <a href="{{ '/categories/' | relative_url }}" class="bc-nav-item{% if page.url contains '/categories' %} is-active{% endif %}">
+      <span class="bc-nav-icon">◈</span>
+      <span>Categories</span>
+    </a>
+    <a href="{{ '/businesses/' | relative_url }}" class="bc-nav-item{% if page.url contains '/businesses' %} is-active{% endif %}">
+      <span class="bc-nav-icon">⬡</span>
+      <span>Businesses</span>
+    </a>
+    <a href="{{ '/tools/' | relative_url }}" class="bc-nav-item{% if page.url contains '/tools' %} is-active{% endif %}">
+      <span class="bc-nav-icon">◻</span>
+      <span>Tools</span>
+    </a>
+    <a href="{{ '/lti-content/' | relative_url }}" class="bc-nav-item{% if page.url contains '/lti-content' %} is-active{% endif %}">
+      <span class="bc-nav-icon">▶</span>
+      <span>LTI Content</span>
+    </a>
+
+    <div class="bc-sidebar-divider"></div>
+
+    <a href="{{ '/settings/' | relative_url }}" class="bc-nav-item bc-nav-item--muted{% if page.url contains '/settings' %} is-active{% endif %}">
+      <span class="bc-nav-icon">⚙</span>
+      <span>Settings</span>
+    </a>
+  </nav>
+
+  <div class="bc-sidebar-upgrade">
+    <div class="bc-upgrade-title">Go Pro</div>
+    <div class="bc-upgrade-sub">Pick your slot &amp; unlock<br>BusinessCrowd Hour</div>
+    <a href="{{ '/signup/' | relative_url }}" class="bc-upgrade-cta">View Plans →</a>
+  </div>
+</aside>
