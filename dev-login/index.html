@@ -53,15 +53,9 @@ permalink: /dev-login/
 <script>
 function devLogin(name, email, business_name, business_category, plan) {
   var user = { name: name, email: email, business_name: business_name, business_category: business_category, plan: plan };
-  try {
-    localStorage.setItem('bc_dev_user', JSON.stringify(user));
-    window.location.href = '/';
-  } catch(e) {
-    alert('localStorage unavailable: ' + e.message);
-  }
+  window.location.href = '/?devauth=' + encodeURIComponent(btoa(JSON.stringify(user)));
 }
 function devLogout() {
-  localStorage.removeItem('bc_dev_user');
-  window.location.href = '/';
+  window.location.href = '/?devauth=logout';
 }
 </script>

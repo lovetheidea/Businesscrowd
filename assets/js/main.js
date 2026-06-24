@@ -1,4 +1,4 @@
-// Auth state — runs on every page, checks localStorage (dev) then /api/me (prod)
+// Auth state — checks URL param (dev redirect), localStorage (dev persist), then /api/me (prod)
 (function () {
   function applyUser(user) {
     if (!user) return;
@@ -11,10 +11,30 @@
     if (authBtns)  { authBtns.style.display = 'none'; }
   }
 
-  // Dev bypass — localStorage set by /dev-login/
+  // Dev bypass — ?devauth=<base64> param passed from /dev-login/
+  var params = new URLSearchParams(window.location.search);
+  var devParam = params.get('devauth');
+  if (devParam === 'logout') {
+    try { localStorage.removeItem('bc_dev_user'); } catch(e) {}
+    history.replaceState({}, '', window.location.pathname);
+    return;
+  }
+  if (devParam) {
+    try {
+      var devUser = JSON.parse(atob(decodeURIComponent(devParam)));
+      if (devUser && devUser.name) {
+        try { localStorage.setItem('bc_dev_user', JSON.stringify(devUser)); } catch(e) {}
+        history.replaceState({}, '', window.location.pathname);
+        applyUser(devUser);
+        return;
+      }
+    } catch(e) {}
+  }
+
+  // Dev bypass — localStorage persisted session
   try {
-    var devUser = JSON.parse(localStorage.getItem('bc_dev_user'));
-    if (devUser && devUser.name) { applyUser(devUser); return; }
+    var stored = JSON.parse(localStorage.getItem('bc_dev_user'));
+    if (stored && stored.name) { applyUser(stored); return; }
   } catch (e) {}
 
   // Production — Cloudflare Worker session
