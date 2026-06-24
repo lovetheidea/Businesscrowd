@@ -2125,7 +2125,11 @@ a.bc-nav-item {
 }
 .bc-course-sidebar-thumb {
   background: #1E1B4B; height: 160px;
+  position: relative; overflow: hidden;
   display: flex; align-items: center; justify-content: center;
+}
+.bc-course-sidebar-thumb img {
+  position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover;
 }
 .bc-course-sidebar-thumb-inner {
   display: flex; flex-direction: column; align-items: center; gap: 8px;
@@ -2178,8 +2182,13 @@ a.bc-nav-item {
 .bc-course-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.08); transform: translateY(-2px); }
 .bc-course-card-thumb {
   background: #1E1B4B; height: 140px;
-  display: flex; align-items: center; justify-content: center;
-  position: relative;
+  position: relative; overflow: hidden;
+}
+.bc-course-card-thumb img {
+  position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover;
+}
+.bc-course-card-thumb .bc-course-card-thumb-inner {
+  position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;
 }
 .bc-course-card-thumb-inner {
   display: flex; align-items: center; justify-content: center;
@@ -2218,3 +2227,6 @@ a.bc-nav-item {
 @media (max-width: 600px) {
   .bc-course-card-grid { grid-template-columns: 1fr; }
 }
+
+.bc-course-sidebar-video { overflow: hidden; }
+.bc-course-sidebar-video video { width: 100%; display: block; max-height: 200px; object-fit: cover; background: #000; }
