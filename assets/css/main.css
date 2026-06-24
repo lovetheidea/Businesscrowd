@@ -1908,3 +1908,93 @@ a.bc-nav-item {
 .bc-slot-explainer-title { font-size: 14px; font-weight: 700; color: #1B2B6B; margin-bottom: 4px; }
 .bc-slot-explainer-text { font-size: 13px; color: #374151; line-height: 1.5; }
 .bc-slots-full-list { display: flex; flex-direction: column; gap: 10px; max-width: 560px; }
+
+/* ── BACK LINK ────────────────────────────────────────────────────────────── */
+.bc-back-link {
+  font-size: 12px; font-weight: 600; color: #9CA3AF;
+  text-decoration: none; display: inline-block; margin-bottom: 2px;
+}
+.bc-back-link:hover { color: #4C6EF5; }
+
+/* ── BUSINESS PROFILE ─────────────────────────────────────────────────────── */
+.bc-biz-profile-header {
+  display: flex; align-items: flex-start; gap: 18px;
+  padding: 24px; background: #fff; border: 1.5px solid #F3F4F6;
+  border-radius: 18px; flex-wrap: wrap;
+}
+.bc-biz-profile-logo {
+  width: 64px; height: 64px; border-radius: 16px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 18px; font-weight: 900; color: #fff; flex-shrink: 0;
+  letter-spacing: -0.5px;
+}
+.bc-biz-profile-header-body { flex: 1; min-width: 180px; }
+.bc-biz-profile-name { font-size: 22px; font-weight: 800; color: #111827; letter-spacing: -0.5px; }
+.bc-biz-profile-meta { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin: 6px 0 8px; }
+.bc-biz-profile-location { font-size: 12px; color: #9CA3AF; }
+.bc-biz-profile-slot { font-size: 12px; font-weight: 600; color: #4C6EF5; background: #EEF2FF; padding: 2px 8px; border-radius: 6px; }
+.bc-biz-profile-tagline { font-size: 14px; color: #6B7280; line-height: 1.5; }
+.bc-biz-profile-actions { display: flex; align-items: center; gap: 10px; flex-direction: column; flex-shrink: 0; }
+
+.bc-biz-profile-about {
+  background: #fff; border: 1.5px solid #F3F4F6; border-radius: 14px;
+  padding: 20px 22px; font-size: 14px; color: #374151; line-height: 1.7;
+}
+.bc-biz-profile-about p { margin: 0 0 10px; }
+.bc-biz-profile-about p:last-child { margin-bottom: 0; }
+
+.bc-biz-profile-stats {
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px;
+  margin: 16px 0;
+}
+.bc-biz-stat {
+  background: #F8F9FB; border-radius: 12px; padding: 16px;
+  text-align: center;
+}
+.bc-biz-stat-val { font-size: 24px; font-weight: 800; color: #1B2B6B; }
+.bc-biz-stat-label { font-size: 11px; color: #9CA3AF; margin-top: 2px; }
+
+/* ── LTI CONTENT TABS ─────────────────────────────────────────────────────── */
+.bc-lti-tabs {
+  display: flex; gap: 6px; margin-bottom: 20px; flex-wrap: wrap;
+}
+.bc-lti-tab {
+  display: flex; align-items: center; gap: 8px;
+  padding: 8px 16px; border-radius: 10px; border: 1.5px solid #E5E7EB;
+  background: #fff; font-size: 13px; font-weight: 600; color: #6B7280;
+  cursor: pointer; font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  transition: all 0.12s;
+}
+.bc-lti-tab:hover { border-color: #C7D2FE; color: #1B2B6B; }
+.bc-lti-tab.is-active { background: #1B2B6B; color: #fff; border-color: #1B2B6B; }
+.bc-lti-tab.is-active .bc-nav-badge { background: rgba(255,255,255,0.25); }
+
+/* ── LTI EVENTS ───────────────────────────────────────────────────────────── */
+.bc-lti-events-list { display: flex; flex-direction: column; gap: 14px; max-width: 640px; }
+.bc-lti-event-card {
+  display: flex; gap: 18px; align-items: flex-start;
+  padding: 18px 20px; background: #fff; border: 1.5px solid #F3F4F6; border-radius: 14px;
+}
+.bc-lti-event-date {
+  flex-shrink: 0; text-align: center; background: #1B2B6B; color: #fff;
+  border-radius: 10px; padding: 10px 14px; min-width: 54px;
+}
+.bc-lti-event-day { font-size: 18px; font-weight: 800; }
+.bc-lti-event-month { font-size: 11px; font-weight: 600; opacity: 0.7; }
+.bc-lti-event-name { font-size: 15px; font-weight: 700; color: #111827; margin-bottom: 4px; }
+.bc-lti-event-desc { font-size: 13px; color: #6B7280; line-height: 1.5; }
+
+/* ── LTI AUTH GATE ────────────────────────────────────────────────────────── */
+.bc-lti-gate-card {
+  text-align: center; padding: 56px 32px;
+  background: #fff; border: 1.5px solid #F3F4F6; border-radius: 18px;
+  max-width: 440px; margin: 40px auto;
+}
+.bc-lti-gate-icon { font-size: 36px; margin-bottom: 12px; }
+.bc-lti-gate-title { font-size: 20px; font-weight: 800; color: #111827; margin-bottom: 8px; }
+.bc-lti-gate-desc { font-size: 14px; color: #6B7280; line-height: 1.6; margin-bottom: 24px; }
+
+@media (max-width: 680px) {
+  .bc-biz-profile-stats { grid-template-columns: repeat(2, 1fr); }
+  .bc-biz-profile-actions { flex-direction: row; }
+}

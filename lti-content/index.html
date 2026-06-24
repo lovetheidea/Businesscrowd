@@ -4,43 +4,162 @@ title: "LTI Content — BusinessCrowd"
 permalink: /lti-content/
 ---
 <div class="bc-app">
-
   {% include bc-sidebar.html %}
 
   <main class="bc-main">
-
     <div class="bc-topbar">
       <div>
-        <h1 class="bc-topbar-title">LTI Content</h1>
-        <p class="bc-topbar-sub">Training &amp; development articles from Love the Idea</p>
+        <a href="/businesses/love-the-idea/" class="bc-back-link">← Love the Idea</a>
+        <h1 class="bc-topbar-title" style="margin-top:4px;">LTI Content</h1>
+        <p class="bc-topbar-sub">Training &amp; resources from Love the Idea · Members only</p>
       </div>
       {% include bc-topbar-right.html %}
     </div>
 
-    <div class="bc-feed">
-
-      <div class="bc-section-header">
-        <span class="bc-section-title">Business Training</span>
-        <span class="bc-section-link">{{ site.posts | size }} articles</span>
-      </div>
-
-      <div class="bc-lti-grid">
-        {% for post in site.posts %}
-        <a href="{{ post.url | relative_url }}" class="bc-lti-card">
-          <div class="bc-lti-card-meta">
-            {% if post.categories.first %}
-            <span class="bc-lti-cat">{{ post.categories.first }}</span>
-            {% endif %}
-            <span class="bc-lti-date">{{ post.date | date: "%d %b %Y" }}</span>
+    <!-- Auth gate — hidden until JS checks session -->
+    <div id="bc-lti-gate" style="display:none;">
+      <div class="bc-feed">
+        <div class="bc-lti-gate-card">
+          <div class="bc-lti-gate-icon">🔒</div>
+          <div class="bc-lti-gate-title">Members only</div>
+          <div class="bc-lti-gate-desc">The LTI training library is exclusive to BusinessCrowd members. Sign up free to get instant access.</div>
+          <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;">
+            <a href="/signup/" class="bc-auth-btn" style="width:auto;padding:10px 24px;display:inline-block;text-decoration:none;">Join free →</a>
+            <a href="/login/" class="bc-topbar-auth-link">Sign in</a>
           </div>
-          <h3 class="bc-lti-title">{{ post.title }}</h3>
-          <p class="bc-lti-excerpt">{{ post.content | strip_html | truncatewords: 22 }}</p>
-          <span class="bc-lti-read">Read article →</span>
-        </a>
-        {% endfor %}
+        </div>
       </div>
+    </div>
 
+    <!-- Content — shown when authenticated -->
+    <div id="bc-lti-content" style="display:none;">
+      <div class="bc-feed">
+
+        <!-- Tabs -->
+        <div class="bc-lti-tabs">
+          <button class="bc-lti-tab is-active" data-tab="training">
+            Training Lessons
+            <span class="bc-nav-badge" style="background:#4C6EF5;">13</span>
+          </button>
+          <button class="bc-lti-tab" data-tab="blog">
+            Blog
+            <span class="bc-nav-badge" style="background:#9CA3AF;">3</span>
+          </button>
+          <button class="bc-lti-tab" data-tab="events">
+            Events
+          </button>
+        </div>
+
+        <!-- Training tab -->
+        <div class="bc-lti-tab-panel" id="bc-tab-training">
+          <div class="bc-section-header">
+            <span class="bc-section-title">E-Learning &amp; Business Training</span>
+          </div>
+          <div class="bc-lti-grid">
+            {% assign training_posts = site.posts | where_exp: "p", "p.date.year == 2021" %}
+            {% for post in training_posts %}
+            <a href="{{ post.url | relative_url }}" class="bc-lti-card">
+              <div class="bc-lti-card-meta">
+                <span class="bc-lti-cat">Training</span>
+                <span class="bc-lti-date">{{ post.date | date: "%d %b %Y" }}</span>
+              </div>
+              <h3 class="bc-lti-title">{{ post.title }}</h3>
+              <p class="bc-lti-excerpt">{{ post.content | strip_html | truncatewords: 22 }}</p>
+              <span class="bc-lti-read">Read lesson →</span>
+            </a>
+            {% endfor %}
+          </div>
+        </div>
+
+        <!-- Blog tab -->
+        <div class="bc-lti-tab-panel" id="bc-tab-blog" style="display:none;">
+          <div class="bc-section-header">
+            <span class="bc-section-title">LTI Blog</span>
+          </div>
+          <div class="bc-lti-grid">
+            {% assign blog_posts = site.posts | where_exp: "p", "p.date.year >= 2022" %}
+            {% for post in blog_posts %}
+            <a href="{{ post.url | relative_url }}" class="bc-lti-card">
+              <div class="bc-lti-card-meta">
+                <span class="bc-lti-cat" style="background:#F0FFF4;color:#059669;">Blog</span>
+                <span class="bc-lti-date">{{ post.date | date: "%d %b %Y" }}</span>
+              </div>
+              <h3 class="bc-lti-title">{{ post.title }}</h3>
+              <p class="bc-lti-excerpt">{{ post.content | strip_html | truncatewords: 22 }}</p>
+              <span class="bc-lti-read" style="color:#059669;">Read post →</span>
+            </a>
+            {% endfor %}
+          </div>
+        </div>
+
+        <!-- Events tab -->
+        <div class="bc-lti-tab-panel" id="bc-tab-events" style="display:none;">
+          <div class="bc-section-header">
+            <span class="bc-section-title">Upcoming Events</span>
+          </div>
+          <div class="bc-lti-events-list">
+            <div class="bc-lti-event-card">
+              <div class="bc-lti-event-date">
+                <div class="bc-lti-event-day">TBC</div>
+                <div class="bc-lti-event-month">2026</div>
+              </div>
+              <div class="bc-lti-event-body">
+                <div class="bc-lti-event-name">Love the Idea — Live Workshop</div>
+                <div class="bc-lti-event-desc">Join the LTI team for a live interactive business training session. Details coming soon.</div>
+                <span class="bc-lti-cat" style="margin-top:8px;display:inline-block;">Online · Free for members</span>
+              </div>
+            </div>
+            <div class="bc-lti-event-card">
+              <div class="bc-lti-event-date">
+                <div class="bc-lti-event-day">TBC</div>
+                <div class="bc-lti-event-month">2026</div>
+              </div>
+              <div class="bc-lti-event-body">
+                <div class="bc-lti-event-name">EduMail Masterclass</div>
+                <div class="bc-lti-event-desc">Learn how to build and monetise an email-based training programme. From curriculum to delivery.</div>
+                <span class="bc-lti-cat" style="margin-top:8px;display:inline-block;">Online · Free for members</span>
+              </div>
+            </div>
+          </div>
+          <div class="bc-free-note" style="margin-top:16px;">
+            Events are added here as they're scheduled. Check back soon.
+          </div>
+        </div>
+
+      </div>
     </div>
   </main>
-
 </div>
+
+<script>
+(function () {
+  fetch('/api/me')
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (user) {
+      if (!user) {
+        document.getElementById('bc-lti-gate').style.display = '';
+        return;
+      }
+      document.getElementById('bc-lti-content').style.display = '';
+      // Update topbar
+      var initials = (user.name || '?').split(' ').map(function(n){return n[0];}).join('').slice(0,2).toUpperCase();
+      var av = document.getElementById('bc-avatar-btn');
+      var ab = document.getElementById('bc-auth-btns');
+      if (av) { av.textContent = initials; av.style.display = ''; }
+      if (ab) ab.style.display = 'none';
+    })
+    .catch(function () {
+      document.getElementById('bc-lti-gate').style.display = '';
+    });
+
+  // Tab switching
+  document.querySelectorAll('.bc-lti-tab').forEach(function (tab) {
+    tab.addEventListener('click', function () {
+      document.querySelectorAll('.bc-lti-tab').forEach(function (t) { t.classList.remove('is-active'); });
+      document.querySelectorAll('.bc-lti-tab-panel').forEach(function (p) { p.style.display = 'none'; });
+      tab.classList.add('is-active');
+      document.getElementById('bc-tab-' + tab.dataset.tab).style.display = '';
+    });
+  });
+})();
+</script>

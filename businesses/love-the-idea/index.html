@@ -1,0 +1,95 @@
+---
+layout: app
+title: "Love the Idea — BusinessCrowd"
+permalink: /businesses/love-the-idea/
+---
+<div class="bc-app">
+  {% include bc-sidebar.html %}
+
+  <main class="bc-main">
+    <div class="bc-topbar">
+      <div>
+        <a href="/businesses/" class="bc-back-link">← All Businesses</a>
+        <h1 class="bc-topbar-title" style="margin-top:4px;">Love the Idea</h1>
+      </div>
+      {% include bc-topbar-right.html %}
+    </div>
+
+    <div class="bc-feed">
+
+      <!-- Business header -->
+      <div class="bc-biz-profile-header">
+        <div class="bc-biz-profile-logo" style="background:#4C6EF5;">LTI</div>
+        <div class="bc-biz-profile-header-body">
+          <div class="bc-biz-profile-name">Love the Idea</div>
+          <div class="bc-biz-profile-meta">
+            <span class="bc-lti-cat" style="font-size:12px;">Education &amp; Training</span>
+            <span class="bc-biz-profile-location">📍 United Kingdom</span>
+            <span class="bc-biz-profile-slot">Slot: Tue 12pm · BusinessCrowd Hour</span>
+          </div>
+          <div class="bc-biz-profile-tagline">Business education, coaching and training — for every stage of the journey.</div>
+        </div>
+        <div class="bc-biz-profile-actions">
+          <a href="/lti-content/" class="bc-auth-btn" style="width:auto;padding:10px 20px;font-size:13px;display:inline-block;text-decoration:none;">View Training Library →</a>
+          <a href="https://lovetheidea.co.uk" target="_blank" rel="noopener" class="bc-topbar-auth-link" style="font-size:13px;">Visit website ↗</a>
+        </div>
+      </div>
+
+      <!-- About -->
+      <div class="bc-section-header" style="margin-top:24px;">
+        <span class="bc-section-title">About Love the Idea</span>
+      </div>
+      <div class="bc-biz-profile-about">
+        <p>Love the Idea is a UK business education platform helping entrepreneurs and employees grow through online courses, coaching programmes, and practical training content.</p>
+        <p>From e-learning fundamentals to leadership development, the Love the Idea Academy has helped thousands of learners across the UK sharpen their business skills — at their own pace, on any device.</p>
+        <p>As a BusinessCrowd member, Love the Idea share their training articles, blog posts, and events exclusively with the Crowd.</p>
+      </div>
+
+      <!-- Stats -->
+      <div class="bc-biz-profile-stats">
+        <div class="bc-biz-stat">
+          <div class="bc-biz-stat-val">16</div>
+          <div class="bc-biz-stat-label">Training articles</div>
+        </div>
+        <div class="bc-biz-stat">
+          <div class="bc-biz-stat-val">13</div>
+          <div class="bc-biz-stat-label">Training lessons</div>
+        </div>
+        <div class="bc-biz-stat">
+          <div class="bc-biz-stat-val">3</div>
+          <div class="bc-biz-stat-label">Blog posts</div>
+        </div>
+        <div class="bc-biz-stat">
+          <div class="bc-biz-stat-val">Pro</div>
+          <div class="bc-biz-stat-label">BC member</div>
+        </div>
+      </div>
+
+      <!-- Latest content preview (3 articles, teaser only) -->
+      <div class="bc-section-header" style="margin-top:8px;">
+        <span class="bc-section-title">Latest from LTI</span>
+        <a href="/lti-content/" class="bc-section-link">Full library →</a>
+      </div>
+      <div class="bc-lti-grid">
+        {% for post in site.posts limit:3 %}
+        <div class="bc-lti-card" style="cursor:default;">
+          <div class="bc-lti-card-meta">
+            <span class="bc-lti-cat">
+              {% if post.date.year == 2021 %}Training{% else %}Blog{% endif %}
+            </span>
+            <span class="bc-lti-date">{{ post.date | date: "%d %b %Y" }}</span>
+          </div>
+          <h3 class="bc-lti-title">{{ post.title }}</h3>
+          <p class="bc-lti-excerpt">{{ post.content | strip_html | truncatewords: 18 }}</p>
+          <a href="/lti-content/" class="bc-lti-read">Members only — join to read →</a>
+        </div>
+        {% endfor %}
+      </div>
+
+      <div class="bc-free-note" style="margin-top:8px;">
+        <strong>Want full access?</strong> <a href="/signup/">Join BusinessCrowd free</a> to unlock the full LTI training library.
+      </div>
+
+    </div>
+  </main>
+</div>
