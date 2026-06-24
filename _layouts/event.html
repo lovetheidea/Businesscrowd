@@ -1,0 +1,49 @@
+---
+layout: app
+---
+<div class="bc-app">
+  {% include bc-sidebar.html %}
+  <main class="bc-main">
+    <div class="bc-topbar">
+      <div>
+        <a href="/lti-content/" class="bc-back-link">← LTI Content</a>
+        <h1 class="bc-topbar-title" style="margin-top:4px;">{{ page.title }}</h1>
+      </div>
+      {% include bc-topbar-right.html %}
+    </div>
+    <div id="bc-event-gate" style="display:none;">
+      <div class="bc-feed">
+        <div class="bc-lti-gate-card">
+          <div class="bc-lti-gate-icon">📅</div>
+          <div class="bc-lti-gate-title">Members only</div>
+          <div class="bc-lti-gate-desc">Events are exclusive to BusinessCrowd members.</div>
+          <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;">
+            <a href="/signup/" class="bc-auth-btn" style="width:auto;padding:10px 24px;display:inline-block;text-decoration:none;">Join free →</a>
+            <a href="/login/" class="bc-topbar-auth-link">Sign in</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="bc-event-content" style="display:none;">
+      <div class="bc-feed">
+        <div class="bc-content-article">
+          <div class="bc-event-detail-header">
+            {% if page.date_start %}<div class="bc-event-detail-date">📅 {{ page.date_start }}{% if page.time_start %} · {{ page.time_start }}{% if page.time_end %} – {{ page.time_end }}{% endif %}{% endif %}</div>{% endif %}
+            {% if page.location %}<div class="bc-event-detail-date">📍 {{ page.location }}</div>{% endif %}
+            {% if page.price %}<div class="bc-event-detail-date">🎟 {{ page.price }}</div>{% endif %}
+            {% if page.speakers.first %}<div class="bc-event-detail-date">🎤 {{ page.speakers | join: ", " }}</div>{% endif %}
+            {% if page.categories.first %}<div style="margin-top:8px;">{% for cat in page.categories %}<span class="bc-lti-cat" style="margin-right:6px;">{{ cat }}</span>{% endfor %}</div>{% endif %}
+          </div>
+          <div class="bc-prose">{{ content }}</div>
+          {% if page.website %}<div style="margin-top:20px;"><a href="{{ page.website }}" target="_blank" rel="noopener" class="bc-auth-btn" style="width:auto;padding:10px 24px;display:inline-block;text-decoration:none;">Register / Find out more ↗</a></div>{% endif %}
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+<script>
+fetch('/api/me').then(function(r){return r.ok?r.json():null;}).then(function(u){
+  document.getElementById(u?'bc-event-content':'bc-event-gate').style.display='';
+  if(u){var av=document.getElementById('bc-avatar-btn');var ab=document.getElementById('bc-auth-btns');var i=(u.name||'?').split(' ').map(function(n){return n[0];}).join('').slice(0,2).toUpperCase();if(av){av.textContent=i;av.style.display='';}if(ab)ab.style.display='none';}
+}).catch(function(){document.getElementById('bc-event-gate').style.display='';});
+</script>

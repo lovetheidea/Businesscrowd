@@ -1,0 +1,44 @@
+---
+layout: app
+---
+<div class="bc-app">
+  {% include bc-sidebar.html %}
+  <main class="bc-main">
+    <div class="bc-topbar">
+      <div>
+        <a href="/lti-content/" class="bc-back-link">← LTI Content</a>
+        <h1 class="bc-topbar-title" style="margin-top:4px;">{{ page.title }}</h1>
+      </div>
+      {% include bc-topbar-right.html %}
+    </div>
+
+    <div id="bc-lesson-gate" style="display:none;">
+      <div class="bc-feed">
+        <div class="bc-lti-gate-card">
+          <div class="bc-lti-gate-icon">🔒</div>
+          <div class="bc-lti-gate-title">Members only</div>
+          <div class="bc-lti-gate-desc">This lesson is part of the LTI training library — exclusive to BusinessCrowd members.</div>
+          <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;">
+            <a href="/signup/" class="bc-auth-btn" style="width:auto;padding:10px 24px;display:inline-block;text-decoration:none;">Join free →</a>
+            <a href="/login/" class="bc-topbar-auth-link">Sign in</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="bc-lesson-content" style="display:none;">
+      <div class="bc-feed">
+        <div class="bc-content-article">
+          {% if page.course_id %}<div class="bc-content-meta">Part of a course · {% if page.is_preview == 'true' %}Free preview{% else %}Member lesson{% endif %}</div>{% endif %}
+          <div class="bc-prose">{{ content }}</div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+<script>
+fetch('/api/me').then(function(r){return r.ok?r.json():null;}).then(function(u){
+  document.getElementById(u?'bc-lesson-content':'bc-lesson-gate').style.display='';
+  if(u){var av=document.getElementById('bc-avatar-btn');var ab=document.getElementById('bc-auth-btns');var i=(u.name||'?').split(' ').map(function(n){return n[0];}).join('').slice(0,2).toUpperCase();if(av){av.textContent=i;av.style.display='';}if(ab)ab.style.display='none';}
+}).catch(function(){document.getElementById('bc-lesson-gate').style.display='';});
+</script>

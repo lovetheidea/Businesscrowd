@@ -11,18 +11,18 @@ permalink: /lti-content/
       <div>
         <a href="/businesses/love-the-idea/" class="bc-back-link">← Love the Idea</a>
         <h1 class="bc-topbar-title" style="margin-top:4px;">LTI Content</h1>
-        <p class="bc-topbar-sub">Training &amp; resources from Love the Idea · Members only</p>
+        <p class="bc-topbar-sub">Training, courses &amp; events from Love the Idea · Members only</p>
       </div>
       {% include bc-topbar-right.html %}
     </div>
 
-    <!-- Auth gate — hidden until JS checks session -->
+    <!-- Auth gate -->
     <div id="bc-lti-gate" style="display:none;">
       <div class="bc-feed">
         <div class="bc-lti-gate-card">
           <div class="bc-lti-gate-icon">🔒</div>
           <div class="bc-lti-gate-title">Members only</div>
-          <div class="bc-lti-gate-desc">The LTI training library is exclusive to BusinessCrowd members. Sign up free to get instant access.</div>
+          <div class="bc-lti-gate-desc">The LTI training library is exclusive to BusinessCrowd members. Sign up free to unlock {{ site.lessons.size }} lessons, {{ site.courses.size }} courses and {{ site.events.size }} events.</div>
           <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;">
             <a href="/signup/" class="bc-auth-btn" style="width:auto;padding:10px 24px;display:inline-block;text-decoration:none;">Join free →</a>
             <a href="/login/" class="bc-topbar-auth-link">Sign in</a>
@@ -31,57 +31,95 @@ permalink: /lti-content/
       </div>
     </div>
 
-    <!-- Content — shown when authenticated -->
+    <!-- Authenticated content -->
     <div id="bc-lti-content" style="display:none;">
       <div class="bc-feed">
 
-        <!-- Tabs -->
         <div class="bc-lti-tabs">
-          <button class="bc-lti-tab is-active" data-tab="training">
-            Training Lessons
-            <span class="bc-nav-badge" style="background:#4C6EF5;">13</span>
+          <button class="bc-lti-tab is-active" data-tab="courses">
+            Courses
+            <span class="bc-nav-badge" style="background:#4C6EF5;">{{ site.courses.size }}</span>
+          </button>
+          <button class="bc-lti-tab" data-tab="lessons">
+            Lessons
+            <span class="bc-nav-badge" style="background:#059669;">{{ site.lessons.size }}</span>
           </button>
           <button class="bc-lti-tab" data-tab="blog">
             Blog
-            <span class="bc-nav-badge" style="background:#9CA3AF;">3</span>
+            <span class="bc-nav-badge" style="background:#EA580C;">{{ site.posts.size }}</span>
           </button>
           <button class="bc-lti-tab" data-tab="events">
             Events
+            <span class="bc-nav-badge" style="background:#7C3AED;">{{ site.events.size }}</span>
           </button>
         </div>
 
-        <!-- Training tab -->
-        <div class="bc-lti-tab-panel" id="bc-tab-training">
+        <!-- Courses -->
+        <div class="bc-lti-tab-panel" id="bc-tab-courses">
           <div class="bc-section-header">
-            <span class="bc-section-title">E-Learning &amp; Business Training</span>
+            <span class="bc-section-title">Courses</span>
           </div>
           <div class="bc-lti-grid">
-            {% assign training_posts = site.posts | where_exp: "p", "p.date.year == 2021" %}
-            {% for post in training_posts %}
-            <a href="{{ post.url | relative_url }}" class="bc-lti-card">
+            {% for course in site.courses %}
+            <a href="{{ course.url | relative_url }}" class="bc-lti-card">
               <div class="bc-lti-card-meta">
-                <span class="bc-lti-cat">Training</span>
-                <span class="bc-lti-date">{{ post.date | date: "%d %b %Y" }}</span>
+                {% if course.categories.first %}<span class="bc-lti-cat">{{ course.categories.first }}</span>{% endif %}
+                {% if course.level %}<span class="bc-lti-date">{{ course.level | capitalize }}</span>{% endif %}
               </div>
-              <h3 class="bc-lti-title">{{ post.title }}</h3>
-              <p class="bc-lti-excerpt">{{ post.content | strip_html | truncatewords: 22 }}</p>
-              <span class="bc-lti-read">Read lesson →</span>
+              <h3 class="bc-lti-title">{{ course.title }}</h3>
+              {% if course.duration_minutes %}<p class="bc-lti-excerpt">⏱ {{ course.duration_minutes }} minutes{% if course.audience %} · {{ course.audience | truncatewords: 8 }}{% endif %}</p>{% else %}<p class="bc-lti-excerpt">{{ course.content | strip_html | truncatewords: 18 }}</p>{% endif %}
+              <span class="bc-lti-read">View course →</span>
             </a>
             {% endfor %}
           </div>
         </div>
 
-        <!-- Blog tab -->
+        <!-- Lessons -->
+        <div class="bc-lti-tab-panel" id="bc-tab-lessons" style="display:none;">
+          <div class="bc-section-header">
+            <span class="bc-section-title">All Lessons ({{ site.lessons.size }})</span>
+          </div>
+          <div style="max-width:680px;">
+            {% assign published_lessons = site.lessons | where: "status", "publish" %}
+            {% assign draft_lessons = site.lessons | where_exp: "l", "l.status != 'publish'" %}
+            {% if published_lessons.size > 0 %}
+            <div class="bc-section-header" style="margin-top:0;"><span class="bc-section-title" style="font-size:12px;color:#9CA3AF;">AVAILABLE NOW</span></div>
+            {% for lesson in published_lessons %}
+            <a href="{{ lesson.url | relative_url }}" class="bc-lesson-row">
+              <div class="bc-lesson-row-num">{{ forloop.index }}</div>
+              <div class="bc-lesson-row-body">
+                <div class="bc-lesson-row-title">{{ lesson.title }}</div>
+              </div>
+              <span class="bc-lti-read" style="flex-shrink:0;">→</span>
+            </a>
+            {% endfor %}
+            {% endif %}
+            {% if draft_lessons.size > 0 %}
+            <div class="bc-section-header" style="margin-top:16px;"><span class="bc-section-title" style="font-size:12px;color:#9CA3AF;">COMING SOON</span></div>
+            {% for lesson in draft_lessons limit:20 %}
+            <div class="bc-lesson-row bc-lesson-row--draft">
+              <div class="bc-lesson-row-num" style="background:#F3F4F6;color:#D1D5DB;">{{ forloop.index }}</div>
+              <div class="bc-lesson-row-body">
+                <div class="bc-lesson-row-title" style="color:#9CA3AF;">{{ lesson.title }}</div>
+              </div>
+              <span class="bc-lti-cat" style="font-size:10px;flex-shrink:0;background:#F3F4F6;color:#9CA3AF;">Soon</span>
+            </div>
+            {% endfor %}
+            {% if draft_lessons.size > 20 %}<div style="font-size:13px;color:#9CA3AF;padding:12px 0;">+ {{ draft_lessons.size | minus: 20 }} more coming soon</div>{% endif %}
+            {% endif %}
+          </div>
+        </div>
+
+        <!-- Blog -->
         <div class="bc-lti-tab-panel" id="bc-tab-blog" style="display:none;">
           <div class="bc-section-header">
             <span class="bc-section-title">LTI Blog</span>
           </div>
           <div class="bc-lti-grid">
-            {% assign blog_posts = site.posts | where_exp: "p", "p.date.year >= 2022" %}
-            {% for post in blog_posts %}
+            {% for post in site.posts %}
             <a href="{{ post.url | relative_url }}" class="bc-lti-card">
               <div class="bc-lti-card-meta">
-                <span class="bc-lti-cat" style="background:#F0FFF4;color:#059669;">Blog</span>
+                {% if post.categories.first %}<span class="bc-lti-cat" style="background:#F0FFF4;color:#059669;">{{ post.categories.first }}</span>{% endif %}
                 <span class="bc-lti-date">{{ post.date | date: "%d %b %Y" }}</span>
               </div>
               <h3 class="bc-lti-title">{{ post.title }}</h3>
@@ -92,37 +130,33 @@ permalink: /lti-content/
           </div>
         </div>
 
-        <!-- Events tab -->
+        <!-- Events -->
         <div class="bc-lti-tab-panel" id="bc-tab-events" style="display:none;">
           <div class="bc-section-header">
-            <span class="bc-section-title">Upcoming Events</span>
+            <span class="bc-section-title">Events ({{ site.events.size }})</span>
           </div>
           <div class="bc-lti-events-list">
-            <div class="bc-lti-event-card">
+            {% assign sorted_events = site.events | sort: "date_start" | reverse %}
+            {% for event in sorted_events %}
+            <a href="{{ event.url | relative_url }}" class="bc-lti-event-card" style="text-decoration:none;">
               <div class="bc-lti-event-date">
-                <div class="bc-lti-event-day">TBC</div>
-                <div class="bc-lti-event-month">2026</div>
+                {% if event.date_start %}
+                <div class="bc-lti-event-day">{{ event.date_start | slice: 8, 2 | plus: 0 }}</div>
+                <div class="bc-lti-event-month">{{ event.date_start | slice: 5, 2 | plus: 0 | date: "%b" }}</div>
+                {% else %}
+                <div class="bc-lti-event-day">—</div>
+                {% endif %}
               </div>
               <div class="bc-lti-event-body">
-                <div class="bc-lti-event-name">Love the Idea — Live Workshop</div>
-                <div class="bc-lti-event-desc">Join the LTI team for a live interactive business training session. Details coming soon.</div>
-                <span class="bc-lti-cat" style="margin-top:8px;display:inline-block;">Online · Free for members</span>
+                <div class="bc-lti-event-name">{{ event.title }}</div>
+                <div class="bc-lti-event-desc">
+                  {% if event.time_start %}⏰ {{ event.time_start }}{% if event.time_end %} – {{ event.time_end }}{% endif %} &nbsp;{% endif %}
+                  {% if event.location %}📍 {{ event.location }}{% endif %}
+                </div>
+                {% if event.categories.first %}<span class="bc-lti-cat" style="margin-top:6px;display:inline-block;">{{ event.categories.first }}</span>{% endif %}
               </div>
-            </div>
-            <div class="bc-lti-event-card">
-              <div class="bc-lti-event-date">
-                <div class="bc-lti-event-day">TBC</div>
-                <div class="bc-lti-event-month">2026</div>
-              </div>
-              <div class="bc-lti-event-body">
-                <div class="bc-lti-event-name">EduMail Masterclass</div>
-                <div class="bc-lti-event-desc">Learn how to build and monetise an email-based training programme. From curriculum to delivery.</div>
-                <span class="bc-lti-cat" style="margin-top:8px;display:inline-block;">Online · Free for members</span>
-              </div>
-            </div>
-          </div>
-          <div class="bc-free-note" style="margin-top:16px;">
-            Events are added here as they're scheduled. Check back soon.
+            </a>
+            {% endfor %}
           </div>
         </div>
 
@@ -133,33 +167,44 @@ permalink: /lti-content/
 
 <script>
 (function () {
-  fetch('/api/me')
-    .then(function (r) { return r.ok ? r.json() : null; })
-    .then(function (user) {
-      if (!user) {
-        document.getElementById('bc-lti-gate').style.display = '';
-        return;
-      }
-      document.getElementById('bc-lti-content').style.display = '';
-      // Update topbar
-      var initials = (user.name || '?').split(' ').map(function(n){return n[0];}).join('').slice(0,2).toUpperCase();
-      var av = document.getElementById('bc-avatar-btn');
-      var ab = document.getElementById('bc-auth-btns');
-      if (av) { av.textContent = initials; av.style.display = ''; }
-      if (ab) ab.style.display = 'none';
-    })
-    .catch(function () {
-      document.getElementById('bc-lti-gate').style.display = '';
-    });
+  // Check dev bypass first (local dev only)
+  var devUser = null;
+  try { devUser = JSON.parse(localStorage.getItem('bc_dev_user')); } catch(e) {}
 
-  // Tab switching
-  document.querySelectorAll('.bc-lti-tab').forEach(function (tab) {
-    tab.addEventListener('click', function () {
-      document.querySelectorAll('.bc-lti-tab').forEach(function (t) { t.classList.remove('is-active'); });
-      document.querySelectorAll('.bc-lti-tab-panel').forEach(function (p) { p.style.display = 'none'; });
-      tab.classList.add('is-active');
-      document.getElementById('bc-tab-' + tab.dataset.tab).style.display = '';
+  function showContent(user) {
+    document.getElementById('bc-lti-content').style.display = '';
+    var av = document.getElementById('bc-avatar-btn');
+    var ab = document.getElementById('bc-auth-btns');
+    var nb = document.getElementById('bc-notif-btn');
+    if (user) {
+      var i = (user.name || '?').split(' ').map(function(n){return n[0];}).join('').slice(0,2).toUpperCase();
+      if (av) { av.textContent = i; av.style.display = ''; }
+      if (nb) nb.style.display = '';
+      if (ab) ab.style.display = 'none';
+    }
+  }
+
+  if (devUser) { showContent(devUser); setupTabs(); return; }
+
+  fetch('/api/me')
+    .then(function(r){ return r.ok ? r.json() : null; })
+    .then(function(user) {
+      if (!user) { document.getElementById('bc-lti-gate').style.display = ''; return; }
+      showContent(user);
+      setupTabs();
+    })
+    .catch(function() { document.getElementById('bc-lti-gate').style.display = ''; });
+
+  function setupTabs() {
+    document.querySelectorAll('.bc-lti-tab').forEach(function(tab) {
+      tab.addEventListener('click', function() {
+        document.querySelectorAll('.bc-lti-tab').forEach(function(t){t.classList.remove('is-active');});
+        document.querySelectorAll('.bc-lti-tab-panel').forEach(function(p){p.style.display='none';});
+        tab.classList.add('is-active');
+        document.getElementById('bc-tab-' + tab.dataset.tab).style.display = '';
+      });
     });
-  });
+  }
+  setupTabs();
 })();
 </script>

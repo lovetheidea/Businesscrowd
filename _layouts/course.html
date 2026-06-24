@@ -1,0 +1,70 @@
+---
+layout: app
+---
+<div class="bc-app">
+  {% include bc-sidebar.html %}
+  <main class="bc-main">
+    <div class="bc-topbar">
+      <div>
+        <a href="/lti-content/" class="bc-back-link">← LTI Content</a>
+        <h1 class="bc-topbar-title" style="margin-top:4px;">{{ page.title }}</h1>
+      </div>
+      {% include bc-topbar-right.html %}
+    </div>
+    <div id="bc-course-gate" style="display:none;">
+      <div class="bc-feed">
+        <div class="bc-lti-gate-card">
+          <div class="bc-lti-gate-icon">🎓</div>
+          <div class="bc-lti-gate-title">Members only</div>
+          <div class="bc-lti-gate-desc">This course is part of the LTI library — exclusive to BusinessCrowd members.</div>
+          <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;">
+            <a href="/signup/" class="bc-auth-btn" style="width:auto;padding:10px 24px;display:inline-block;text-decoration:none;">Join free →</a>
+            <a href="/login/" class="bc-topbar-auth-link">Sign in</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="bc-course-content" style="display:none;">
+      <div class="bc-feed">
+        <div class="bc-content-article">
+          <div class="bc-course-meta-strip">
+            {% if page.level %}<span class="bc-lti-cat">{{ page.level | capitalize }}</span>{% endif %}
+            {% if page.duration_minutes %}<span class="bc-content-meta-item">⏱ {{ page.duration_minutes }} min</span>{% endif %}
+            {% if page.categories.first %}<span class="bc-content-meta-item">{{ page.categories | join: ", " }}</span>{% endif %}
+          </div>
+          {% if page.audience %}<p class="bc-content-meta"><strong>Who is this for:</strong> {{ page.audience }}</p>{% endif %}
+          {% if page.benefits %}<div class="bc-content-meta"><strong>What you'll learn:</strong><br>{{ page.benefits }}</div>{% endif %}
+          <div class="bc-prose">{{ content }}</div>
+
+          <!-- Lessons in this course -->
+          {% assign course_slug = page.slug %}
+          {% assign course_lessons = site.lessons | where: "course_id", page.slug %}
+          {% if course_lessons.size > 0 %}
+          <div class="bc-section-header" style="margin-top:28px;">
+            <span class="bc-section-title">Lessons ({{ course_lessons.size }})</span>
+          </div>
+          <div class="bc-lti-events-list">
+            {% for lesson in course_lessons %}
+            <a href="{{ lesson.url }}" class="bc-lti-event-card" style="text-decoration:none;">
+              <div class="bc-lti-event-date" style="background:#4C6EF5;min-width:36px;padding:10px 10px;">
+                <div style="font-size:12px;font-weight:700;">{{ forloop.index }}</div>
+              </div>
+              <div class="bc-lti-event-body">
+                <div class="bc-lti-event-name">{{ lesson.title }}</div>
+                {% if lesson.is_preview == 'true' %}<span class="bc-lti-cat" style="font-size:10px;">Free preview</span>{% endif %}
+              </div>
+            </a>
+            {% endfor %}
+          </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+<script>
+fetch('/api/me').then(function(r){return r.ok?r.json():null;}).then(function(u){
+  document.getElementById(u?'bc-course-content':'bc-course-gate').style.display='';
+  if(u){var av=document.getElementById('bc-avatar-btn');var ab=document.getElementById('bc-auth-btns');var i=(u.name||'?').split(' ').map(function(n){return n[0];}).join('').slice(0,2).toUpperCase();if(av){av.textContent=i;av.style.display='';}if(ab)ab.style.display='none';}
+}).catch(function(){document.getElementById('bc-course-gate').style.display='';});
+</script>

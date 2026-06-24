@@ -22,6 +22,15 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  lessons:
+    output: true
+    permalink: /lti-content/lessons/:slug/
+  courses:
+    output: true
+    permalink: /lti-content/courses/:slug/
+  events:
+    output: true
+    permalink: /lti-content/events/:slug/
 
 # Defaults
 defaults:
@@ -35,6 +44,21 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+  - scope:
+      path: ""
+      type: "lessons"
+    values:
+      layout: "lesson"
+  - scope:
+      path: ""
+      type: "courses"
+    values:
+      layout: "course"
+  - scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "event"
 
 # Permalinks
 permalink: /blog/:year/:month/:day/:slug/
@@ -62,3 +86,5 @@ exclude:
   - functions
   - db
   - wrangler.toml
+  - migrate-errors.json
+  - migrate-sftp-errors.json

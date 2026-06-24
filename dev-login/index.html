@@ -1,0 +1,69 @@
+---
+layout: app
+title: "Dev Login — Local Only"
+permalink: /dev-login/
+---
+<div class="bc-auth-page">
+  <div class="bc-auth-brand">
+    <a href="/" class="bc-app-logo bc-app-logo--dark">
+      <div class="bc-app-logo-icon">
+        <svg width="20" height="15" viewBox="0 0 22 17" fill="none" aria-hidden="true">
+          <ellipse cx="4.5" cy="13" rx="3.8" ry="3.2" fill="white" opacity="0.55"/>
+          <ellipse cx="11" cy="8.5" rx="5" ry="4.5" fill="white"/>
+          <ellipse cx="17.5" cy="13" rx="3.8" ry="3.2" fill="white" opacity="0.55"/>
+        </svg>
+      </div>
+      <div>
+        <div class="bc-app-logo-name">BusinessCrowd</div>
+        <div class="bc-app-logo-tld">.co.uk</div>
+      </div>
+    </a>
+  </div>
+
+  <div class="bc-auth-card">
+    <div style="background:#FFFBEB;border:1.5px solid #FDE68A;border-radius:10px;padding:12px 16px;font-size:13px;color:#92400E;margin-bottom:20px;">
+      ⚠️ <strong>Local dev only.</strong> This bypasses real auth using localStorage. Never deploy this page.
+    </div>
+
+    <h1 class="bc-auth-title">Dev Login</h1>
+    <p class="bc-auth-sub">Choose a dummy user to test member-only content locally.</p>
+
+    <div style="display:flex;flex-direction:column;gap:10px;margin-top:8px;">
+      <button class="bc-auth-btn" onclick="devLogin('Jason Pickering','jason@lovetheidea.co.uk','Love the Idea','Education &amp; Training','pro')">
+        Login as Jason (LTI · Pro)
+      </button>
+      <button class="bc-auth-btn" style="background:#059669;" onclick="devLogin('Sarah Bloom','sarah@bloom.co.uk','Bloom Health Studio','Health &amp; Wellness','free')">
+        Login as Sarah (Free member)
+      </button>
+      <button class="bc-auth-btn" style="background:#7C3AED;" onclick="devLogin('Alex Turner','alex@techflow.co.uk','TechFlow Solutions','Technology','pro')">
+        Login as Alex (TechFlow · Pro)
+      </button>
+    </div>
+
+    <div style="margin-top:20px;text-align:center;">
+      <button class="bc-topbar-auth-link" style="background:none;border:none;cursor:pointer;font-family:inherit;" onclick="devLogout()">
+        Clear dev session / Sign out
+      </button>
+    </div>
+
+    <div id="bc-dev-status" style="display:none;margin-top:16px;" class="bc-auth-success"></div>
+  </div>
+</div>
+
+<script>
+function devLogin(name, email, business_name, business_category, plan) {
+  var user = { name: name, email: email, business_name: business_name, business_category: business_category, plan: plan };
+  localStorage.setItem('bc_dev_user', JSON.stringify(user));
+  var s = document.getElementById('bc-dev-status');
+  s.textContent = 'Signed in as ' + name + '. Redirecting…';
+  s.style.display = '';
+  setTimeout(function() { window.location.href = '/'; }, 800);
+}
+function devLogout() {
+  localStorage.removeItem('bc_dev_user');
+  var s = document.getElementById('bc-dev-status');
+  s.textContent = 'Dev session cleared.';
+  s.style.display = '';
+  setTimeout(function() { window.location.href = '/'; }, 800);
+}
+</script>

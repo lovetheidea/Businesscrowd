@@ -1998,3 +1998,57 @@ a.bc-nav-item {
   .bc-biz-profile-stats { grid-template-columns: repeat(2, 1fr); }
   .bc-biz-profile-actions { flex-direction: row; }
 }
+
+/* ── LESSON ROW LIST ──────────────────────────────────────────────────────── */
+.bc-lesson-row {
+  display: flex; align-items: center; gap: 12px;
+  padding: 12px 14px; border-radius: 10px;
+  background: #fff; border: 1.5px solid #F3F4F6;
+  margin-bottom: 6px; text-decoration: none;
+  transition: border-color 0.12s;
+}
+.bc-lesson-row:hover { border-color: #C7D2FE; }
+.bc-lesson-row--draft { opacity: 0.5; cursor: default; }
+.bc-lesson-row-num {
+  width: 28px; height: 28px; border-radius: 8px;
+  background: #4C6EF5; color: #fff;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 12px; font-weight: 800; flex-shrink: 0;
+}
+.bc-lesson-row-title { font-size: 14px; font-weight: 600; color: #111827; }
+.bc-lesson-row-body { flex: 1; }
+
+/* ── CONTENT ARTICLE ─────────────────────────────────────────────────────── */
+.bc-content-article {
+  background: #fff; border: 1.5px solid #F3F4F6;
+  border-radius: 18px; padding: 28px 32px; max-width: 720px;
+}
+.bc-content-meta {
+  font-size: 12px; font-weight: 600; color: #9CA3AF;
+  margin-bottom: 16px; display: flex; align-items: center; gap: 12px;
+}
+.bc-content-meta-item { font-size: 13px; color: #6B7280; }
+.bc-course-meta-strip { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 16px; }
+
+/* ── EVENT DETAIL ────────────────────────────────────────────────────────── */
+.bc-event-detail-header {
+  background: #F8F9FB; border-radius: 12px; padding: 16px 18px;
+  margin-bottom: 20px; display: flex; flex-direction: column; gap: 6px;
+}
+.bc-event-detail-date { font-size: 14px; color: #374151; font-weight: 500; }
+
+/* ── PROSE CONTENT ───────────────────────────────────────────────────────── */
+.bc-prose {
+  font-size: 15px; line-height: 1.75; color: #374151;
+  margin-top: 16px;
+}
+.bc-prose h1,.bc-prose h2,.bc-prose h3 { color: #111827; font-weight: 800; letter-spacing: -0.4px; margin: 1.5em 0 0.5em; }
+.bc-prose h2 { font-size: 20px; }
+.bc-prose h3 { font-size: 16px; }
+.bc-prose p { margin: 0 0 1em; }
+.bc-prose ul,.bc-prose ol { padding-left: 1.5em; margin: 0 0 1em; }
+.bc-prose li { margin-bottom: 0.3em; }
+.bc-prose img { max-width: 100%; border-radius: 10px; margin: 12px 0; }
+.bc-prose a { color: #4C6EF5; text-decoration: underline; }
+.bc-prose blockquote { border-left: 3px solid #4C6EF5; margin: 0 0 1em 0; padding: 8px 16px; background: #EEF2FF; border-radius: 0 8px 8px 0; }
+.bc-prose strong { color: #111827; }
