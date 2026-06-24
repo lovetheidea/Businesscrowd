@@ -4,12 +4,12 @@ title: "Niche Research, Part 3: Passions, Interests, and Your Five Categories"
 date: "2021-11-17"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/module-1-starting-your-amazon-business/lesson/niche-research-part-3-passions-interests-and-your-five-categories/"
+original_url: "/lti-content/courses/module-1-starting-your-amazon-business/lesson/niche-research-part-3-passions-interests-and-your-five-categories/"
 ---
 
 This is the third lesson on the niche research topic. This module will walk you through the process of choosing a product to sell, connecting it to your personal interests/passions, and providing a brainstorming exercise to help you prepare for Module 2.
 
-![Niche Research, Part 3: Passions, Interests, and Your Five Categories](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Niche-Research-Part-3-Passions-Interests-and-Your-Five-Categories-300x185.png)
+![Niche Research, Part 3: Passions, Interests, and Your Five Categories](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Niche-Research-Part-3-Passions-Interests-and-Your-Five-Categories-300x185.png)
 
 ## **Choosing a Product to Sell** 
 

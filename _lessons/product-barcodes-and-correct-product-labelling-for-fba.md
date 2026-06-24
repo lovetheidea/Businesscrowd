@@ -4,7 +4,7 @@ title: "Product Barcodes and Correct Product Labelling for FBA"
 date: "2021-11-23"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course/lesson/product-barcodes-and-correct-product-labeling-for-fba/"
+original_url: "/lti-content/courses/amazon-mastery-course/lesson/product-barcodes-and-correct-product-labeling-for-fba/"
 ---
 
 ### **The purpose of this lesson** 
@@ -18,7 +18,7 @@ original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course/l
 
 2.  To guide you through the process of preparing your products to be sold through FBA 
 
-![Product Barcodes and Correct Product Labeling for FBA](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/12/Module-3-Image-7-300x185.png)
+![Product Barcodes and Correct Product Labeling for FBA](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/12/Module-3-Image-7-300x185.png)
 
 Amazon is one of the world's most well-known brand names. FBA, which stands for Fulfillment by Amazon, is one of the features they provide to users. 
 

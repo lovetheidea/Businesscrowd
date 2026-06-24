@@ -4,7 +4,7 @@ title: "Why Get Into Blogging Today?"
 date: "2024-03-12"
 status: "publish"
 course_slug: "what-to-do-with-your-spare-time"
-original_url: "https://academy.lovetheidea.co.uk/courses/what-to-do-with-your-spare-time/lesson/why-get-into-blogging-today/"
+original_url: "/lti-content/courses/what-to-do-with-your-spare-time/lesson/why-get-into-blogging-today/"
 ---
 
 Beyond just filling idle moments, blogging is an investment that pays off in the long run. A handful of well-crafted posts now can translate into a steady stream of leads and recognition down the line.

@@ -4,12 +4,12 @@ title: "Drive Traffic To Your Listings Overview"
 date: "2022-01-21"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/drive-traffic-to-your-listings-overview/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/drive-traffic-to-your-listings-overview/"
 ---
 
 In this Module (Drive traffic to your Amazon Listings), you'll discover some incredible strategies for driving BUYER traffic to your Amazon product listing. This quick overview will provide you with an idea of the various methods and when to utilize them.
 
-![Driving Traffic to your Amazon Listings Img](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/02/Driving-Traffic-to-your-Amazon-Listings-Img-300x185.png)
+![Driving Traffic to your Amazon Listings Img](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/02/Driving-Traffic-to-your-Amazon-Listings-Img-300x185.png)
 
 ### **Lightning Deal**
 

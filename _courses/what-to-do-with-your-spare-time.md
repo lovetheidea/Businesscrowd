@@ -25,11 +25,11 @@ tags:
   - "Management"
   - "Marketing Strategy"
   - "Personal Development"
-original_url: "https://academy.lovetheidea.co.uk/?post_type=courses&#038;p=98341"
+original_url: "/lti-content/?post_type=courses&#038;p=98341"
 ---
 
 Unlock the secrets of successful writing with our workshop! Transform spare moments into a writing adventure and master the art of creating a captivating blog. From choosing your niche to crafting compelling titles, discover the roadmap to effective blogging.
 
 ### Enroll Now!
 
-Dive into our complete workshop and unlock the essentials for blogging success! Secure your spot today for a rewarding and enriching writing journey. [![Go to events](https://academy.lovetheidea.co.uk/wp-content/uploads/2024/03/Blue-and-Yellow-Technology-LinkedIn-Banner-5.jpg)](/events/)
+Dive into our complete workshop and unlock the essentials for blogging success! Secure your spot today for a rewarding and enriching writing journey. [![Go to events](https://r2.businesscrowd.co.uk/wp-content/uploads/2024/03/Blue-and-Yellow-Technology-LinkedIn-Banner-5.jpg)](/events/)

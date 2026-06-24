@@ -5,12 +5,12 @@ date: "2021-11-17"
 status: "publish"
 course_id: "96915"
 is_preview: "true"
-original_url: "https://academy.lovetheidea.co.uk/courses/module-1-starting-your-amazon-business/lesson/amazon-seller-central-selling-on-amazon/"
+original_url: "/lti-content/courses/module-1-starting-your-amazon-business/lesson/amazon-seller-central-selling-on-amazon/"
 ---
 
 In order to sell physical products on Amazon, you need an Amazon Seller Central account. This lesson explains what it is and how to set it up.
 
-![Amazon Seller Central: Selling on Amazon](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Image-3-300x185.png)
+![Amazon Seller Central: Selling on Amazon](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Image-3-300x185.png)
 
 ## **Amazon Seller Central** 
 

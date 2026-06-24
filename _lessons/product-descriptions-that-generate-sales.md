@@ -4,12 +4,12 @@ title: "Product Descriptions that Generate Sales"
 date: "2021-11-26"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-course-part-2/lesson/product-descriptions-that-generate-sales/"
+original_url: "/lti-content/courses/amazon-course-part-2/lesson/product-descriptions-that-generate-sales/"
 ---
 
 In this lesson, we'll teach you how to write an Amazon product description that converts.  
 
-![Product Descriptions that Generate Sales](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/12/Module-4-images-4-300x185.png)
+![Product Descriptions that Generate Sales](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/12/Module-4-images-4-300x185.png)
 
 ### **Why Your Amazon Description is Important** 
 
@@ -23,15 +23,15 @@ Keep in mind that increasing your conversion rate will result in more traffic. F
 
 Amazon used to allow product descriptions with HTML formatting. However, they announce that all product descriptions with HTML tags will no longer be displayed by Amazon.
 
-![Amazon News](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/aMAZON-nEWS-300x138.png)
+![Amazon News](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/aMAZON-nEWS-300x138.png)
 
 Why HTML formatting in amazon product descriptions is useful? Well as a seller, we want our product descriptions to be an answer to potential questions that highlight what distinguishes your product from others. Product descriptions are critical components of any Amazon listing. 
 
 ### **SAMPLE of the product description with HTML tag:**
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/04/HTMLFormat-300x300.png) 
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/04/HTMLFormat-300x300.png) 
 
-### **SAMPLE of the product description without HTML tag:**![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/04/WithoutHTML-Format-300x79.png)
+### **SAMPLE of the product description without HTML tag:**![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/04/WithoutHTML-Format-300x79.png)
 
 Examine the differences in the product description formatting. HTML tags contributed to the text's versatility and appeal. Not until Amazon announced that HTML tags in product descriptions would be prohibited. What should we do next? Please feel free to review the tips we've included below on how to make our product descriptions more appealing even without HTML tags.
 
@@ -73,7 +73,7 @@ When used correctly, adding A+ content to your product detail pages can result i
 
 The image below is one example of an A+ Content Product description. See, it’s more attractive right. 
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/A-Content-Product-Description-300x133.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/A-Content-Product-Description-300x133.png)
 
 ### **Other Elements of a Product Detail Page** 
 
@@ -91,13 +91,13 @@ Along with the title, description, etc., the following other fields are essentia
 
 -   -   **Features Bullets -** Seller can make up to five Feature Bullets because they appear at the top of the Amazon page, these are extremely important. Make certain that these sell the product. Think about what would really sell a person to want to buy your product.
 
-![Features Bullets ](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Features-Bullets-300x173.png)
+![Features Bullets ](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Features-Bullets-300x173.png)
 
 According to Amazon, this is where you can highlight the features of your products. As the final bullet point, you may include warranty information or included accessories.
 
 REMEMBER: For each key feature of the product you must include its benefits. See the image below as the best example provided by Amazon.
 
-![Features Bullets Best Sample](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Features-Bullets-Best-Sample-300x56.png)
+![Features Bullets Best Sample](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Features-Bullets-Best-Sample-300x56.png)
 
 -   -   **Search Terms-** These aren't particularly significant. Simply choose your best keywords from your keyword research that we discussed in this lesson **Choosing the Best Keywords to Drive Amazon Sales** and enter them there.
 

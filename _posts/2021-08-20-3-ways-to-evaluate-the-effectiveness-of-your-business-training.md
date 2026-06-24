@@ -11,7 +11,7 @@ tags:
   - "business training"
   - "online training"
   - "workforce"
-original_url: "https://academy.lovetheidea.co.uk/?p=93718"
+original_url: "/lti-content/?p=93718"
 ---
 
 The benefits of online business training have been [well established](https://www.knowledgeanywhere.com/resources/article-detail/the-advantages-and-disadvantages-of-a-virtual-learning-environment). And yet, not every organisation achieves these benefits. In fact, as cited by the Harvard Business Review, a recent study found training and development to be among the daily areas employees are least satisfied with.
@@ -20,7 +20,7 @@ Simply offering this type of learning environment is not enough. It is vital to 
 
 **Consider these 3 ways to evaluate the effectiveness of your online business training.**
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/online_training-1024x683.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/online_training-1024x683.jpg)
 
 **1) Gather Online Training Feedback**
 
@@ -44,7 +44,7 @@ Each of these options brings awareness to a different dimension of your training
 
 In addition to giving you the insights mentioned above, gathering feedback makes your teams feel that their opinions matter. Training and learning will become more collaborative because it is shaped by each of your employees.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/4-1024x678.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/4-1024x678.jpg)
 
 **2) Assess Your eLearning Results**
 
@@ -86,7 +86,7 @@ Create a post-training survey that directly compares to your pre-training evalua
 
 Each of these steps should be built directly around your KPIs. That way, you have a specific picture of the effectiveness and success of your training, enabling you to make the necessary adjustments as needed
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/5-1024x683.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/5-1024x683.jpg)
 
 **3) Leverage Social Media Metrics**
 

@@ -4,7 +4,7 @@ title: "Using Amazon’s Powerful Reporting System"
 date: "2022-01-31"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/using-amazons-powerful-reporting-system/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/using-amazons-powerful-reporting-system/"
 ---
 
 This lesson will show you how to use Amazon's reporting system to access highly useful data about your business. We'll also go through how to use a daily tracking spreadsheet to help you manage and grow your business.

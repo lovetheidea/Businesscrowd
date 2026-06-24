@@ -4,12 +4,12 @@ title: "Your “Available at Amazon” Badge"
 date: "2021-11-17"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/title/lesson/your-available-at-amazon-badge/"
+original_url: "/lti-content/courses/title/lesson/your-available-at-amazon-badge/"
 ---
 
 In this lesson, you will learn how to the importance and how to use your” Available at Amazon” badge.
 
-![Your “Available at Amazon” Badge](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Your-Available-at-Amazon-Badge-300x185.png)
+![Your “Available at Amazon” Badge](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Your-Available-at-Amazon-Badge-300x185.png)
 
 ## **Taking Action**
 
@@ -30,7 +30,7 @@ You're ready to go, which demonstrates that you're breaking the cycle. Remember,
 
 This is how your badge will look:
 
-![Available at Amazon Badge](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Available-at-Amazon-Badge-300x157.png)
+![Available at Amazon Badge](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Available-at-Amazon-Badge-300x157.png)
 
 Each badge includes a description, so anyone looking at it can understand that you're not just gathering information, but are also taking action and are now an Amazon seller.
 

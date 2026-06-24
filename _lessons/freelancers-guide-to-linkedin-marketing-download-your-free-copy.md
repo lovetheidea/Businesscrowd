@@ -4,7 +4,7 @@ title: "Freelancer’s Guide to LinkedIn Marketing: Download Your Free Copy"
 date: "2024-05-24"
 status: "publish"
 course_slug: "want-to-build-a-massive-linkedin-network-quickly"
-original_url: "https://academy.lovetheidea.co.uk/courses/want-to-build-a-massive-linkedin-network-quickly/lesson/mastering-the-art-of-linkedin-networking-download-your-free-copy/"
+original_url: "/lti-content/courses/want-to-build-a-massive-linkedin-network-quickly/lesson/mastering-the-art-of-linkedin-networking-download-your-free-copy/"
 ---
 
 Are you a freelancer looking to boost your LinkedIn presence and attract more clients? We've got you covered! Our comprehensive guide, "Powerful LinkedIn Marketing Tactics for Freelancers," is now available as a FREE downloadable PDF.

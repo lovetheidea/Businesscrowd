@@ -4,12 +4,12 @@ title: "Hiring a Designer on Upwork"
 date: "2021-11-23"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course/lesson/hiring-a-designer-on-upwork/"
+original_url: "/lti-content/courses/amazon-mastery-course/lesson/hiring-a-designer-on-upwork/"
 ---
 
 You'll need to hire your own designer unless the supplier you're using will do it for you (which many wills). It's simple and inexpensive once you know how.
 
-### ![Hiring a Designer on Upwork](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/12/Module-3-Image-10-300x185.png)
+### ![Hiring a Designer on Upwork](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/12/Module-3-Image-10-300x185.png)
 
 ### **Design** 
 

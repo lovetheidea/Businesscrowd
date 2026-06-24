@@ -4,12 +4,12 @@ title: "Using an Online Press Release"
 date: "2021-12-21"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/using-an-online-press-release/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/using-an-online-press-release/"
 ---
 
 The goal of this lesson is to provide an overview of how to use press releases to promote your physical product company effectively.
 
-![Using an Online Press Release Image](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Using-an-Online-Press-Release-IMG-300x185.png)
+![Using an Online Press Release Image](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Using-an-Online-Press-Release-IMG-300x185.png)
 
 ## **What is an Online Press Release?** 
 

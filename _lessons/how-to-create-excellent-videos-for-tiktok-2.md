@@ -4,7 +4,7 @@ title: "How to Create Excellent Videos for TikTok"
 date: "2024-06-14"
 status: "publish"
 course_slug: "is-tiktok-good-for-business"
-original_url: "https://academy.lovetheidea.co.uk/courses/is-tiktok-good-for-business-2/lesson/how-to-create-excellent-videos-for-tiktok-2/"
+original_url: "/lti-content/courses/is-tiktok-good-for-business/lesson/how-to-create-excellent-videos-for-tiktok-2/"
 ---
 
 TikTok content focuses on videos and image content on a slideshow. Background music is critical to TikTok content, and the app has an excellent range of sounds to apply to videos. However, you can’t rely on the music of TikTok to ensure maximum performance on the platform. 

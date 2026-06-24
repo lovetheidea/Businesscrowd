@@ -7,12 +7,12 @@ categories:
   - "Business"
   - "Guest Blog"
   - "Tips"
-original_url: "https://academy.lovetheidea.co.uk/?p=93752"
+original_url: "/lti-content/?p=93752"
 ---
 
 No matter what the nature of your business, having a well-trained and enthusiastic workforce is essential to your success. Keeping employees abreast of the latest software packages and business models can help your business be more successful, and the online learning model can reduce your costs while providing great convenience for your workforce.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/bills-1024x601.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/bills-1024x601.jpg)
 
 **Lower Costs**
 
@@ -22,7 +22,7 @@ Traditional training can be expensive, and the costs do not end with the courses
 
 While it is important to cross-train employees and bring the entire department up to speed, having everyone in a department out of the office at the same time isn't practical. With online learning, everyone in the department can get the needed training in the office. Then if an emergency arises, your employees are there to solve the problem and keep your business running smoothly.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/convinience-1024x683.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/convinience-1024x683.jpg)
 
 **Convenience**
 

@@ -3,7 +3,7 @@ layout: "lesson"
 title: "How to Optimise the Sending of Email Marketing Campaigns"
 date: "2024-04-05"
 status: "publish"
-original_url: "https://academy.lovetheidea.co.uk/courses/new-course-2/lesson/how-to-optimise-the-sending-of-email-marketing-campaigns/"
+original_url: "/lti-content/courses/new-course-2/lesson/how-to-optimise-the-sending-of-email-marketing-campaigns/"
 ---
 
 In the previous lesson, we’ve spoken about the importance of optimising the content for the reader. 

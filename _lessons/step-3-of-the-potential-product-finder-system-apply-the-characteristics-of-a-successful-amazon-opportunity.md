@@ -4,12 +4,12 @@ title: "Step 3 of the Potential Product Finder System: Apply the Characteristics
 date: "2021-11-21"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course/lesson/step-3-of-the-potential-product-finder-system-apply-the-characteristics-of-a-successful-amazon-opportunity/"
+original_url: "/lti-content/courses/amazon-mastery-course/lesson/step-3-of-the-potential-product-finder-system-apply-the-characteristics-of-a-successful-amazon-opportunity/"
 ---
 
 In this lesson, you will apply the Characteristics of a Successful Amazon Killer Amazon Product to the list of 15- 20 opportunities that you discovered in the previous lesson. This lesson will guide you through a few possibilities to show you how to begin determining which opportunities are worth pursuing and which are the greatest. Once you've seen how it's done, you can replicate the process for the other possibilities on your list.
 
-![Step 3 of the Potential Product Finder System: Apply the Characteristics of a Successful Amazon Opportunity](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Step-3-of-the-Potential-Product-Finder-System-Apply-the-Characteristics-of-a-Successful-Amazon-Opportunity-300x185.png)
+![Step 3 of the Potential Product Finder System: Apply the Characteristics of a Successful Amazon Opportunity](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Step-3-of-the-Potential-Product-Finder-System-Apply-the-Characteristics-of-a-Successful-Amazon-Opportunity-300x185.png)
 
 ## **Potential Product Opportunities Review** 
 
@@ -31,21 +31,21 @@ In this lesson you’ll notice several other columns for recording useful inform
     -   \# Reviews Product #2 
     -   \# Reviews Product #3
 
-![Amazon Product Opportunities Template image](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/03/unnamed-1-300x183.png)
+![Amazon Product Opportunities Template image](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/03/unnamed-1-300x183.png)
 
 Let’s look at two opportunities found in the previous lesson. See the image below to how we input all the information needed on our  Amazon Product Opportunities spreadsheet.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/03/unnamed-20-300x66.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/03/unnamed-20-300x66.png)
 
 **Opportunity 1:** [Copco Basics 3-Tier Spice Pantry Kitchen Cabinet Organizer, 10-Inch, Cameo Blue](https://www.amazon.com/Copco-Kitchen-Cabinet-Organizer-10-Inch/dp/B095X82VJ9/ref=zg_bs_kitchen_4/130-1127283-1120515?pd_rd_i=B09Q8J51BB&psc=1)
 
-![Sample product opportunity image](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/03/unnamed-18-300x156.png)
+![Sample product opportunity image](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/03/unnamed-18-300x156.png)
 
 **Price:** $7.99 (quite low to our desired price but that’s fine)
 
 In the case of this product, Copco is the Brand name. As a result, targeting with the keyword Copco Spice Organizer will be ineffective. Amazon can assist you with this. You might try an Amazon search for "Spice organizer" to see what else comes up. For example, when you search for "Spice organizer” you will see a brief list of other search phrases under **'Related Searches.'** One of these is the non-brand name keyword "Spice Rack Organizer for Cabinet." This is a generic keyword that someone searching for something relevant to this product might use, and it could be a nice word for you to use.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/03/unnamed-14-300x53.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/03/unnamed-14-300x53.png)
 
 So, to continue our search, we'll use a non-brand name - "**Spice rack organizer for cabinet**" - to see what the other products look like.
 
@@ -55,15 +55,15 @@ So, to continue our search, we'll use a non-brand name - "**Spice rack organizer
 
 **Bestseller Ranking (BSR)**: #4 in “_kitchen & DIning_” with 33 645 ratings. This means this product has been selling better than all other products. You don’t need to worry about the rankings in the sub-categories. 
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/03/unnamed-15-300x176.png)  
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/03/unnamed-15-300x176.png)  
 
 **Ranking Product #2**: 536  (Bamboo Expandable Display Shelf). This ranking is quite good as well.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/03/unnamed-16-300x101.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/03/unnamed-16-300x101.png)
 
 **Ranking Product #3:** 2025 (Iron stackable spice rack)
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/03/unnamed-17-300x103.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/03/unnamed-17-300x103.png)
 
 **\# of Reviews for Product 1**:  33 645. Most products will not have this many reviews. 
 

@@ -4,7 +4,7 @@ title: "Your First Product Inventory Order"
 date: "2021-11-24"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course/lesson/your-first-product-inventory-order/"
+original_url: "/lti-content/courses/amazon-mastery-course/lesson/your-first-product-inventory-order/"
 ---
 
 ## **Introduction**

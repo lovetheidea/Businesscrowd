@@ -4,12 +4,12 @@ title: "Step 4: Using the Potential Product Finder System to Find Suppliers"
 date: "2021-11-23"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course/lesson/step-4-using-the-potential-product-finder-system-to-find-suppliers/"
+original_url: "/lti-content/courses/amazon-mastery-course/lesson/step-4-using-the-potential-product-finder-system-to-find-suppliers/"
 ---
 
 Google is one of the great places to start looking for the manufacturer, wholesaler, supplier, and dropshipper of the products you're looking for. This lesson will discover how quickly you can find suppliers for your product opportunities by using the **_Google Search Method_****.** 
 
-### ![Step 4: Using the Potential Product Finder System to Find Suppliers](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/12/Module-3-Image-300x185.png)
+### ![Step 4: Using the Potential Product Finder System to Find Suppliers](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/12/Module-3-Image-300x185.png)
 
 ### **Google Search Hack**
 
@@ -34,11 +34,11 @@ There are a few tricks you can use that will assist you in your search for suppl
 
 First, Google will show you the images of the Blue cat brush.
 
-![Images of the Blue cat brush](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/images-of-the-Blue-cat-brush-300x244.png)
+![Images of the Blue cat brush](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/images-of-the-Blue-cat-brush-300x244.png)
 
 Next to it is the list of stores or any links that will direct you to a blue cat brush.
 
-![List of stores](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/list-of-stores-300x231.png)
+![List of stores](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/list-of-stores-300x231.png)
 
 **2\. Use the 3 Main Supplier Search Phrases** 
 
@@ -48,11 +48,11 @@ As shown in the following three phrases, you can use them to help you in your se
 
 This isn't just going to find you blue widgets selling retail; it's also going to find you, private label suppliers.
 
-![Private Label](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Private-Label-300x224.png)
+![Private Label](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Private-Label-300x224.png)
 
 **• \[product keyword\] supplier** (i.e. _blue cat brush supplier or “blue cat brush” supplier_)  
 
-![Product keyword supplier](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/product-keyword-supplier-300x262.png)
+![Product keyword supplier](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/product-keyword-supplier-300x262.png)
 
 **• \[product keyword\] wholesale** (i.e. _blue cat brush wholesale or “blue cat brush” wholesale_) 
 
@@ -66,31 +66,31 @@ This isn't just going to find you blue widgets selling retail; it's also going t
 
 This will pull up all the blue cat brush supplier listings excluding any from facebook.com. You always want to use this one when searching because you get some weird Facebook listings sometimes. Not only that, but you're unlikely to find any suppliers on Facebook.  
 
-![site:website.com “product keyword”](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/site-website.com-product-keyword-300x120.png)
+![site:website.com “product keyword”](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/site-website.com-product-keyword-300x120.png)
 
 We recommend you use these for ALL  supplier searches: 
 
 -   -   -   site:amazon.com 
 
-![Site:Amazon.com ](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/site-website.com-product-keyword-1-300x120.png)
+![Site:Amazon.com ](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/site-website.com-product-keyword-1-300x120.png)
 
 We recommend you use these for ALL  supplier searches: 
 
 -   -   -   site:amazon.com 
 
-![site:amazon.com ](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Site-Amazon-300x246.png)
+![site:amazon.com ](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Site-Amazon-300x246.png)
 
 -   -   -   site:bizrate.com
 
-![bizrate.com](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/bizrate-300x277.png)
+![bizrate.com](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/bizrate-300x277.png)
 
 -   -   -   site:facebook.com
 
-![Site : Facebook](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Facebook-300x275.png)
+![Site : Facebook](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Facebook-300x275.png)
 
 -   -   -   site:shopzilla.com
 
-![Site:shopzilla.com](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Shopzilla-300x274.png)
+![Site:shopzilla.com](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Shopzilla-300x274.png)
 
 -   -   -   site:alibaba.com
 
@@ -115,7 +115,7 @@ We’re going to start searching using our main keyword; in this case, ‘_Cat B
 
 The following are some of the results of the search. Each one is listed here as it appears in the list (including spelling errors and highlights), arranged first by the website they are located at:
 
-![cat brush private label ](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/cat-brush-private-label-300x198.png)
+![cat brush private label ](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/cat-brush-private-label-300x198.png)
 
 -   -   Petsfactory.com – Private Label Best Selling Pet Brush Dog Products Pet Grooming Equipment Cat Brush
     -   m.made-in-china.com- Reusable Private label steel pet brush
@@ -126,11 +126,11 @@ Now, we could just start digging through the pages, but we’d like to be as eff
 
 Whenever you find something that might be a good fit, go to your spreadsheet/document or whatever you are using and add a new section titled with the product name. I use a spreadsheet for this, so we create a new sheet and rename it "Potential Product Supplier."
 
-![Potential Product Supplier](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Potential-Product-Supplier-300x91.png)
+![Potential Product Supplier](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Potential-Product-Supplier-300x91.png)
 
 In this case, we create the template like this format: The first column will be the Product Name, the next column is the Potential Supplier Name, and the next column will be the Supplier website.
 
-![Supplier website](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Supplier-website-300x30.png)
+![Supplier website](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Supplier-website-300x30.png)
 
 If you are not finding very good results as you look through the search results list. Replace "private label" with "supplier" or "wholesale" whenever this happens to you. If that doesn't work, consider where else you might be able to find this product. You could inquire, for example:
 

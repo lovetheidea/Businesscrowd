@@ -4,10 +4,10 @@ title: "Creating Blog Post To Drive Traffic For Your Listing"
 date: "2021-12-21"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/creating-blog-post-to-drive-traffic-for-your-listing/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/creating-blog-post-to-drive-traffic-for-your-listing/"
 ---
 
-![Creating Blog Post To Drive Traffic For Your Listing Image](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Creating-Blog-Post-To-Drive-Traffic-For-Your-Listing-Img-300x185.png)
+![Creating Blog Post To Drive Traffic For Your Listing Image](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Creating-Blog-Post-To-Drive-Traffic-For-Your-Listing-Img-300x185.png)
 
 Frequently, people will simply create a blog post with an image and description of the product and call it a day. The problem is that it does not distinguish itself from the existing Amazon listing, which means it will miss out on targeted traffic from different keyword rankings in search engines. This isn't a good thing because search engines, particularly Google, don't like duplicate content, and if you just post what's already on Amazon, you'll miss out on additional traffic from having your posts ranked.
 

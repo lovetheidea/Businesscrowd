@@ -4,14 +4,14 @@ title: "How to measure Google Ads campaigns"
 date: "2021-10-27"
 status: "publish"
 course_id: "96770"
-original_url: "https://academy.lovetheidea.co.uk/courses/beginners-guide-to-google-analytics/lesson/how-to-measure-google-ads-campaigns-4/"
+original_url: "/lti-content/courses/beginners-guide-to-google-analytics/lesson/how-to-measure-google-ads-campaigns-4/"
 ---
 
 ## **How to use Analytics with Google Ads**
 
 Google Ads is Google's advertising platform that allows businesses to create text and display advertisements. Text ads appear next to Google search results by matching keywords that you can bid on with search queries entered by users. Display ads are advertisements that consist of text, images, animation, or video that appear on the Google Display Network, which is a large collection of websites.
 
-![How to use Analytics with Google Ads](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-15-at-12.09.38-AM-300x291.jpeg)
+![How to use Analytics with Google Ads](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-15-at-12.09.38-AM-300x291.jpeg)
 
 Since the Google Store wants to sell t-shirts, they could bid on keywords such as “Google t-shirt” and “Google clothing.” When people search Google for a particular product like “a really cool Google t-shirt,” Google Ads will show a relevant text ad for the Google Store if the ad meets Google Ad's quality guidelines. This type of advertising can help attract customers from the millions that use Google Search and the Display Network every day.
 
@@ -30,7 +30,7 @@ Then, select the Admin tab. Then, ensure that you've selected the account and pr
 
 Select the view where you want the Google Ads data to appear and then click "Link accounts." The linked account will appear with the title you entered in your Link group list.
 
-![link your Google Analytics account to your Google Ads account](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/10/Link-your-Google-Analytics-account-to-your-Google-Ads-account-300x267.png)
+![link your Google Analytics account to your Google Ads account](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/10/Link-your-Google-Analytics-account-to-your-Google-Ads-account-300x267.png)
 
 #### **Auto-tagging**
 
@@ -52,7 +52,7 @@ Once we've linked Google Ads and Analytics, you'll find Ads reports under the Ac
 
 If we click on the “Campaigns” report, we can see how well our various Google Ads campaigns are performing. Notice that this report organizes Google Ads campaigns using the names assigned in Google Ads. This is one of the benefits of linking Google Ads with Analytics.
 
-![Campaigns](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/10/Campaigns-300x267.png)
+![Campaigns](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/10/Campaigns-300x267.png)
 
 Note at the top of the report, you can choose mobile, desktop, or tablet metrics to view the campaign performance across these devices. In the data table below, you can use the Acquisition metrics to see how the clicks for each campaign and the total amount paid for those clicks. CPC shows the average cost for each click. Under Behavior, you can see user engagement for each campaign. And under Conversions, you can see the conversion rate, the number of actual goal completions, and how much these conversions were ultimately worth to your business for each Google Ads campaign using the pulldown menu.
 

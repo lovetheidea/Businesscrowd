@@ -4,12 +4,12 @@ title: "Top-Notch Product Titles"
 date: "2021-11-26"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-course-part-2/lesson/top-notch-product-titles/"
+original_url: "/lti-content/courses/amazon-course-part-2/lesson/top-notch-product-titles/"
 ---
 
 In this lesson, you will learn how to develop outstanding product titles that will drive massive amounts of keyword traffic to your site and position your product for high conversion success.
 
-![Top-Notch Product Titles](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/12/Module-4-images-3-300x185.png)
+![Top-Notch Product Titles](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/12/Module-4-images-3-300x185.png)
 
 ### **Why Your Amazon Product Title is Important** 
 
@@ -132,7 +132,7 @@ We can also include the features, benefits, colour, and even the dimension of th
 
 After creating your title, you'll want to check the length to see if it's too long or if it's short enough to accommodate additional characters. We can use a program called "[Character Count Online](http://www.charactercountonline.com/)" to perform the following tasks:
 
-![Character Count Online](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Character-Count-Online-300x144.png)
+![Character Count Online](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Character-Count-Online-300x144.png)
 
 -   -   -   Character Count
         -   Word Count

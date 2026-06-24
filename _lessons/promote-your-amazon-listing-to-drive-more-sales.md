@@ -4,12 +4,12 @@ title: "Promote Your Amazon Listing To Drive More Sales"
 date: "2021-12-21"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/promote-your-amazon-listing-to-drive-more-sales/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/promote-your-amazon-listing-to-drive-more-sales/"
 ---
 
 Unlike the product on your online store (if you have one) Amazon listings are more difficult to promote. With so much competition in the marketplace, sellers must craft their listings to be highly visible both ON and OFF Amazon's website.
 
-![Promote your Amazon Listing to Drive More Sales](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/12/Listing-Launch-Image-3-300x185.png)
+![Promote your Amazon Listing to Drive More Sales](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/12/Listing-Launch-Image-3-300x185.png)
 
 Remember that the key to reaching your ideal customers is to make it easy for them to find you. Make sure to maximize your listing visibility, whether it is on Amazon or elsewhere.
 

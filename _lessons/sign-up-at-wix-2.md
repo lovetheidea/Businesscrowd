@@ -4,7 +4,7 @@ title: "Sign Up at Wix"
 date: "2021-09-21"
 status: "publish"
 course_id: "96077"
-original_url: "https://academy.lovetheidea.co.uk/courses/the-basics-of-creating-a-website/lesson/sign-up-at-wix-2/"
+original_url: "/lti-content/courses/the-basics-of-creating-a-website/lesson/sign-up-at-wix-2/"
 ---
 
 Before you can create a fully functional website on **Wix**, you must first **sign up** for an account on their website.
@@ -13,7 +13,7 @@ Before you can create a fully functional website on **Wix**, you must first **si
 
 **Step 1:** Go to the Wix.com sign-up page. 
 
-![Wix Sign up page](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/09/Wix-Sign-up-300x141.png)
+![Wix Sign up page](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/09/Wix-Sign-up-300x141.png)
 
 **Step 2:** Register with your email address, Facebook account, or Google credentials.
 

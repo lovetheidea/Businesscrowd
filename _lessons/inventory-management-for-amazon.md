@@ -4,7 +4,7 @@ title: "Inventory Management for Amazon"
 date: "2022-01-31"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/inventory-management-for-amazon/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/inventory-management-for-amazon/"
 ---
 
 This lesson will teach you how to manage your inventory when selling on Amazon.

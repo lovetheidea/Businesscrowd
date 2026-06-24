@@ -4,7 +4,7 @@ title: "Tracking Your Data"
 date: "2022-01-31"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/tracking-your-data/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/tracking-your-data/"
 ---
 
 We'll go over a simple yet thorough technique to track your most critical sorts of business data so you can better manage your business and ensure that everything is running smoothly and successfully.
@@ -17,7 +17,7 @@ While it may take some time to become acquainted with these numbers and the type
 
 The spreadsheet is divided into three sections, each with its own tab: **Sales, Inventory**, and **Weekly Report**
 
-![Track Your Data Sections](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-7-Image-1-300x36.png)
+![Track Your Data Sections](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-7-Image-1-300x36.png)
 
 ### **Sales** 
 
@@ -27,7 +27,7 @@ You fill in the **Units Ordered**, **Gross Product Sales**, **Sessions**, **Buy 
 
 If you neglect to start populating the data for this report, you can always alter the date range on the "Detail Page and Sales Traffic by ASIN" report to go back in time and populate it.
 
-![Sales](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-7-Image-2-300x127.png)
+![Sales](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-7-Image-2-300x127.png)
 
 ### **Inventory** 
 
@@ -35,7 +35,7 @@ For each day, this tab keeps track of various essential bits of product informat
 
 You fill in the **Available Units**, **Your Sales Price**, and **Sales Rank** for each product (BSR). It will determine the Available Inventory in Dollar Value for you automatically. Please keep in mind that anytime you or anybody else visits your product detail page, the "**Your Sales Price**" should represent what your product is selling for that day. It will not, however, contain any "Promotion" pricing, because that reduction is only available to consumers who submit a promo code.
 
-![Inventory ](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-7-Image-3-300x122.png)
+![Inventory ](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-7-Image-3-300x122.png)
 
 ### **Weekly Report** 
 
@@ -47,7 +47,7 @@ This section keeps track of our overall product sales in both units and dollars.
 
 This information can be seen in the "**Detail Page and Sales Traffic - By ASIN**" report.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/04/Sales-in-Unit-and-Dollar-300x126.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/04/Sales-in-Unit-and-Dollar-300x126.png)
 
 **Weekly Totals in Units & Dollars for the Previous 4 Weeks** 
 
@@ -55,7 +55,7 @@ This section will track total sales for the past four weeks in both units and do
 
 This information is likewise derived from the "**Detail Page and Sales Traffic - By ASIN**" report, and it's quite useful for determining patterns over the last month.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/04/weekly-total-in-4-weeks-300x114.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/04/weekly-total-in-4-weeks-300x114.png)
 
 **Product Sales & Sessions** 
 
@@ -63,13 +63,13 @@ This area will track the number of units ordered and the number of sessions per 
 
 You'll need to use the "**Detail Page and Sales Traffic – By ASIN**" report to gather this information.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/04/Product-1-and-2-sales-and-sessions-300x124.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/04/Product-1-and-2-sales-and-sessions-300x124.png)
 
 **Product Buy Box & Unit Sessions** 
 
 This area will keep track of how many times your product has the Buy Box, as well as the Unit Session Percentage for each day. The "**Detail Page and Sales Traffic - By ASIN**" report also contains this information.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/04/product-1-and-2-buybox-and-unit-session-300x124.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/04/product-1-and-2-buybox-and-unit-session-300x124.png)
 
 Even if you don't think this data will be useful to you, you should do your best and start tracking it now. This would be an excellent job to delegate to a VA once you've completed it and can demonstrate how to do it. 
 

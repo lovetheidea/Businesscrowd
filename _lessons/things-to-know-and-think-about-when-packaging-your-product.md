@@ -4,12 +4,12 @@ title: "Things to Know and Think About When Packaging your Product"
 date: "2021-11-23"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course/lesson/things-to-know-and-think-about-when-packaging-your-product/"
+original_url: "/lti-content/courses/amazon-mastery-course/lesson/things-to-know-and-think-about-when-packaging-your-product/"
 ---
 
 We will be discussing packaging considerations. The information contained herein is not intended to be definitive or exhaustive; rather, it is to serve as a solid point of reference to familiarize you with the options and terminology you need to communicate with designers and suppliers. 
 
-![Things to Know and Think About When Packaging your Product](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/12/Module-3-Image-9-300x185.png)
+![Things to Know and Think About When Packaging your Product](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/12/Module-3-Image-9-300x185.png)
 
 Having unique packaging has other benefits: 
 

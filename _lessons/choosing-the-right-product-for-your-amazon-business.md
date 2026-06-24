@@ -4,7 +4,7 @@ title: "Choosing the Right Product for your Amazon Business"
 date: "2021-12-08"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/choosing-the-right-product-for-your-amazon-business/"
+original_url: "/lti-content/courses/amazon-mastery-course-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/choosing-the-right-product-for-your-amazon-business/"
 ---
 
 -   **How do I access my Amazon Seller Central account?** 

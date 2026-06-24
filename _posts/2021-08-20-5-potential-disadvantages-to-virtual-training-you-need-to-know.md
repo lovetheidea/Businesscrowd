@@ -7,12 +7,12 @@ categories:
   - "Business"
   - "Guest Blog"
   - "Tips"
-original_url: "https://academy.lovetheidea.co.uk/?p=93807"
+original_url: "/lti-content/?p=93807"
 ---
 
 > Virtual training occurs via a virtual or simulated environment when learners and instructors or trainers are in different physical locations. And while virtual training environments typically allow for more flexible learning options (for both trainers and learners) and can be more cost-effective for organizations, there are a few disadvantages to virtual training you might want to consider before implementing it.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/potential_disadvantage-1024x683.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/potential_disadvantage-1024x683.jpg)
 
 Below are five potential disadvantages you might experience when you implement virtual training—depending on how you design, promote, administer, and update your virtual training content, modules, and courses on an ongoing basis.
 
@@ -32,7 +32,7 @@ For example, you may not want your virtual training sessions to highlight corpor
 
 While learners can access recorded virtual training modules when and where they want, learners aren’t always able to ask their trainers in-the-moment questions and receive instant answers to help them better understand the learning content in front of them. Learners must simply complete virtual training sessions as they’re designed and must complete each learning task without deviation. This may result in learners having a limited understanding of different material and content that’s covered in virtual training environments.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/learning_isolation-1024x683.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/learning_isolation-1024x683.jpg)
 
 **4\. Increases Learners’ Isolation**
 

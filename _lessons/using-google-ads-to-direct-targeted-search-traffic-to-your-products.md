@@ -4,7 +4,7 @@ title: "Using Google Ads to Direct Targeted Search Traffic to Your Products"
 date: "2022-01-21"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/using-google-ads-to-direct-targeted-search-traffic-to-your-products/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/using-google-ads-to-direct-targeted-search-traffic-to-your-products/"
 ---
 
 This lesson will show you how to use the world's most popular search engine to drive targeted traffic to your Amazon product listing.
@@ -23,7 +23,7 @@ This works by displaying your ad when people in your target demographic search t
 
 Take a look at the example below. I will search for an eCommerce course and you'll see a page that looks like this. As you can see, Google displays items that are relevant to your search terms. Displaying both sponsored or ad content and organic search results.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img14-245x300.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img14-245x300.png)
 
 **Important Disclaimer:** If numerous advertisers are attempting to bring traffic to Amazon.com for the same term, Google will only allow ONE of those advertisements to appear at any given moment. The amount bet for that keyword will determine which ad it displays, so you may end up having to spend more than you want in order for your ad to appear.
 
@@ -37,7 +37,7 @@ There are different types of Google Ads that advertisers can use to promote thei
 
 Most common types of Google advertisements. This is the campaign that we have stated above. An ad that is based on text or keywords search, with that, said your ads will appear once someone within your target user area searches for a product or service similar to yours. Learn more about this campaign [here.](https://support.google.com/google-ads/answer/1722047?hl=en&ref_topic=10543918)
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img15-300x63.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img15-300x63.png)
 
 -   **Google Display Ads**
 
@@ -45,13 +45,13 @@ This type of campaign allows you to reach people who aren't actively looking for
 
 Here is an example of Google Display Ads:
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img16-300x37.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img16-300x37.png)
 
 -   **Shopping Ads**
 
 Product-specific Google ad campaign. Advertisers frequently use this method to target people who are ready to buy. This type of campaign is used to inform buyers about product information such as images, reviews, shops, and even product ratings. Know more about this campaign [here.](https://support.google.com/google-ads/answer/2454022?hl=en&ref_topic=6275320)
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img17-300x234.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img17-300x234.png)
 
 -   **Video Ads**
 
@@ -80,21 +80,21 @@ Create an account at adwords.google.com. The instructions for doing so may chang
 -   The first thing you need to do is to create your Google ads account [here.](https://ads.google.com/home/)
 -   After you've created an account, go to the "**Campaign**" tab.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img18-300x74.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img18-300x74.png)
 
-Click the " ![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/m6-300x24.png) " button. 
+Click the " ![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/m6-300x24.png) " button. 
 
 -   Then this tab will be shown (see the image below). You will need to choose which goal you want to achieve in this ad. If you want to generate sales then you can choose **Sales**, or if you want to reach new target customers since you are just recently launched your listings then you can choose **Leads.** 
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img19-300x121.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img19-300x121.png)
 
 -   Once you've decided on a goal for your campaign. You must then select the type of campaign you want. As previously stated, it is preferable to use Google Search Ads.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img20-300x120.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img20-300x120.png)
 
 -   Next, choose **Website visits** and paste your landing page URL on the blank space provided below.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img21-300x87.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img21-300x87.png)
 
 -   Finally, add your campaign name and hit the **Continue** button.
 -   Click Save and Continue 
@@ -103,10 +103,10 @@ Click the " ![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/m6-
 
 -   Set up your budget and bidding settings. For the budget, you can start small and increase it in the future once you already have a strategy idea for your campaign.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img22-300x155.png)  
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img22-300x155.png)  
 For the bidding, we can now just choose for **Manual CPC** and start with something low
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img23-300x142.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img23-300x142.png)
 
 When done, hit the **NEXT** button.
 
@@ -114,53 +114,53 @@ When done, hit the **NEXT** button.
 
 The next step you need to complete is your campaign settings. Here you need to fill up the following fields:
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img24.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img24.png)
 
 -   **Network**
 
 For the network, we want to keep it simple just choose **Search Network**.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img25-300x142.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img25-300x142.png)
 
 -   **Locations**
 
 For the location, choose your preferred audience location. Most likely everyone starts in the United States at first.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img26-300x145.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img26-300x145.png)
 
 -   **Language**
 
 Choose **English** or depend on the target location you prefer to audiences.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img27-300x77.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img27-300x77.png)
 
 -   **Audiences**
 
 For the audiences, we can leave it for now since we were targeting audiences based on keywords. 
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img28-300x17.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img28-300x17.png)
 
 -   **Dynamic Search Ads**
 
 We will not use this feature yet. For more information about this one, check it [here](https://support.google.com/google-ads/answer/2471185?hl=en).
 
-#### ![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img29-300x16.png)  
+#### ![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img29-300x16.png)  
 **Step 4: Keywords and Ads**
 
 In this section, you can make your Ad Group. Make a name for your Ad Group. While your campaign can have multiple Ad Groups (and your Ad Groups can have many Ads), we'll just have one Campaign with one Ad Group and one Ad in this example.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img30-300x46.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img30-300x46.png)
 
 **Keyword Section**
 
--   -   -   ![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img31-300x18.png)Google can look at your product detail page and recommend a   
+-   -   -   ![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img31-300x18.png)Google can look at your product detail page and recommend a   
             variety of search terms for you, but you should start by focusing on only a few keywords (1–3) for which you want to rank. Make sure to have a list first of your related keywords with great traffic in one spreadsheet. 
 
 -   -   -   Once you enter your search terms you can click "**Estimate Search Traffic**''  to help pre-qualify them and ensure a high conversion rate. By clicking the said button you will see what your average cost per click is, how many clicks you can obtain per day, and how much it will cost you each day.
 
 In this section, you can enter three variations of keywords for your listing. 
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img32-300x138.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img32-300x138.png)
 
  _Example:_ 
 
@@ -176,19 +176,19 @@ In this section, you can enter three variations of keywords for your listing. 
 
 Here’s the example provided by Google on how the Broad match will work:
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img33-300x160.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img33-300x160.png)
 
 -   -   -   **Phrase Match -** Your advertising will appear on searches that incorporate the meaning of your keywords in this format. You'll be able to reach more people because they're more particular about what they're looking for.
 
 Here’s the example provided by Google on how the Phrase Match will work:
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img34-300x105.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img34-300x105.png)
 
 -   -   -   **Exact Match-** When compared to the two choices stated above, this keyword matching option gives you the most control over who sees your ad. However, it targets a smaller audience. With this option, your ads will show the same intent or meaning of keywords. 
 
 Here’s the example provided by Google on how the Exact Match will work:
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img35-300x107.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img35-300x107.png)
 
 **Ad Section**
 
@@ -196,13 +196,13 @@ Once you are done entering the keywords for your listing this will be the next:
 
 -   -   -   **Final URL -** Enter here your amazon listing URL
 
--   -   -   **![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img36-300x78.png)Headline -** Enter your Ad Headline 
+-   -   -   **![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img36-300x78.png)Headline -** Enter your Ad Headline 
 
 **Headline 1 -** You can use your keyword
 
 **Headline 2 -** You can add the benefits in here of your listing, or any ad copy like “Best Selling …” something like that.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img37-276x300.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img37-276x300.png)
 
 -   -   -   **Description Line**
 
@@ -210,11 +210,11 @@ Once you are done entering the keywords for your listing this will be the next:
 
 **Description Line 2** – Second line of the ad 
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img38-300x156.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img38-300x156.png)
 
 -   -   -   **Display path** – Make it look a bit nicer than the actual link, such as  “www.amazon.com/showerhead” 
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img39-300x83.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img39-300x83.png)
 
 Include your price in your ad so that customers know what to expect when they click on it. This will help pre-qualify them and make sure that your conversion rate stays high. 
 

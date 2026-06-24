@@ -4,7 +4,7 @@ title: "How do I access my Amazon Seller Central account?"
 date: "2021-11-21"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course/lesson/how-do-i-access-my-amazon-seller-central-account/"
+original_url: "/lti-content/courses/amazon-mastery-course/lesson/how-do-i-access-my-amazon-seller-central-account/"
 ---
 
 -   **How do I access my Amazon Seller Central account?** 

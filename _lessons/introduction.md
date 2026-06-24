@@ -5,7 +5,7 @@ date: "2021-11-15"
 status: "publish"
 course_id: "96915"
 is_preview: "true"
-original_url: "https://academy.lovetheidea.co.uk/courses/auto-draft/lesson/welcome-to-the-module-1/"
+original_url: "/lti-content/courses/auto-draft/lesson/welcome-to-the-module-1/"
 ---
 
 The purpose of this lesson is to welcome you to Starting your Amazon Business Module and to provide some background information that will hopefully keep you inspired, keep you focused, and get you excited about what you'll learn there.

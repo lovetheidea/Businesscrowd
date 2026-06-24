@@ -4,7 +4,7 @@ title: "Use goals to measure business objectives"
 date: "2021-10-14"
 status: "publish"
 course_id: "96510"
-original_url: "https://academy.lovetheidea.co.uk/courses/beginners-guide-to-google-analytics/lesson/use-goals-to-measure-business-objectives/"
+original_url: "/lti-content/courses/beginners-guide-to-google-analytics/lesson/use-goals-to-measure-business-objectives/"
 ---
 
 ### **How to set up Goals in Analytics**
@@ -13,7 +13,7 @@ Before we begin creating a goal in Google Analytics, let's distinguish between t
 
 Business goals are actions you want your website visitors to take. A "conversion" occurs when the user completes one of your business goals. This could be signing up for a newsletter or buying a product.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/10/unnamed-300x114.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/10/unnamed-300x114.png)
 
 However, with Google Analytics, you can monitor these conversions using a feature called "Goals." Analytics will generate conversion-related metrics once Goals are configured. such as the overall number of conversions and the percentage of users that converted This is referred to as the "conversion rate."
 
@@ -29,7 +29,7 @@ To get started, we’ll go into the Admin section. Then, under “Views,” we�
 
 Because we want to track checkout confirmations, we’ll name the goal: “Checkout Complete.” Each goal uses a particular “Goal Slot ID” that is numbered from one to twenty. The Goal Slot ID is a simple way to organize your goals. The default slot will always be the next slot available. If you’re creating your first goal, the Goal Slot ID will be “1,” but you can choose a different slot if you have certain goals that you wish to group together.
 
-![Goal Setup](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/10/Goal-Setup-300x246.png)
+![Goal Setup](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/10/Goal-Setup-300x246.png)
 
 you can only use the “Destination”- type goal, so we’ll select “Destination” and click “Continue.”
 
@@ -45,7 +45,7 @@ If you want to assign a monetary value to the conversion goal, enable the "Value
 
 After you've verified your settings, turn the funnel switch to "On" to add funnel steps. Every funnel step represents an action that needs to be taken on your website to achieve the Goal. In this case, we’ll need to include a unique part of the URL for each page the user has to view in order to check out and make a purchase. Each step can be named, and the unique part of the URL can be added. If a step is required to complete the goal, move the "Required" toggle to "Yes." For example, if we only wanted users who enter the funnel on the first step to appear in our funnel visualization report, we would change the first step to "Required."
 
-![Goal Funnel](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/10/Goal-Funnel-300x285.png)
+![Goal Funnel](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/10/Goal-Funnel-300x285.png)
 
 > Note that the Goal completion numbers in the Conversions report will not be affected by the funnel you’ve set up, even if you’ve made some of the steps required, as these steps are only reported in the funnel visualization report.
 
@@ -55,6 +55,6 @@ Return to the Reporting tab and, under the "Conversions" reports, click "Goals" 
 
 Click the Funnel Visualization report under Conversions to view the associated funnel visualization. By scrolling down, you can view user activity in each stage of the funnel, as well as how many users completed each step. If you see a significant decrease in user numbers during a certain phase, you should look into it more. This level of the funnel may be experiencing technical difficulties, stopping users from continuing.
 
-![Goal Funnel Steps](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/10/Goal-Funnel-Steps-300x281.png)
+![Goal Funnel Steps](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/10/Goal-Funnel-Steps-300x281.png)
 
 In addition to creating your own custom goals, the Analytics Solutions Gallery offers many Goals built by other users that you can add to your Analytics account to use for your own business purposes.

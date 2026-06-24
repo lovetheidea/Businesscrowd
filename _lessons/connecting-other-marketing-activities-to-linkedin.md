@@ -4,7 +4,7 @@ title: "Connecting Other Marketing Activities to LinkedIn"
 date: "2024-05-16"
 status: "publish"
 course_slug: "want-to-build-a-massive-linkedin-network-quickly"
-original_url: "https://academy.lovetheidea.co.uk/courses//lesson/connecting-other-marketing-activities-to-linkedin/"
+original_url: "/lti-content/courses//lesson/connecting-other-marketing-activities-to-linkedin/"
 ---
 
 LinkedIn only forms part of your marketing strategy. It cannot be everything. You have to mix your LinkedIn with other aspects of your marketing. This lesson discusses connecting your LinkedIn strategy to a broader campaign that will enhance marketing results.

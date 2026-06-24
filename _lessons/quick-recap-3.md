@@ -4,7 +4,7 @@ title: "Quick Recap"
 date: "2021-11-28"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-for-beginners/lesson/summary-module-1/"
+original_url: "/lti-content/courses/amazon-mastery-course-for-beginners/lesson/summary-module-1/"
 ---
 
 Module 3 is all about locating a supplier and sending your first batch of merchandise to Amazon's fulfilment facilities.

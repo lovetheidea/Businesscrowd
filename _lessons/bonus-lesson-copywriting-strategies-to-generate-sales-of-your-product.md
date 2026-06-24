@@ -4,12 +4,12 @@ title: "BONUS LESSON: Copywriting Strategies to Generate Sales of your Product"
 date: "2021-11-26"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-course-part-2/lesson/bonus-lesson-copywriting-strategies-to-generate-sales-of-your-product/"
+original_url: "/lti-content/courses/amazon-course-part-2/lesson/bonus-lesson-copywriting-strategies-to-generate-sales-of-your-product/"
 ---
 
 You're going to need to know how to get buyers to take action to sell anything on or off the web. Part of that comes from sales copy, which we will cover in this lesson.
 
-![BONUS LESSON: Copywriting Strategies to Generate Sales of your Product](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/12/Module-4-images-6-300x185.jpg)
+![BONUS LESSON: Copywriting Strategies to Generate Sales of your Product](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/12/Module-4-images-6-300x185.jpg)
 
 ### **Copywriting** 
 

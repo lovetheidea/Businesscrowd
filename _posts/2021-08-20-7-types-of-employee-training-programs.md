@@ -7,7 +7,7 @@ categories:
   - "Business"
   - "Guest Blog"
   - "Tips"
-original_url: "https://academy.lovetheidea.co.uk/?p=93788"
+original_url: "/lti-content/?p=93788"
 ---
 
 There’s nothing worse than working somewhere that expects you to do something but won’t enable you to do it…
@@ -32,7 +32,7 @@ Why host employee training online, you say? Well, because that way you get to…
 
 Later on, this post will show you how to host employee training online. But first, here are 7 types of online employee training:
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/16-1024x684.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/16-1024x684.jpg)
 
 **1\. Orientation**
 
@@ -60,7 +60,7 @@ A holistic onboarding training program should focus on more than the technical a
 
 Effective and successful onboarding trainings gradually brings new employees up to speed much quicker than if left to fend for themselves. An effectively executed onboarding training will also free up a lot of leadership time because most answers to questions would be available within the training.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/17-1024x684.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/17-1024x684.jpg)
 
 **3\. Technical Skills Development Training**
 
@@ -103,7 +103,7 @@ For instance, public-sector employees are often required to take occupational he
 
 Governments will often provide these trainings themselves, and since it’s 2017, they usually exist online in the form of slides and videos. With online access to these trainings, you can integrate them into your online employee training website to consolidate all required training in one centralized hub.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/18-1024x576.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/18-1024x576.png)
 
 **7\. eLearning Tuition reimbursement**
 

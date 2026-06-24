@@ -6,7 +6,7 @@ author: "adinamiron"
 categories:
   - "Business"
   - "Guest Blog"
-original_url: "https://academy.lovetheidea.co.uk/?p=93801"
+original_url: "/lti-content/?p=93801"
 ---
 
 Our lives are dominated by technology—we depend on cloud computing to synch information among all of our electronic devices; we can text, e-mail, and tweet almost simultaneously from our smartphones; we have access to information 24/7 through the Internet. It’s no wonder then that the technology that allows us to do all these things is also increasingly being applied to learning. More and more companies are turning to e-learning to provide training and professional development opportunities to their employees, thanks to its accessibility and adaptability.
@@ -15,7 +15,7 @@ As companies begin to grasp the importance of adopting professional development 
 
 However, like most new technology, e-learning still has its drawbacks. Wider access can also mean less control and potential technology issues. Here are some of the pros and cons of adopting e-learning for your company’s training and development needs.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/pros-1024x683.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/pros-1024x683.jpg)
 
 ###### **Pros:**
 
@@ -24,7 +24,7 @@ However, like most new technology, e-learning still has its drawbacks. Wider acc
 -   Ease of use. Given how much the average person uses technology on a daily basis, and based on our familiarity with software applications, e-learning’s ease of use can be a big benefit. By choosing a user-friendly platform, companies can count on their employees being able to navigate their way around and learn how to use it quickly. Of course, not every e-learning platform is user-friendly and not every employee is tech-savvy, but generally, organizations can reap the benefits of having a tech teaching tool that most employees will feel comfortable using.
 -   Tailoring. In terms of access, cost, function, and pretty much anything else you can think of, e-learning can be tailored to your business needs. Whether you need training for five employees or five thousand, e-learning tools can be customized to what works best for your company. They can also be tailored to your employees’ needs. If employees feel like they know certain topics very well, they can skim over them and waste less time. That way they can concentrate on the topics they need to really work on. Employees also get to learn at their own pace, which is advantageous, considering that most of them are balancing multiple tasks, workloads, and deadlines.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/23-1024x674.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/23-1024x674.jpg)
 
 ###### **Cons:**
 

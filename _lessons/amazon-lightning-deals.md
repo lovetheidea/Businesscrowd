@@ -4,7 +4,7 @@ title: "Amazon Lightning deals"
 date: "2022-01-21"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/amazon-lightning-deals/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/amazon-lightning-deals/"
 ---
 
 Amazon's Lightning Deals are paid promotions in which a limited number of discounts are offered on an item for a short duration of time. They are featured on [Today's Deals](https://www.amazon.com/gp/goldbox) or [Prime Day](https://www.amazon.com/primeday)\* page. 
@@ -13,7 +13,7 @@ Note: Each Lightning Deals is limited to one per customer only. That can last fr
 
 Here is the sample of what you can for the listing that has Lightning Deals promotion:
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img40-300x139.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img40-300x139.png)
 
 The image above shows a countdown (when the deal will end) and a status bar, which tells a buyer what percentage of the inventory has already been sold. Those are part of psychological marketing strategies, which means they help your listing sales. You may be wondering how. It has an energizing effect on your customers, making them want to purchase the product right away because such an opportunity cannot be passed up.
 

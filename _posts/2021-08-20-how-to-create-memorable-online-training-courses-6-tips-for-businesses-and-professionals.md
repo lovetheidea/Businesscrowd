@@ -6,7 +6,7 @@ author: "christopherpappas"
 categories:
   - "Business"
   - "Guest Blog"
-original_url: "https://academy.lovetheidea.co.uk/?p=93736"
+original_url: "/lti-content/?p=93736"
 ---
 
 You want to bring the best out of your audience by offering them an excellent online training course experience. You have carefully developed your online training course and it is important for you that your content will be retained. But how can employees remember everything they learn? In this article I will share 6 top tips on how to create memorable online training courses that will help employees fully understand and deeply absorb everything you have to offer them.
@@ -15,7 +15,7 @@ You want to bring the best out of your audience by offering them an excellent on
 
 You are spending a significant amount of money, as well as countless hours, to carefully develop your [online training courses](https://elearningindustry.com/tags/online-training-courses). Thus, it is important for you that employees will make the most out of it. But how can you ensure that they will remember everything they learn? [Confucius](https://en.wikipedia.org/wiki/Confucius) has been offering us the answer since the fourth century B.C: “I hear and I forget. I see and I remember. I do and I understand”. In order to use these wise thoughts in empowering your [online training strategy](https://elearningindustry.com/tags/online-training-strategy), read this article for 6 top tips that will help you create memorable online training courses and offer employees an immersive online training experience that they will not forget any time soon!
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/9-1024x683.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/9-1024x683.jpg)
 
 **1.    Know your audience.**
 
@@ -29,7 +29,7 @@ As a first step to grab employee's attention, consider creating an eye-catching 
 
 After you have ensured that employees’ attention is yours, think about what it is that you most want them to learn. Have realistic expectations of your online training course and do not suffocate them with content; it is impossible to absorb too much information in a limited period of time, anyway. So, design a “brain-friendly” course structure in which large volumes of information are divided into key sections. The more “step by step” is the nature of your approach, the easier it will be for employees to create an effective memorable pattern. Repeat key information in order to be successfully absorbed and try different ways to present it every time. Switch text with images and video with [audio](https://elearningindustry.com/audio-elearning-top-10-tips-elearning-professionals). In this manner, employees will have a variety of ways to accommodate their individual learning needs. Finally, consider creating “cause and effect” cases as often as possible throughout your online training course. When employees can logically link or associate two different pieces of information, they are able to process and retain them more effectively. In other words, the more clearly and logically structured your online training course is, the easier it will be for employees to remember it.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/training-1024x683.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/training-1024x683.jpg)
 
 **4.    Address employees’ emotions.**
 

@@ -5,12 +5,12 @@ date: "2021-11-15"
 status: "publish"
 course_id: "96915"
 is_preview: "true"
-original_url: "https://academy.lovetheidea.co.uk/courses/auto-draft/lesson/launching-your-amazon-business-timeline/"
+original_url: "/lti-content/courses/auto-draft/lesson/launching-your-amazon-business-timeline/"
 ---
 
 This course is to ensure that you have a thorough knowledge of the 'Launching your Amazon Business Timeline' This will assist you in beginning to create a massively profitable Amazon company regardless of your present location. We'll look at some of the attitudes that work against and for a tremendous achievement.
 
-![Launching your Amazon Business Timeline](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Image-1-300x185.png)
+![Launching your Amazon Business Timeline](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Image-1-300x185.png)
 
 ## **The reason why you are here and our purpose**
 

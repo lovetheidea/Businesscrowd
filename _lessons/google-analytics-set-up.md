@@ -4,7 +4,7 @@ title: "Google Analytics set up"
 date: "2021-10-13"
 status: "publish"
 course_id: "96510"
-original_url: "https://academy.lovetheidea.co.uk/courses/beginners-guide-to-google-analytics/lesson/google-analytics-set-up/"
+original_url: "/lti-content/courses/beginners-guide-to-google-analytics/lesson/google-analytics-set-up/"
 ---
 
 ## **The Analytics Account Structure**
@@ -13,7 +13,7 @@ Now that you know how data gets collected, let’s look at how Google Analytics 
 
 All of your Google Analytics accounts can be grouped under an “Organization,” which is optional. By doing this, you can manage multiple Google Analytics accounts in one place.
 
-![The Analytics Account Structure](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/10/Google-Image-4-300x158.png)
+![The Analytics Account Structure](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/10/Google-Image-4-300x158.png)
 
 Large companies or agencies may have several accounts, while medium-sized businesses or agencies usually have one account. When you create an account, you also automatically create a property and, within that property, a view for that account. However, each Analytics account can have multiple properties and each property can have multiple views. In this way, you can organize your Analytics data collection to best suit your business needs.
 
@@ -27,13 +27,13 @@ You may assign multiple properties to each account, so you can collect data from
 
 Just as each account can have multiple “properties,” each property can have multiple “views.” You can use a feature called Filters in your configuration settings to determine what data you want to include in the reports for each using this method, you can easily view data for all aspects of your business, but this does not allow you to see data from different properties in aggregate.
 
-![The Analytics account structure | View Settings](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/10/Google-Image-5-300x158.png)
+![The Analytics account structure | View Settings](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/10/Google-Image-5-300x158.png)
 
 The Google Store, for example, sells products from their website to people in different parts of the world. They could develop a single display that contained all of the data from their global website. They could establish different views for North America, Europe, and Asia if they wanted to see data for certain regions. The Google Store could put up a view that filtered out internal traffic based on IP address if they only wanted to see data for external traffic (not including their own store personnel).
 
 You can also set Google Analytics "Goals" at the view level. Goals are a great way to keep track of your website's conversions, or business objectives. A target could be the number of people that joined up for an email list or bought a product. In a subsequent session, we'll talk about goals and conversions. Because you can't edit data once it's been collected and processed, be careful while setting up your accounts, properties, and views. 
 
-![The Analytics account structure](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/10/Google-Image-6-300x157.png)
+![The Analytics account structure](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/10/Google-Image-6-300x157.png)
 
 Before we move on to user access permissions, there are a couple of important things to note about views: 
 
@@ -53,6 +53,6 @@ You can set user roles for "Administrator," "Editor," "Analyst," and "Viewer" by
 -   **“Analyst”** lets users share things like dashboards and measurement settings.
 -   And finally, **"Viewer"** allows users to view data, analyze reports, and create dashboards, but restricts them from modifying settings or adding new users.
 
-![User Permissions](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/10/Google-Image-7-1-300x178.png)
+![User Permissions](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/10/Google-Image-7-1-300x178.png)
 
 The way your organizations, accounts, properties, and views are configured can have an impact on how your data is gathered. Make sure your properties and views of the data you collect correspond with your overall business structure when setting up your Google Analytics setup.

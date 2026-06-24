@@ -4,6 +4,6 @@ title: "Draft Lesson"
 date: "2020-11-05"
 status: "publish"
 course_id: "2113"
-original_url: "https://academy.lovetheidea.co.uk/courses/sample-course/lesson/draft-lesson-29-4/"
+original_url: "/lti-content/courses/sample-course/lesson/draft-lesson-29-4/"
 ---
 

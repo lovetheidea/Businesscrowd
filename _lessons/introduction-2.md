@@ -4,7 +4,7 @@ title: "Introduction"
 date: "2021-11-23"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course/lesson/introduction-2/"
+original_url: "/lti-content/courses/amazon-mastery-course/lesson/introduction-2/"
 ---
 
 This lesson welcomes you to Module 3 and explains what you can expect from this module.

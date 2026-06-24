@@ -4,7 +4,7 @@ title: "Acquisition Reports"
 date: "2021-10-14"
 status: "publish"
 course_id: "96510"
-original_url: "https://academy.lovetheidea.co.uk/courses/beginners-guide-to-google-analytics/lesson/acquisition-reports/"
+original_url: "/lti-content/courses/beginners-guide-to-google-analytics/lesson/acquisition-reports/"
 ---
 
 #### **Acquisition reports overview**
@@ -13,7 +13,7 @@ original_url: "https://academy.lovetheidea.co.uk/courses/beginners-guide-to-goog
 
 Before we get into Acquisition reports, it's a good idea to understand how Google Analytics detects traffic sources for your website. When a user visits your site, the Google Analytics tracking code automatically collects several attributes (or dimensions) about the user's location. This includes the traffic medium, source, and name of the marketing campaign.
 
-![Acquisition reports overview](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/10/Acquisition-reports-overview-300x123.png)
+![Acquisition reports overview](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/10/Acquisition-reports-overview-300x123.png)
 
 You can think of the medium as the mechanism that delivered users to your site. Some common examples of mediums are **“organic,”** **“CPC,” “referral,” “email,”** and **“none.”** Let’s look at these different types of mediums:
 
@@ -27,7 +27,7 @@ You can think of the medium as the mechanism that delivered users to your site. 
 
 Under **“All Traffic”** let’s look at the **“Source/Medium”** report in The Google Store Analytics account using the dates August 1, 2015, through August 31, 2015. This shows the sources and their respective mediums sending referrals, search engine traffic, and direct traffic to the site. Notice that the default sort is users.
 
-![Acquisition Reports](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/10/Acquisition-Report-300x164.png)
+![Acquisition Reports](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/10/Acquisition-Report-300x164.png)
 
 To find successful traffic sources, we may look at the source/medium combinations with the most users, but this does not always imply that this was the best traffic. Ideally, traffic should be "high quality," which means that visitors who come from a source interact with the website or complete a transaction. The bounce rate is an excellent indication of traffic quality.
 
@@ -35,7 +35,7 @@ Our main traffic source is Google organic search, which has a low bounce rate wh
 
 We may enter the comparison view and choose the statistic "bounce rate" to compare the bounce rate for each source/medium combination to the site average. Sure enough, we can observe that our YouTube traffic is bouncing at a significantly greater rate than the site average. The Google Store may want to examine to ensure that YouTube traffic is arriving on a page that is useful to those consumers.
 
-![Channel Report](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/10/Behavior-Report-300x161.png)
+![Channel Report](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/10/Behavior-Report-300x161.png)
 
 If we want to see "organic" sources delivering traffic to the site, we may type "organic" into the filter. As can be seen, Google referred more traffic than any other non-paid source and had a comparatively low bounce rate when compared to other sources. This means that users who arrive through Google Organic search are landing on highly relevant sites.
 

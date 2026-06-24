@@ -4,12 +4,12 @@ title: "Designing and Packaging your product."
 date: "2021-11-23"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course/lesson/designing-and-packaging-your-product/"
+original_url: "/lti-content/courses/amazon-mastery-course/lesson/designing-and-packaging-your-product/"
 ---
 
 In this lesson, we will discuss how to design good product packaging. It is absolutely essential to your Amazon success. 
 
-### ![Designing and packaging your product](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/12/Module-3-Image-8-300x185.png)
+### ![Designing and packaging your product](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/12/Module-3-Image-8-300x185.png)
 
 ### **Design Impact**
 

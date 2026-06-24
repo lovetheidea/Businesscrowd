@@ -4,7 +4,7 @@ title: "Building a Brand Awareness"
 date: "2022-02-14"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/building-a-brand-awareness/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/building-a-brand-awareness/"
 ---
 
 _Brand awareness_ is very important to your business. It is the first step in driving performance-marketing goals, and it influences consumer decisions when deciding between competing companies. In this lesson, you'll learn about the first steps involved in building your brand and diversifying your revenue. 

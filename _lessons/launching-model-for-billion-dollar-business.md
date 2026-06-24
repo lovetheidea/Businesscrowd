@@ -4,7 +4,7 @@ title: "Launching Model for Billion-Dollar Business"
 date: "2022-02-14"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/launching-model-for-billion-dollar-business/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/launching-model-for-billion-dollar-business/"
 ---
 
 When a corporation intended to launch a major product, they had a few options in the past. First, they could launch a huge media campaign, spending a lot of money on advertising, or they could approach physical retail establishments (which is difficult with a new product with little credibility) and either tap into existing networks or go out and hustle themselves to get it done. However, in this training course, you learned how to use Amazon as a launching pad to develop a big product brand using the new product launch model.

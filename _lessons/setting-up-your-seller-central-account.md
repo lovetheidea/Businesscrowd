@@ -5,12 +5,12 @@ date: "2021-11-17"
 status: "publish"
 course_id: "96915"
 is_preview: "true"
-original_url: "https://academy.lovetheidea.co.uk/courses/module-1-starting-your-amazon-business/lesson/setting-up-your-seller-central-account/"
+original_url: "/lti-content/courses/module-1-starting-your-amazon-business/lesson/setting-up-your-seller-central-account/"
 ---
 
 This lesson will give you an idea of what you will need to set up your Seller Central Account.
 
-![Setting Up Your Seller Central Account ](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Image-4-300x185.png)
+![Setting Up Your Seller Central Account ](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Image-4-300x185.png)
 
 In order to set up an account with Seller Central, you will need the following items:
 

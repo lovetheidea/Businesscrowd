@@ -5,7 +5,7 @@ date: "2024-03-14"
 author: "support"
 categories:
   - "Business"
-original_url: "https://academy.lovetheidea.co.uk/?p=98680"
+original_url: "/lti-content/?p=98680"
 ---
 
 ## Rigorous Data Rules You Need to Follow
@@ -57,4 +57,4 @@ It is critical to protect yourself from potential data issues. Companies and ind
 -   Collect only essential information.
 -   Ensure there are adequate disposal options in your business.
 
-  Want to learn more about digital rules? Check out our video and written courses: **[Keeping Things Professional](https://academy.lovetheidea.co.uk/courses/are-you-breaking-the-rules/)** and **[Social Media Rules](https://academy.lovetheidea.co.uk/courses/can-social-media-rules-land-you-in-legal-trouble/)** Data is probably where most businesses, freelancers and even employees fail in the world. Most employees probably throw away data that could be classified under a data breach, especially if an unauthorised person gained access to the rubbish. Therefore, you need to ensure you are protecting your data and using it only for what is essential for your business.
+  Want to learn more about digital rules? Check out our video and written courses: **[Keeping Things Professional](/lti-content/courses/are-you-breaking-the-rules/)** and **[Social Media Rules](/lti-content/courses/can-social-media-rules-land-you-in-legal-trouble/)** Data is probably where most businesses, freelancers and even employees fail in the world. Most employees probably throw away data that could be classified under a data breach, especially if an unauthorised person gained access to the rubbish. Therefore, you need to ensure you are protecting your data and using it only for what is essential for your business.

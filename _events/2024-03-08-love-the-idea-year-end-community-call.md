@@ -16,7 +16,7 @@ tags:
   - "Year End Party"
 speakers:
   - "Love the Idea"
-original_url: "https://academy.lovetheidea.co.uk/?post_type=tp_event&#038;p=98612"
+original_url: "/lti-content/?post_type=tp_event&#038;p=98612"
 ---
 
 Join us for a festive and fun-filled Year-End Community Call on 19th December from 12:00 to 14:00 (UK Time). It's time to wrap up the year on a high note and come together as a community for an unforgettable celebration!
@@ -31,7 +31,7 @@ Get ready for an exciting Holiday Party call packed with surprises and joy! Our 
 
 ## 🎁 **Date and Time:**
 
-Mark your calendars for 19th December, and join us from 12:00 to 14:00 (UK Time) for an afternoon of laughter, camaraderie, and festive cheer. ![L](https://academy.lovetheidea.co.uk/wp-content/uploads/2024/03/Love-the-Idea-YR-End-Community-Call-300x150.png) **Location**: Zoom (Link to be posted on [#circle channel](https://join.slack.com/t/lovetheidea/shared_invite/zt-21te4zpwk-oryqf6fYE~g~2EIzqd2~AA))
+Mark your calendars for 19th December, and join us from 12:00 to 14:00 (UK Time) for an afternoon of laughter, camaraderie, and festive cheer. ![L](https://r2.businesscrowd.co.uk/wp-content/uploads/2024/03/Love-the-Idea-YR-End-Community-Call-300x150.png) **Location**: Zoom (Link to be posted on [#circle channel](https://join.slack.com/t/lovetheidea/shared_invite/zt-21te4zpwk-oryqf6fYE~g~2EIzqd2~AA))
 
 ## 🎊 **A Heartfelt Thank You**
 

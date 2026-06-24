@@ -4,14 +4,14 @@ title: "How to Setup from Outside the US"
 date: "2021-11-17"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/module-1-starting-your-amazon-business/lesson/how-to-setup-from-outside-the-us/"
+original_url: "/lti-content/courses/module-1-starting-your-amazon-business/lesson/how-to-setup-from-outside-the-us/"
 ---
 
 ## **Getting Setup from Outside the US**
 
 If you reside outside the United States, it is not that difficult to get set up to still do business on Amazon.com. How you do this will, however, depend upon where you live.
 
-![How to Setup from Outside the US](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/How-to-Setup-from-Outside-the-US-300x185.png)
+![How to Setup from Outside the US](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/How-to-Setup-from-Outside-the-US-300x185.png)
 
 ## **Countries accepted for seller registration**
 

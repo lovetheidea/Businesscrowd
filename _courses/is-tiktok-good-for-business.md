@@ -30,11 +30,11 @@ categories:
 tags:
   - "Digital Marketing"
   - "Social Media"
-original_url: "https://academy.lovetheidea.co.uk/?post_type=courses&#038;p=98827"
+original_url: "/lti-content/?post_type=courses&#038;p=98827"
 ---
 
 TikTok is one of the fastest-growing social networks. With about 1.5 billion monthly users, there is a significantly sized group of potential users to market to. However, not many people think that the platform is perfect for business. Yet many businesses are finding that TikTok is not just useful, it is becoming a critical aspect for success.
 
 ### Enroll Now!
 
-Join us in this course to discover effective strategies and tips for leveraging TikTok to reach a wider audience, engage with influencers, and boost your brand's success on the highly engaging and cost-effective platform. [![Go to events](https://academy.lovetheidea.co.uk/wp-content/uploads/2024/03/Blue-and-Yellow-Technology-LinkedIn-Banner-5.jpg)](/events/)
+Join us in this course to discover effective strategies and tips for leveraging TikTok to reach a wider audience, engage with influencers, and boost your brand's success on the highly engaging and cost-effective platform. [![Go to events](https://r2.businesscrowd.co.uk/wp-content/uploads/2024/03/Blue-and-Yellow-Technology-LinkedIn-Banner-5.jpg)](/events/)

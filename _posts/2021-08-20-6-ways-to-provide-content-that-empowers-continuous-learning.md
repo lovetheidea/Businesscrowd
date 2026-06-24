@@ -7,7 +7,7 @@ categories:
   - "Business"
   - "Guest Blog"
   - "Tips"
-original_url: "https://academy.lovetheidea.co.uk/?p=93754"
+original_url: "/lti-content/?p=93754"
 ---
 
 The business world has become so volatile – and organizations so complex – that the half-life of knowledge and skills is shrinking. L&D teams struggle to keep up with the rapid pace of change, and employees on the front lines are more in tune with their learning preferences than the learning pros themselves. In fact, there is a distinct gap between what many L&D organizations are focused on – formal learning structured around training “events” – and what employees want and need: Moment of need support and ready access to fresh ideas, delivered in short, informal, and continuous learning bursts.
@@ -18,7 +18,7 @@ And learners really are taking advantage of learning on a regular basis. [In Mar
 
 To support continuous learning – and help ensure that the _right_ learning is being transmitted through less formal learning channels – L&D organizations need to evolve. They need to shift from developing content and designing formal programs as the core of their offerings to becoming curators of content—gathering the best, most relevant content, organizing it and making it easy to find, providing context, and managing it to ensure it stays fresh. Hard to do on your own, given the pressures on L&D to do more with less, and deliver content and programs more rapidly.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/cridible_content-1024x684.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/cridible_content-1024x684.jpg)
 
 So just how _do_ you support the shift towards continuous learning without dumbing down the content?
 

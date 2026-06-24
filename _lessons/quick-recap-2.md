@@ -4,7 +4,7 @@ title: "Quick Recap"
 date: "2021-11-28"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-for-beginners/lesson/summary-lesson-module-2/"
+original_url: "/lti-content/courses/amazon-mastery-course-for-beginners/lesson/summary-lesson-module-2/"
 ---
 
 Hooray! 2 modules down, one more to go, and you can move on to the next part of the Amazon Mastery Course.

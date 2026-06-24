@@ -19,7 +19,7 @@ audience:
   - "Expanding Networks"
 categories:
   - "Data Ethics"
-original_url: "https://academy.lovetheidea.co.uk/?post_type=courses&#038;p=98594"
+original_url: "/lti-content/?post_type=courses&#038;p=98594"
 ---
 
 ## Social Media Rules to Follow as a Freelancer
@@ -32,7 +32,7 @@ The first rule is about how social media users must label posts. When you want t
 
 ## Rules About Images/Text
 
-A big problem with social media is that users are encouraged to share third-party content. However, this isn’t as easy as it seems. If you share the content in the wrong way or take content without permission, then you can break copyright laws. So, if you want to share content, be sure you’re using the ‘share’ functions on the social media channels. Never download an image directly from a website and use that in a social media update, unless you have permission to use that image. Sites like Pixabay/Unsplash can help. [![Go to events](https://academy.lovetheidea.co.uk/wp-content/uploads/2024/03/Blue-and-Yellow-Technology-LinkedIn-Banner-5.jpg)](/events/)
+A big problem with social media is that users are encouraged to share third-party content. However, this isn’t as easy as it seems. If you share the content in the wrong way or take content without permission, then you can break copyright laws. So, if you want to share content, be sure you’re using the ‘share’ functions on the social media channels. Never download an image directly from a website and use that in a social media update, unless you have permission to use that image. Sites like Pixabay/Unsplash can help. [![Go to events](https://r2.businesscrowd.co.uk/wp-content/uploads/2024/03/Blue-and-Yellow-Technology-LinkedIn-Banner-5.jpg)](/events/)
 
 ## Contacting People
 

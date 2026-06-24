@@ -3,7 +3,7 @@ layout: "lesson"
 title: "Building Marketing List for Beginners"
 date: "2024-04-05"
 status: "publish"
-original_url: "https://academy.lovetheidea.co.uk/courses/email-marketing-for-beginners/lesson/building-marketing-list-for-beginners/"
+original_url: "/lti-content/courses/email-marketing-for-beginners/lesson/building-marketing-list-for-beginners/"
 ---
 
 Email marketing is one of the most business-critical marketing activities you should be doing. It is the best outbound marketing technique for ROI, gaining $36 to $44 per $1 spent. It is permissible and has long-lasting, high rewards associated with the practice.

@@ -4,7 +4,7 @@ title: "BONUS Lesson: Video content you can use to market your listing."
 date: "2022-01-21"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/bonus-lesson-video-content-you-can-use-to-market-your-listing/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/bonus-lesson-video-content-you-can-use-to-market-your-listing/"
 ---
 
 The purpose of this lesson is to guide you on how to make Amazon videos that will help you attract more traffic to your listings.
@@ -36,7 +36,7 @@ Tips for creating this type of video:
 
 Sample Amazon Listing with a product video highlight: [Wacom Intuos Graphics Drawing Tablet for Mac, PC, Chromebook & Android (small) with Software Included - Black (CTL4100)](https://www.amazon.com/Wacom-Drawing-Software-Included-CTL4100/dp/B079HL9YSF/ref=sr_1_49?qid=1642498995&s=computers-intl-ship&sr=1-49)
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img41-300x206.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img41-300x206.png)
 
 -   **Lifestyle Video**
 
@@ -49,7 +49,7 @@ Tips for creating this type of video:
 
 Sample Amazon Listing with a Lifestyle video highlight: [MEATER Plus | Smart Meat Thermometer with Bluetooth | 165ft Wireless Range | for The Oven, Grill, Kitchen, BBQ, Smoker, Rotisserie](https://www.amazon.com/MEATER-Thermometer-Rotisserie-Bluetooth-Connectivity/dp/B07H8WTFHW?ref_=Oct_d_omg_d_289754&pd_rd_w=itU4o&pf_rd_p=91d04f53-a5e6-477b-803f-81835dc5f501&pf_rd_r=F6RJVW2GZC61TG0D70B4&pd_rd_r=05532d66-f5e6-44ef-a17c-1deb42767319&pd_rd_wg=jOiSQ&pd_rd_i=B07H8WTFHW)
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img42-300x199.png) ![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img43-300x198.png)  
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img42-300x199.png) ![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img43-300x198.png)  
 
 -   **Unboxing Video** 
 
@@ -78,8 +78,8 @@ Here are the simple steps you can take to use Fiverr.com:
 -   -   -   The first thing you have to do is go to fiverr.com.
         -   Register an account if you don't already have one.
         -   Look for the **Video & Animation** category, and click.
-    -   ![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img44-300x90.png)
+    -   ![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img44-300x90.png)
         -   Look for E-Commerce Product Videos in the Video & Animation section. You will be directed to a page where you can view Sellers' sample works. You can see this option on this page (see image below); make sure to optimize its use by applying the necessary details you require.
-    -   ![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img45-300x38.png) 
+    -   ![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img45-300x38.png) 
         -   When you get your search results, choose "High Rating" to sort them so that those with the highest rating votes appear first.
         -   Finally, all you have to do is go through them and see if there's anything that seems intriguing or that can do what you want.

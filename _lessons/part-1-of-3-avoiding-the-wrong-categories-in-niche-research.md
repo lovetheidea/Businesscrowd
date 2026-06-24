@@ -4,12 +4,12 @@ title: "Part 1 of 3: Avoiding the wrong categories in niche research"
 date: "2021-11-17"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/module-1-starting-your-amazon-business/lesson/part-1-of-3-avoiding-the-wrong-categories-in-niche-research/"
+original_url: "/lti-content/courses/module-1-starting-your-amazon-business/lesson/part-1-of-3-avoiding-the-wrong-categories-in-niche-research/"
 ---
 
 This lesson will present the first of three lessons on niche research. This module focuses on product categories to avoid when selling on Amazon.
 
-![Part 1 of 3: Avoiding the wrong categories in niche research](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Part-1-of-3-Avoiding-the-wrong-categories-in-niche-research-300x185.png)
+![Part 1 of 3: Avoiding the wrong categories in niche research](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Part-1-of-3-Avoiding-the-wrong-categories-in-niche-research-300x185.png)
 
 # **Keys to Fast Results** 
 

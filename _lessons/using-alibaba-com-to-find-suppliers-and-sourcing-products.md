@@ -4,12 +4,12 @@ title: "Using Alibaba.com to Find Suppliers and Sourcing Products"
 date: "2021-11-23"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course/lesson/using-alibaba-com-to-find-suppliers-and-sourcing-products/"
+original_url: "/lti-content/courses/amazon-mastery-course/lesson/using-alibaba-com-to-find-suppliers-and-sourcing-products/"
 ---
 
 In this lesson, we are going to show you how to use Alibaba.com to find products to sell on Amazon. 
 
-### ![Using Alibaba.com to Find Suppliers and Sourcing Products](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/12/Module-3-Image-4-300x185.png)
+### ![Using Alibaba.com to Find Suppliers and Sourcing Products](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/12/Module-3-Image-4-300x185.png)
 
 ## **What is Alibaba**
 
@@ -23,11 +23,11 @@ Before you do anything else on Alibaba, I recommend visiting the [**Help Center*
 
 The first thing you need to do is create an account at Alibaba.com. This will allow you to reach out to their suppliers. Use this link to create an account at [Alibaba.com](https://passport.alibaba.com/icbu_login.htm?spm=a2700.8293689.scGlobalHomeHeader.6.33d067afCw19S4&tracelog=hd_signin)
 
-![Create an account at Alibaba.com](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/255793688_1159711208121298_226696342423325276_n-300x134.png)
+![Create an account at Alibaba.com](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/255793688_1159711208121298_226696342423325276_n-300x134.png)
 
 After you create an Alibaba account, you can use the site in a number of ways. Using **Search Box**, let’s choose **Suppliers**.
 
-![Search Box](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Search-Box-300x58.png)
+![Search Box](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Search-Box-300x58.png)
 
 Then, let’s type our keywords in the **search** field, e.g. "silicone spatula", and click **Search**. You'll notice some other options to filter down your search based on your reference such as:
 
@@ -35,7 +35,7 @@ Then, let’s type our keywords in the **search** field, e.g. "silicone spatula"
 -   Sort by: Best Match or Response Rate
 -   Location
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/03/unnamed-1-1-300x108.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/03/unnamed-1-1-300x108.png)
 
 Let’s don't worry about these things for a while. Our goal, for now, is to find as many product suppliers as possible. 
 
@@ -52,7 +52,7 @@ There are two types of Supplier in Alibaba:
 
 -   **Verified Supplier** is a supplier for whom independent third-party institutions have assessed, certified, and/or inspected certain aspects of its company profile, management system, production capabilities, and product and process controls via online and offline means. The verified badge will be shown along with the supplier profile.
 
- ![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Verified-Supplier-300x122.png)
+ ![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Verified-Supplier-300x122.png)
 
 There are some other things that are very important to understand. This is in relation to the product and the types of situations for which you could be held liable. If you're selling a cooking product in the United States, for example, you'll want to make sure it's FDA-certified. As a result, when looking for a product, you'll want to look for certifications that are relevant to your product. When I select FDA, my search will be narrowed even further.
 
@@ -68,7 +68,7 @@ You must seek out products that are appropriate for you. When you click on a pro
 
 It's critical that you've done your research at this point. For example, if you're looking for spatulas, make sure you've visited Amazon and looked at the other products. It is beneficial to read the negative reviews for those products in order to understand what problems the product may have. For example, if there are complaints that a spatula isn't heat resistant and non-sustainable, you can check the **Quick Details** for the Alibaba product you're interested in to see if this detail is taken into account.
 
-![Quick Details for the Alibaba Product](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Quick-Details-for-the-Alibaba-Product-300x88.png)
+![Quick Details for the Alibaba Product](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Quick-Details-for-the-Alibaba-Product-300x88.png)
 
 All in all, it's good to know what features you're looking for in your product. 
 
@@ -83,7 +83,7 @@ Here’s how: 
     3.  Under each Supplier, you can see **Contact Details.** Click it.
     4.  You will be directed to the Supplier Contact Information page. The company might have a website on Alibaba if it does not have its own website. This is just a page on Alibaba where you can find some extra information. 
 
-![Supplier Contact Information page](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Supplier-Contact-Information-page-300x72.png)
+![Supplier Contact Information page](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Supplier-Contact-Information-page-300x72.png)
 
 The other reason why we need to see their website is that you can see all of the other products they have. Looking at these other products may provide you with better ideas than your original product idea.
 
@@ -93,17 +93,17 @@ In the case of a company that looks like it could be a viable option, we do not 
 
 If you like the product, get back on the initial product page and click on the **Compare** button below it on the Search Results page. Look at as many products as you can until you get a good solid list.  
 
-![Compare button ](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Compare-button-300x122.png)
+![Compare button ](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Compare-button-300x122.png)
 
 ### **Compare:**  
 
 Once you’ve found and selected compare for 20 products, you click on **Compare** in the little window that opens up. 
 
-![Compare: ](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Compare.png)
+![Compare: ](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Compare.png)
 
 When you click it, a new window will open, allowing you to view all of the products you've chosen. You're looking to compare prices and see which products look particularly appealing. If you want, you can just **select all** and then **contact the supplier**, but we like to double-check everything. We want to make sure that things are looking good in terms of price. Anything between $1 and $1.50, and even up to $2.00, in our opinion, is a good price. You'll also want to obtain as many quotes as possible. 
 
-![contact the supplier](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/contact-the-supplier.png)
+![contact the supplier](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/contact-the-supplier.png)
 
 ### **Contact Supplier:**  
 

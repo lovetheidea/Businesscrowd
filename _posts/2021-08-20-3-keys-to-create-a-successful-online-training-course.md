@@ -7,7 +7,7 @@ categories:
   - "Business"
   - "Guest Blog"
   - "Tips"
-original_url: "https://academy.lovetheidea.co.uk/?p=93734"
+original_url: "/lti-content/?p=93734"
 ---
 
 As most educators have shifted to online learning platforms, integrators should embrace the trend. By following a few simple guidelines, anyone can host an excellent online training session.
@@ -18,7 +18,7 @@ As in-person training and workshops were postponed or canceled for the foreseeab
 
 In the next several weeks, as we enter into the next phase of the response to the pandemic, virtual learning will offer a unique opportunity for employees to sharpen their skills and prepare for a new work environment – and to do so from a safe social distance. With understandable “virtual fatigue” taking hold, there are three key measures companies should implement to continue keeping employees motivated and engaged during online training, such as live or on-demand training or webinars and e-learning courses.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/7-1024x683.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/7-1024x683.jpg)
 
 **#1: Don’t Be Afraid to Get Technical**
 
@@ -28,7 +28,7 @@ Real-life examples and interactive scenarios are a great way to ensure relevant 
 
 With staff at home, now is an ideal time to integrate more hands-on virtual trainings. With on-site installations on hold, employees can focus on improving their installation techniques while in their own homes. Working with new systems or devices will allow them to expand their knowledge and also gives them more first-hand experience to relate to customers.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/Engage_participant-1024x683.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/Engage_participant-1024x683.jpg)
 
 **#2: Engage Participants Before, During, and After the Training**
 
@@ -50,7 +50,7 @@ A training session can be a convenient opportunity to give employees a break fro
 
 It’s been suggested that distractions of about 20 minutes throughout the day can help to reset focus, so whenever possible, keep sessions short and simple. Break down the training to multiple sessions over the course of a few days to serve as an alternate activity to more traditional work. This can also help make the information easier to retain.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/8-1024x683.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/8-1024x683.jpg)
 
 Gamification is a growing trend in virtual engagement that can make training sessions enjoyable and engaging, and it can add an element of friendly competition among employees. The content of the training itself can be built into an interactive game that participants move through at their own pace. Or, with the information fresh in their minds, finish training sessions with a creative game or quiz.
 

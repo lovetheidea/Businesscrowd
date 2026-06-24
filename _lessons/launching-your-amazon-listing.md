@@ -4,12 +4,12 @@ title: "Launching your Amazon Listing"
 date: "2021-12-21"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/launching-your-amazon-listing/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/launching-your-amazon-listing/"
 ---
 
 Launching your Amazon listing is not as simple as posting it on social media and saying, "_Hey, I just launched my Amazon listing, check it out._" Launching your listing is both fun and challenging. To be successful, you must invest **time**, **knowledge**, and **effort**.
 
-### ![Launching your Amazon Listing](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/12/Listing-launch-Image-4-300x185.jpg)
+### ![Launching your Amazon Listing](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/12/Listing-launch-Image-4-300x185.jpg)
 
 ### **Launching your Amazon Listings Checklist**
 

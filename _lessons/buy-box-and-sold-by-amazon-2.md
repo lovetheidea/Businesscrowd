@@ -4,7 +4,7 @@ title: "Buy Box and Sold by Amazon"
 date: "2021-11-21"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course/lesson/buy-box-and-sold-by-amazon-2/"
+original_url: "/lti-content/courses/amazon-mastery-course/lesson/buy-box-and-sold-by-amazon-2/"
 ---
 
 #### **Can you outrank an Amazon-sold product?** 

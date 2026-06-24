@@ -4,14 +4,14 @@ title: "Setting up World First or Payoneer"
 date: "2021-11-17"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/module-1-starting-your-amazon-business/lesson/setting-up-world-first-or-payoneer/"
+original_url: "/lti-content/courses/module-1-starting-your-amazon-business/lesson/setting-up-world-first-or-payoneer/"
 ---
 
 The purpose of this document is to show you how to get set up with World First and Payoneer. Payoneer and Worldfirst are the two most well-known companies used by Amazon sellers to receive payments from the United States and the United Kingdom.
 
 These two services offer bank accounts that are Amazon-approved, but in slightly different ways, and if you plan on selling supplements, you need to use World First, which is our recommendation.
 
-![Setting up World First or Payoneer](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Setting-up-World-First-or-Payoneer-300x185.png)
+![Setting up World First or Payoneer](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Setting-up-World-First-or-Payoneer-300x185.png)
 
 ## **WorldFirst**
 
@@ -23,23 +23,23 @@ We’re going to start with World First. As I said, they are our recommended par
 
 1\. Go to [https://www.worldfirst.com/en-hk/amazon/](https://www.worldfirst.com/en-hk/amazon/)
 
-![WorldFirst](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/WorldFirst-300x110.png)
+![WorldFirst](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/WorldFirst-300x110.png)
 
 2\. Click **Get started now** or **Register** and you will be directed to this page. 
 
-![Sign Up Free Account](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Sign-Up-Free-Account-300x131.png)
+![Sign Up Free Account](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Sign-Up-Free-Account-300x131.png)
 
 3\. Basically, we will choose **For e-commerce seller (World Account).** Click **Register** now button.
 
-![Account World Seller](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Account-World-Seller-246x300.png)
+![Account World Seller](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Account-World-Seller-246x300.png)
 
 4\. You will be redirected to this page.
 
-![Open Seller Account](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Open-Seller-Account-300x148.png)
+![Open Seller Account](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Open-Seller-Account-300x148.png)
 
 Since we are based in the United Kingdom this will appear:
 
-![Uk Seller Account](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Uk-Seller-Account-300x168.png)
+![Uk Seller Account](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Uk-Seller-Account-300x168.png)
 
 If you experience the same on your end kindly click continue and you will be directed to the page that will suit your location.
 
@@ -109,11 +109,11 @@ Now for Payoneer. They have created a nice, pretty page. Follow these steps to c
 
 1\. Visit this page “ [https://www.payoneer.com/](https://www.payoneer.com/)."
 
-![Register for Payoneer Account](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Register-for-Payoneer-Account-300x133.png)
+![Register for Payoneer Account](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Register-for-Payoneer-Account-300x133.png)
 
 2\. Click the **Register** button and you will be directed to this page:
 
-![Payoneer Sign Up](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Payoneer-Sign-Up-275x300.png)
+![Payoneer Sign Up](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Payoneer-Sign-Up-275x300.png)
 
 3\. Select your type of business: **Individual** or **Company**. Choose an **Individual** account if your business is not registered and choose the **Company** account if your business is registered or incorporated, as complete details about your business will be needed when signing up an account. 
 
@@ -123,27 +123,27 @@ Here are the details you will need for an individual account:
         -   Email address
         -   Date of birth
 
-![Fill In Informations](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Fill-In-Informations-300x202.png)
+![Fill In Informations](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Fill-In-Informations-300x202.png)
 
 Here are the details you will need for the **Company** account:
 
 -   -   -   The Company details: Legal Name, Registered legal Identity, and Company website.
 
-![Company Details](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Company-Details-300x115.png)
+![Company Details](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Company-Details-300x115.png)
 
 -   -   -   Authorized Representative details: Full name of the representative, email address, and representative date of birth
 
-![Authorized Representative Details](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Authorized-Representative-Details-300x180.png)
+![Authorized Representative Details](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Authorized-Representative-Details-300x180.png)
 
 Include all the necessary information needed and click **Next**.
 
 4\. Fill in your contact details. The country you are in, 
 
-![Payoneer Sign Up](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Payoneer-Sign-Up-1-300x189.png)
+![Payoneer Sign Up](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Payoneer-Sign-Up-1-300x189.png)
 
 5\. Next, you will be asked for the security details that will be needed to identify you. Fill in the required information.
 
-![Payoneer Sign Up Security Details](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Payoneer-Sign-Up-Security-Details-300x176.png)
+![Payoneer Sign Up Security Details](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Payoneer-Sign-Up-Security-Details-300x176.png)
 
 6\. Lastly, provide your preferred bank details that will let you receive the funds to your bank account. You will also need to enter your ID information. Please make sure to choose the account that matches the account you used in the first step whether an Individual or Company account. Click **Submit** when you are done.
 
@@ -166,6 +166,6 @@ If you already have a Payoneer account, or once you receive a Payoneer account:
 
 Now essentially that is all there is to it. One last thing, obviously the decision on which you want to choose is up to you. If you push me for an answer on the best people to go with, it would be, World First.
 
-![International Business PAyments](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/International-Business-PAyments-300x134.png)
+![International Business PAyments](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/International-Business-PAyments-300x134.png)
 
 Their support is second to none, and moving forward we think it is the best choice. But, if you choose to use Payoneer, it will still provide you with the bank account you need. But remember, if you are considering doing supplements in the near future, you cannot use Payoneer.

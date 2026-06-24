@@ -14,7 +14,7 @@ categories:
 speakers:
   - "David Lowbridge"
   - "Love the Idea"
-original_url: "https://academy.lovetheidea.co.uk/?post_type=tp_event&#038;p=98726"
+original_url: "/lti-content/?post_type=tp_event&#038;p=98726"
 ---
 
 Get ready to supercharge your LinkedIn presence and amplify your freelancing success! Join us for an exclusive workshop on "Powerful LinkedIn Marketing Tactics for Freelancers" on May 1st at 12:00 Noon (UK Time).
@@ -39,7 +39,7 @@ Get ready to supercharge your LinkedIn presence and amplify your freelancing suc
 
 Click the “**_Book Now_**” button to secure your spot and indicate the number of slots you are reserving. 📅 Save the date, mark your calendars, and don’t miss out on this enriching opportunity to learn, connect, and have fun!
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2024/01/image2-1.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2024/01/image2-1.png)
 
 **Location**: Zoom (Link to be posted on [#circle channel](https://join.slack.com/t/lovetheidea/shared_invite/zt-21te4zpwk-oryqf6fYE~g~2EIzqd2~AA))
 
@@ -60,7 +60,7 @@ In this session, we dove deep into the world of LinkedIn Marketing, uncovering s
 
 If you missed the live event, we have a short free course you can check anytime.
 
--   [Want to build a massive LinkedIn Network quickly? Master the art of LinkedIn Networking!](https://academy.lovetheidea.co.uk/courses/want-to-build-a-massive-linkedin-network-quickly/)
+-   [Want to build a massive LinkedIn Network quickly? Master the art of LinkedIn Networking!](/lti-content/courses/want-to-build-a-massive-linkedin-network-quickly/)
 
 ##### 🙌 **Thank You!**
 
@@ -68,4 +68,4 @@ A heartfelt thank you to all participants for making the event a success. Your a
 
 ##### 📅 **Stay Connected for Future Events:**
 
-Want more insightful events like this? Keep an eye on our [#circle channel](https://join.slack.com/t/lovetheidea/shared_invite/zt-21te4zpwk-oryqf6fYE~g~2EIzqd2~AA) and the [Love the Idea Academy Event](https://academy.lovetheidea.co.uk/events/) page for updates on upcoming workshops, discussions, and opportunities to enhance your skills and knowledge.
+Want more insightful events like this? Keep an eye on our [#circle channel](https://join.slack.com/t/lovetheidea/shared_invite/zt-21te4zpwk-oryqf6fYE~g~2EIzqd2~AA) and the [Love the Idea Academy Event](/events/) page for updates on upcoming workshops, discussions, and opportunities to enhance your skills and knowledge.

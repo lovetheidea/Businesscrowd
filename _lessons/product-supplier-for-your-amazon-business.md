@@ -4,7 +4,7 @@ title: "Product Supplier for your Amazon Business"
 date: "2021-12-09"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/product-supplier-for-your-amazon-business/"
+original_url: "/lti-content/courses/amazon-mastery-course-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/product-supplier-for-your-amazon-business/"
 ---
 
 -   **When searching for a supplier but the best deal we can work out makes us be more expensive than the top product in that category, do we go with it or is it vital to undercut the first listing? If it's ok to be more expensive, how do we determine the price point? Are we testing to see what the market will bear?** 

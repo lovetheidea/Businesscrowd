@@ -4,7 +4,7 @@ title: "Understanding Full Reports"
 date: "2021-10-14"
 status: "publish"
 course_id: "96510"
-original_url: "https://academy.lovetheidea.co.uk/courses/beginners-guide-to-google-analytics/lesson/understanding-full-reports/"
+original_url: "/lti-content/courses/beginners-guide-to-google-analytics/lesson/understanding-full-reports/"
 ---
 
 ### **Navigating full reports: Part 1**
@@ -17,13 +17,13 @@ Now, let’s check out a full report.
 
 If you open the full report, you'll see links underneath the segment picker that control the different types of data in the report. Te **“Summary”** view is a summary of the dimension categorized by Acquisition, Behavior, and Conversion metrics. This makes it easier to interpret these metrics in the context of the marketing funnel we discussed in Unit 1.
 
-![Navigating full reports Part 1 Introduction](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/10/Navigating-full-reports-Part-1-Introduction-300x154.png)
+![Navigating full reports Part 1 Introduction](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/10/Navigating-full-reports-Part-1-Introduction-300x154.png)
 
 **"Site Usage"** shows metrics such as users, sessions per user, new users, sessions, pages per session, and average session duration. **"Goals"** will show metrics based on the number of goals you've set up, but only if you've set up goals in Google Analytics, which we'll discuss later. And **“Ecommerce”** will show you transaction metrics if you’ve set up eCommerce tracking in Analytics. Now let’s switch back to the Summary view.
 
 Below the graph is the main data table. The first column represents the current dimension, "Country," which was the last demographic category we selected in the Overview report. You can switch between other dimensions like city, continent, and subcontinent by clicking the links above the data table. It’s important to know you can also add another dimension to the table for an even more specific analysis. We call this a secondary dimension, which is a common technique when analyzing data. For example, you could add a secondary dimension of **“device category”** to the Location report to see what kinds of devices were used by people in different countries while visiting your website.
 
-![Location report](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/10/Location-report-300x165.png)
+![Location report](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/10/Location-report-300x165.png)
 
 Here you can see that each row of the table represents a different segment of traffic in the “Country” dimension. Please note that Analytics will only display the first 10 rows of information and the columns that will fit on the screen. To view additional rows, you can use the "Show rows" pulldown menu on the bottom-right side of the table to choose how many rows you want to see. You can also scroll through 10 rows at a time using the left and right arrows. If you want to view all the columns, you may have to use the horizontal scroll bar at the bottom of the report.
 

@@ -4,7 +4,7 @@ title: "Behavior Reports"
 date: "2021-10-14"
 status: "publish"
 course_id: "96510"
-original_url: "https://academy.lovetheidea.co.uk/courses/beginners-guide-to-google-analytics/lesson/behavior-reports/"
+original_url: "/lti-content/courses/beginners-guide-to-google-analytics/lesson/behavior-reports/"
 ---
 
 #### **Behavior reports overview**
@@ -13,7 +13,7 @@ The "Behavior" reports may be found in the left-hand navigation under "Behavior.
 
 Let’s begin by looking at the **“All Pages”** report located under **“Site Content”** and scroll down to the data table.
 
-![Behavior reports overview](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/10/Behavior-reports-overview-300x159.png)
+![Behavior reports overview](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/10/Behavior-reports-overview-300x159.png)
 
 -   The **“Pageviews”** metric shows how frequently each page on your site was viewed. By default, this report will show data by the page URI. The URI is the part of the URL after the domain name in the location bar of the browser. If you switch the primary dimension of the report to **“Page Title,”** you can view this report by the title listed in the web page’s HTML.
 -   Other metrics in the **“All Pages”** report like **“Average Time on Page”** and **“Bounce Rate”** indicate how engaged users were on each page of your site. You can sort the report by these metrics to quickly find low-performing pages that need improvement or high-performing content to guide future content decisions.

@@ -6,14 +6,14 @@ author: "tiffanyrowe"
 categories:
   - "Business"
   - "Guest Blog"
-original_url: "https://academy.lovetheidea.co.uk/?p=93746"
+original_url: "/lti-content/?p=93746"
 ---
 
 One of the key elements of increasing [employee engagement](https://www.inc.com/magazine/201412/paul-keegan/the-new-rules-of-engagement.html) and satisfaction in the workplace is giving staff members the opportunity to grow and develop. People need to be [continually learning](http://www.gethppy.com/talent-management/enable-continuous-learning-and-development-using-technology) and see that they have the opportunity to move up the career ladder and try new things. As HR managers, it is important to encourage your workforce to learn new skills, keep up on the latest trends, develop leadership abilities, and more.
 
 Happily, one of the great things to come out of the rise in technology over recent years is that [online learning](https://www.teamfluent.com/blog/the-workplace-learning-environment-is-moving-online) is easier than ever and can be very helpful for both workers and businesses. Read on for some reasons why you should be setting up online training programs or encouraging workers to enroll in online courses today.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/13-1024x683.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/13-1024x683.jpg)
 
 **Cost Savings**
 
@@ -25,7 +25,7 @@ For businesses, there are also cost savings involved in presenting training and 
 
 As well, if you want to use the best teachers possible for the learning programs, you won’t have to pay for them to travel to your employees, and for the various flights, accommodation, meals, and other expenses that are a part of this. Instead, they can film their classes or speeches from their own location.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/flexibility_convinience-1024x576.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/flexibility_convinience-1024x576.jpg)
 
 **Flexibility, Convenience, and Time Savings**
 

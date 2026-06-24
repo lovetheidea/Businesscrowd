@@ -4,12 +4,12 @@ title: "The Social Proof Reviews"
 date: "2021-12-21"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/the-social-proof-reviews/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/the-social-proof-reviews/"
 ---
 
 Ecommerce relies heavily on the review economy. Any product sold on the internet, particularly on Amazon, relies heavily on customer reviews. This is why you'll learn how to get reviews for your Amazon product as part of the Listing Launch Formula; primarily, so your product has some solid social proof.
 
-![The Social Proof Reviews](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/12/Listing-Launch-Image-2-300x185.png)
+![The Social Proof Reviews](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/12/Listing-Launch-Image-2-300x185.png)
 
 It's important to remember that you don't want to go out and buy fake reviews. People have used sites like fiverr.com in the past, which is not a good idea because it appears fake and can get your Amazon product and account into trouble. That is not something you should do. In fact, you are not required to do so.
 

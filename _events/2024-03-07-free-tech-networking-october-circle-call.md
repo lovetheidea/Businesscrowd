@@ -17,7 +17,7 @@ tags:
 speakers:
   - "Graice Udeme"
   - "Love the Idea"
-original_url: "https://academy.lovetheidea.co.uk/?post_type=tp_event&#038;p=98603"
+original_url: "/lti-content/?post_type=tp_event&#038;p=98603"
 ---
 
 Get ready to elevate your knowledge and connections! Join us for our Monthly Circle Call on  31st at 12:00 Noon (UK Time).
@@ -42,7 +42,7 @@ Get ready to elevate your knowledge and connections! Join us for our Monthly Cir
 
 Click the “_Book Now_” button to secure your spot and indicate the number of slots you are reserving. 📅 Save the date, mark your calendars, and don’t miss out on this enriching opportunity to learn, connect, and have fun!
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2024/01/image2-1.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2024/01/image2-1.png)
 
 **Location**: Zoom (Link to be posted on [#circle channel](https://join.slack.com/t/lovetheidea/shared_invite/zt-21te4zpwk-oryqf6fYE~g~2EIzqd2~AA))
 
@@ -50,4 +50,4 @@ Click the “_Book Now_” button to secure your spot and indicate the number of
 
 ## **📸 Event Insights:**
 
-Thank you to everyone who attended our Monthly Circle Call! Gracie shares invaluable insights and practical tips on leveraging networking for professional growth and success in this insightful presentation. Searching for a community to broaden your network? Look no further than our [Love the Idea Community](https://lovetheidea.co.uk/career/). Join us as we delve into new opportunities and connections. We appreciate the enthusiasm and participation of each attendee, making this event a memorable and insightful experience. Stay tuned at our [#circle channel](https://join.slack.com/t/lovetheidea/shared_invite/zt-21te4zpwk-oryqf6fYE~g~2EIzqd2~AA) and the [Love the Idea Academy Event](https://academy.lovetheidea.co.uk/events/) page for more exciting events, workshops, and networking opportunities coming your way!
+Thank you to everyone who attended our Monthly Circle Call! Gracie shares invaluable insights and practical tips on leveraging networking for professional growth and success in this insightful presentation. Searching for a community to broaden your network? Look no further than our [Love the Idea Community](https://lovetheidea.co.uk/career/). Join us as we delve into new opportunities and connections. We appreciate the enthusiasm and participation of each attendee, making this event a memorable and insightful experience. Stay tuned at our [#circle channel](https://join.slack.com/t/lovetheidea/shared_invite/zt-21te4zpwk-oryqf6fYE~g~2EIzqd2~AA) and the [Love the Idea Academy Event](/events/) page for more exciting events, workshops, and networking opportunities coming your way!

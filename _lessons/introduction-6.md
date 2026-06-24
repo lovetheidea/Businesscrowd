@@ -4,7 +4,7 @@ title: "Introduction"
 date: "2022-04-14"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/introduction-7/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/introduction-7/"
 ---
 
 Our Amazon Mastery Course will not teach you how to start a short-term business that will make you a lot of money for a month and then fail. Here, you're establishing a legitimate product brand.

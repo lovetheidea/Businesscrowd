@@ -13,7 +13,7 @@ categories:
 speakers:
   - "David Lowbridge"
   - "Love the Idea"
-original_url: "https://academy.lovetheidea.co.uk/?post_type=tp_event&#038;p=98768"
+original_url: "/lti-content/?post_type=tp_event&#038;p=98768"
 ---
 
 Get ready to take your business to the next level with TikTok! Join us for an exclusive event: “TikTok for Business: Is it Time to Get Involved?” on June 3rd at 12 Noon (UK Time).
@@ -36,7 +36,7 @@ Get ready to take your business to the next level with TikTok! Join us for an ex
 
 #### **🔔 Customize Your Experience – Join Your Preferred Session(s)!**
 
-Click the “**_Book Now_**” button to secure your spot and indicate the number of slots you are reserving. 📅 Save the date, mark your calendars, and don’t miss out on this enriching opportunity to learn, connect, and have fun! ![](https://academy.lovetheidea.co.uk/wp-content/uploads/2024/01/image2-1-300x169.png) **Location**: Zoom (Link to be posted on [#circle channel](https://join.slack.com/t/lovetheidea/shared_invite/zt-21te4zpwk-oryqf6fYE~g~2EIzqd2~AA))
+Click the “**_Book Now_**” button to secure your spot and indicate the number of slots you are reserving. 📅 Save the date, mark your calendars, and don’t miss out on this enriching opportunity to learn, connect, and have fun! ![](https://r2.businesscrowd.co.uk/wp-content/uploads/2024/01/image2-1-300x169.png) **Location**: Zoom (Link to be posted on [#circle channel](https://join.slack.com/t/lovetheidea/shared_invite/zt-21te4zpwk-oryqf6fYE~g~2EIzqd2~AA))
 
 ## **📌 Event Insights:**
 
@@ -54,7 +54,7 @@ In this session, we delved into the dynamic world of TikTok for Business, uncove
 
 If you missed the live event, we have a short free course you can check anytime.
 
--   [Tiktok for Business: Is it Time to Get Involved?](https://academy.lovetheidea.co.uk/courses/is-tiktok-good-for-business-2/)
+-   [Tiktok for Business: Is it Time to Get Involved?](/lti-content/courses/is-tiktok-good-for-business/)
 
 ##### 🙌 **Thank You!**
 
@@ -62,4 +62,4 @@ A heartfelt thank you to all participants for making the event a success. Your a
 
 ##### 📅 **Stay Connected for Future Events:**
 
-Want more insightful events like this? Keep an eye on our [#circle channel](https://join.slack.com/t/lovetheidea/shared_invite/zt-21te4zpwk-oryqf6fYE~g~2EIzqd2~AA) and the [Love the Idea Academy Event](https://academy.lovetheidea.co.uk/events/) page for updates on upcoming workshops, discussions, and opportunities to enhance your skills and knowledge.
+Want more insightful events like this? Keep an eye on our [#circle channel](https://join.slack.com/t/lovetheidea/shared_invite/zt-21te4zpwk-oryqf6fYE~g~2EIzqd2~AA) and the [Love the Idea Academy Event](/events/) page for updates on upcoming workshops, discussions, and opportunities to enhance your skills and knowledge.

@@ -4,12 +4,12 @@ title: "Characteristics of a Successful Amazon Opportunity"
 date: "2021-11-19"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course/lesson/characteristics-of-a-successful-amazon-opportunity/"
+original_url: "/lti-content/courses/amazon-mastery-course/lesson/characteristics-of-a-successful-amazon-opportunity/"
 ---
 
 To build a successful business selling REAL products on Amazon, you must first have a product. This lesson teaches you what qualities to look for to find the best opportunities on Amazon that people are already looking for.
 
-![Characteristics of a Successful Amazon Opportunity](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Characteristics-of-a-Successful-Amazon-Opportunity-300x185.png)
+![Characteristics of a Successful Amazon Opportunity](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Characteristics-of-a-Successful-Amazon-Opportunity-300x185.png)
 
 ## **Qualities of a Successful Amazon Opportunity**
 

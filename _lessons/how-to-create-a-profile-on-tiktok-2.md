@@ -4,7 +4,7 @@ title: "How to Create a Profile on TikTok"
 date: "2024-06-14"
 status: "publish"
 course_slug: "is-tiktok-good-for-business"
-original_url: "https://academy.lovetheidea.co.uk/courses/is-tiktok-good-for-business-2/lesson/how-to-create-a-profile-on-tiktok-2/"
+original_url: "/lti-content/courses/is-tiktok-good-for-business/lesson/how-to-create-a-profile-on-tiktok-2/"
 ---
 
 Like all social media and content distribution sites (YouTube, Twitch, etc) you need to create a profile on TikTok to attract audiences to your profile. However, those inexperienced in creating profiles can sometimes find this challenging. So, in this article, we talk about how to create a profile that will act as a magnet for attracting audiences to your channel.

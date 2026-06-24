@@ -4,7 +4,7 @@ title: "Characteristics of a Successful Amazon Opportunity"
 date: "2021-11-21"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course/lesson/characteristics-of-a-successful-amazon-opportunity-2/"
+original_url: "/lti-content/courses/amazon-mastery-course/lesson/characteristics-of-a-successful-amazon-opportunity-2/"
 ---
 
 #### **What does Bestseller Ranking (BSR) of Top-Ranked Products mean?** 

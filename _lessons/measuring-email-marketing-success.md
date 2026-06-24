@@ -3,7 +3,7 @@ layout: "lesson"
 title: "Measuring Email Marketing Success"
 date: "2024-04-05"
 status: "publish"
-original_url: "https://academy.lovetheidea.co.uk/courses/new-course-2/lesson/measuring-email-marketing-success/"
+original_url: "/lti-content/courses/new-course-2/lesson/measuring-email-marketing-success/"
 ---
 
 As well as completing regular email marketing campaigns, you need to determine how successful those campaigns are. Monitoring campaigns can be a critical way to spot trends in performance that allow you to make changes to various elements that can improve results in the long term.

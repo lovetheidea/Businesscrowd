@@ -4,12 +4,12 @@ title: "My Seller Account Got Deactivated"
 date: "2021-11-17"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/module-1-starting-your-amazon-business/lesson/my-seller-account-got-deactivated/"
+original_url: "/lti-content/courses/module-1-starting-your-amazon-business/lesson/my-seller-account-got-deactivated/"
 ---
 
 The goal of this lesson is to understand why your seller account is deactivated, how to avoid it, and how to get your Seller Central account reinstated if you have had a Deactivated Seller Central account.
 
-![Amazon Account Deactivated](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Amazon-Account-Deactivated-300x185.png)
+![Amazon Account Deactivated](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Amazon-Account-Deactivated-300x185.png)
 
 # **Why does an account get deactivated?** 
 

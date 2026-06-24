@@ -4,6 +4,6 @@ title: "Planning Principles"
 date: "2020-12-10"
 status: "publish"
 course_id: "3272"
-original_url: "https://academy.lovetheidea.co.uk/courses/sample-course/lesson/planning-principles-3/"
+original_url: "/lti-content/courses/sample-course/lesson/planning-principles-3/"
 ---
 

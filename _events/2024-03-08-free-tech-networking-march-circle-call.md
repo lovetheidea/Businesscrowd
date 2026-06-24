@@ -16,7 +16,7 @@ tags:
 speakers:
   - "David Lowbridge"
   - "Love the Idea"
-original_url: "https://academy.lovetheidea.co.uk/?post_type=tp_event&#038;p=98623"
+original_url: "/lti-content/?post_type=tp_event&#038;p=98623"
 ---
 
 Get ready to elevate your knowledge and connections! Join us for our Monthly Circle Call on March 1st at 12:00 Noon (UK Time).
@@ -41,7 +41,7 @@ Get ready to elevate your knowledge and connections! Join us for our Monthly Cir
 
 Click the “_Book Now_” button to secure your spot and indicate the number of slots you are reserving. 📅 Save the date, mark your calendars, and don’t miss out on this enriching opportunity to learn, connect, and have fun!
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2024/01/image2-1.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2024/01/image2-1.png)
 
 **Location**: Zoom (Link to be posted on [#circle channel](https://join.slack.com/t/lovetheidea/shared_invite/zt-21te4zpwk-oryqf6fYE~g~2EIzqd2~AA))
 
@@ -53,8 +53,8 @@ At this event, David likely covered legal and ethical considerations in marketin
 
 If you missed the live event, we have a short free course you can check anytime.
 
--   [Are you breaking the rules? A guide to staying legal and professional online](https://academy.lovetheidea.co.uk/courses/are-you-breaking-the-rules/)
+-   [Are you breaking the rules? A guide to staying legal and professional online](/lti-content/courses/are-you-breaking-the-rules/)
 
 ## 📅 **Stay Connected for Future Events:**
 
-A heartfelt thank you to all participants for making the event a success. Your active engagement and curiosity contributed to the dynamic atmosphere. Want more insightful events like this? Keep an eye on our [#circle channel](https://join.slack.com/t/lovetheidea/shared_invite/zt-21te4zpwk-oryqf6fYE~g~2EIzqd2~AA) and the [Love the Idea Academy Event](https://academy.lovetheidea.co.uk/events/) page for updates on upcoming workshops, discussions, and opportunities to enhance your skills and knowledge.
+A heartfelt thank you to all participants for making the event a success. Your active engagement and curiosity contributed to the dynamic atmosphere. Want more insightful events like this? Keep an eye on our [#circle channel](https://join.slack.com/t/lovetheidea/shared_invite/zt-21te4zpwk-oryqf6fYE~g~2EIzqd2~AA) and the [Love the Idea Academy Event](/events/) page for updates on upcoming workshops, discussions, and opportunities to enhance your skills and knowledge.

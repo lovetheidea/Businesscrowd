@@ -4,12 +4,12 @@ title: "Step 5 of the Potential Product Finder System: Selecting One Opportunity
 date: "2021-11-23"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course/lesson/step-5-of-the-potential-product-finder-system-selecting-one-opportunity/"
+original_url: "/lti-content/courses/amazon-mastery-course/lesson/step-5-of-the-potential-product-finder-system-selecting-one-opportunity/"
 ---
 
 Now that you've found your supplier and completed your research and data collection, you have all of the information you need to decide which product to use. You'll apply everything you've learned so far to this one product for the rest of the training so that you can gain some experience. It does not have to be the ideal product with which you will spend the rest of your life. It very well could be, but once you understand how it works, you can apply it to any product you want.
 
-### ![Step 5 of the Potential Product Finder System: Selecting One Opportunity](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/12/Module-3-Image-2-300x185.png)
+### ![Step 5 of the Potential Product Finder System: Selecting One Opportunity](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/12/Module-3-Image-2-300x185.png)
 
 ### **A Few Ways to Choose Your Opportunity**
 

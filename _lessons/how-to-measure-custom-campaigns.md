@@ -4,14 +4,14 @@ title: "How to measure Custom Campaigns"
 date: "2021-10-14"
 status: "publish"
 course_id: "96510"
-original_url: "https://academy.lovetheidea.co.uk/courses/beginners-guide-to-google-analytics/lesson/how-to-measure-custom-campaigns/"
+original_url: "/lti-content/courses/beginners-guide-to-google-analytics/lesson/how-to-measure-custom-campaigns/"
 ---
 
 ## **How to track a Marketing Campaign**
 
 Marketing campaigns may take a variety of shapes. Your business may want to advertise via text ads in search engine results, banner ads on strategic publisher websites, or social media or email campaigns that communicate your brand and products to customers. A mix of these marketing tactics is often used to increase sales and website conversions.
 
-![How to track a marketing campaign](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/10/How-to-track-a-marketing-campaign-300x185.jpeg)
+![How to track a marketing campaign](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/10/How-to-track-a-marketing-campaign-300x185.jpeg)
 
 Marketing campaigns are tracked in Google Analytics through "campaign tagging." Campaign tags are additional pieces of information that you add to the URL links of your online marketing or advertising materials. These include tracking parameters followed by an equals sign and a single word or hyphenated words that you designate.
 

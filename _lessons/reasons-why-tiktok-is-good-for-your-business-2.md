@@ -4,7 +4,7 @@ title: "Reasons Why TikTok is Good for your Business"
 date: "2024-06-14"
 status: "publish"
 course_slug: "is-tiktok-good-for-business"
-original_url: "https://academy.lovetheidea.co.uk/courses/is-tiktok-good-for-business-2/lesson/reasons-why-tiktok-is-good-for-your-business-2/"
+original_url: "/lti-content/courses/is-tiktok-good-for-business/lesson/reasons-why-tiktok-is-good-for-your-business-2/"
 ---
 
 ## Connect With Influencers

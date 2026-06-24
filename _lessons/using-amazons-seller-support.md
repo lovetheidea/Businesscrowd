@@ -4,7 +4,7 @@ title: "Using Amazon’s Seller Support"
 date: "2022-01-31"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/using-amazons-seller-support/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/using-amazons-seller-support/"
 ---
 
 In this lesson, we'll go over how to use Amazon's Seller Support, which is available to all sellers, as well as different types of communication options to use and which situations are suitable for each.

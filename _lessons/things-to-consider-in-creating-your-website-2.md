@@ -4,7 +4,7 @@ title: "Things To Consider In Creating Your Website"
 date: "2021-09-21"
 status: "publish"
 course_id: "96077"
-original_url: "https://academy.lovetheidea.co.uk/courses/the-basics-of-creating-a-website/lesson/things-to-consider-in-creating-your-website-2/"
+original_url: "/lti-content/courses/the-basics-of-creating-a-website/lesson/things-to-consider-in-creating-your-website-2/"
 ---
 
 # **I. Creating Personal Website**
@@ -38,7 +38,7 @@ This is an excellent opportunity to showcase your writing skills, especially if 
 
 Impress your next employer with statements demonstrating your credibility and level of expertise from previous projects or jobs completed. Increase your reputation by expressing the confidence that others have in you and your service offerings. Testimonials can have a significant impact on the success of your career.
 
-# **![Lesson 2 Creating Website Featured Media](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/09/Lesson-2-Media-300x221.png)**
+# **![Lesson 2 Creating Website Featured Media](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/09/Lesson-2-Media-300x221.png)**
 
 # **II. Creating Your Business Website**
 

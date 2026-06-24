@@ -4,7 +4,7 @@ title: "Regular LinkedIn Marketing Activities to Complete"
 date: "2024-05-16"
 status: "publish"
 course_slug: "want-to-build-a-massive-linkedin-network-quickly"
-original_url: "https://academy.lovetheidea.co.uk/courses//lesson/regular-linkedin-marketing-activities-to-complete/"
+original_url: "/lti-content/courses//lesson/regular-linkedin-marketing-activities-to-complete/"
 ---
 
 LinkedIn isn’t just about creating a profile, it is about doing regular activities that can help you attract potential leads, and good contacts and build a reputation. Spending a few minutes per day doing regular activities on LinkedIn can be a great investment.

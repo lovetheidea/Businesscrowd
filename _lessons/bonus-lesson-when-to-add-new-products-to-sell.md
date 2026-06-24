@@ -4,7 +4,7 @@ title: "BONUS LESSON: When to Add New Products to Sell"
 date: "2022-01-31"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/bonus-lesson-when-to-add-new-products-to-sell/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/bonus-lesson-when-to-add-new-products-to-sell/"
 ---
 
 The goal of this lesson is to teach you when and how to add new products to your Amazon business.

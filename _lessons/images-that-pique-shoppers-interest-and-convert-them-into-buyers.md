@@ -4,14 +4,14 @@ title: "Images that pique shoppers' interest and convert them into buyers"
 date: "2021-11-26"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-course-part-2/lesson/images-that-pique-shoppers-interest-and-convert-them-into-buyers/"
+original_url: "/lti-content/courses/amazon-course-part-2/lesson/images-that-pique-shoppers-interest-and-convert-them-into-buyers/"
 ---
 
 One of the most important aspects of your Amazon listing is the images you use for your products. The trick is to use clear and high-quality images to entice Amazon customers to click on your product.
 
 This lesson will teach you traffic strategies and tips, as well as how to get product images for your Amazon product.
 
-![Images that pique shoppers' interest and convert them into buyers](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/12/Module-4-images-5-300x185.png)
+![Images that pique shoppers' interest and convert them into buyers](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/12/Module-4-images-5-300x185.png)
 
 ### **Why Your Amazon Product Images Are Important** 
 
@@ -63,21 +63,21 @@ Here is the link that can be helpful for you to understand better what are the r
 -   **Provide images for product installation or assembly**. Is your product going to require any assembly or installation? Show that process through images. 
 -   **Get help from professionals.** Instead, if you have the funds, hire a professional graphic designer or photographer. This way, you can ensure that you receive and provide high-quality product images for your Amazon store. Previously, we talked about using Upwork to find a designer for your packaging. There are numerous freelancing platforms, such as Fiverr, where you can hire a professional.
 
-**Here are sample images that catch our attention:**![Example Images](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Example-Images-300x128.png)
+**Here are sample images that catch our attention:**![Example Images](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Example-Images-300x128.png)
 
 _The image is of high quality, which makes this product stand out._
 
-![Example Image 2](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Example-Image-2-300x168.png)
+![Example Image 2](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Example-Image-2-300x168.png)
 
 _Showing the product in the packaging gives it a lower quality appearance - showing the product outside of the packaging,_
 
 _as in the first image, would have given it a higher quality appearance._
 
-![Example Image 3](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Example-Image-3-300x165.png)
+![Example Image 3](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Example-Image-3-300x165.png)
 
 _This seller has displayed three different views of this phone case, which makes it stand out._
 
-![Example Image 4](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Example-Image-4-300x171.png)
+![Example Image 4](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Example-Image-4-300x171.png)
 
 _This image shows the elegant feature of this phone case which is very eye-catching_
 

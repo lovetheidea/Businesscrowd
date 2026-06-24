@@ -24,7 +24,7 @@ tags:
   - "Digital Compliance"
   - "Online Laws"
   - "Privacy"
-original_url: "https://academy.lovetheidea.co.uk/?post_type=courses&#038;p=98593"
+original_url: "/lti-content/?post_type=courses&#038;p=98593"
 ---
 
 ## One Important Thing to Think About... The Rules!
@@ -71,4 +71,4 @@ Some of these rules are easy to follow. For example, there are plugins for WordP
 
 ## Enroll to Access the Full Workshop
 
-When running a website, freelance business, or being part of a company you need to ensure you are following the laws and rules around website and media content. Access our full workshop below and stay within the law. Ensure you don’t fall foul of some the rules which could turn out to be costly. [![Go to events](https://academy.lovetheidea.co.uk/wp-content/uploads/2024/03/Blue-and-Yellow-Technology-LinkedIn-Banner-5.jpg)](/events/)
+When running a website, freelance business, or being part of a company you need to ensure you are following the laws and rules around website and media content. Access our full workshop below and stay within the law. Ensure you don’t fall foul of some the rules which could turn out to be costly. [![Go to events](https://r2.businesscrowd.co.uk/wp-content/uploads/2024/03/Blue-and-Yellow-Technology-LinkedIn-Banner-5.jpg)](/events/)

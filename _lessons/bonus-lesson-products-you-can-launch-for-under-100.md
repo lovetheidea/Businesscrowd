@@ -4,7 +4,7 @@ title: "BONUS LESSON: Products You Can Launch for Under $100"
 date: "2021-12-21"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/bonus-lesson-products-you-can-launch-for-under-100/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/bonus-lesson-products-you-can-launch-for-under-100/"
 ---
 
 **IMPORTANT NOTE:** If you already have a product on Amazon or are in the process of launching one, **IGNORE THIS LIST** (for now). 

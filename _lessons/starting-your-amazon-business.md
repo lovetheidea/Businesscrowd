@@ -4,7 +4,7 @@ title: "Starting your Amazon Business"
 date: "2021-11-17"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/title/lesson/welcome-to-module-1/"
+original_url: "/lti-content/courses/title/lesson/welcome-to-module-1/"
 ---
 
 ## **The Most Lucrative Amazon Business Model**

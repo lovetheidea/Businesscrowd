@@ -4,7 +4,7 @@ title: "6 Easy Steps to Begin Your Blogging Journey"
 date: "2024-03-13"
 status: "publish"
 course_slug: "what-to-do-with-your-spare-time"
-original_url: "https://academy.lovetheidea.co.uk/courses/what-to-do-with-your-spare-time/lesson/6-easy-steps-to-begin-your-blogging-journey/"
+original_url: "/lti-content/courses/what-to-do-with-your-spare-time/lesson/6-easy-steps-to-begin-your-blogging-journey/"
 ---
 
 Building a successful blog is not just an art; it's a strategic process that involves niche selection, impactful naming, and platform optimization. Let's dive into these essential steps to set you on the path to blogging triumph.

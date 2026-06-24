@@ -4,7 +4,7 @@ title: "How to Build a Great LinkedIn Profile"
 date: "2024-05-16"
 status: "publish"
 course_slug: "want-to-build-a-massive-linkedin-network-quickly"
-original_url: "https://academy.lovetheidea.co.uk/courses//lesson/how-to-build-a-great-linkedin-profile/"
+original_url: "/lti-content/courses//lesson/how-to-build-a-great-linkedin-profile/"
 ---
 
 LinkedIn is a business-centric social media platform, an excellent platform for promoting your credentials as a qualified freelancer. However, it’s often poorly used and understood. But it has the potential for quick changes that can significantly affect any business.
@@ -41,7 +41,7 @@ The headline is a professional text introduction to you, but it is more than a j
 
 There is a limit on the headline, at 120 characters. This is less than the meta description for SEO, so it demonstrates how short a space users have.
 
-![Example of great profile](https://academy.lovetheidea.co.uk/wp-content/uploads/2024/05/Love-the-Idea-Linkedin-300x108.png)
+![Example of great profile](https://r2.businesscrowd.co.uk/wp-content/uploads/2024/05/Love-the-Idea-Linkedin-300x108.png)
 
 ## A Summary (About) Section
 

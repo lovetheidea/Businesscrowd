@@ -4,7 +4,7 @@ title: "Using Facebook Ads to Gain Access to the World's Most Powerful Social Ne
 date: "2022-01-21"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/using-facebook-ads-to-gain-access-to-the-worlds-most-powerful-social-network/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/using-facebook-ads-to-gain-access-to-the-worlds-most-powerful-social-network/"
 ---
 
 The goal of this lesson is to show you how to use Facebook ads to tap into the most powerful social network. 
@@ -87,7 +87,7 @@ We recommend the following to ensure that your landing page complies with Facebo
 
 Nowadays people even use social media to check the legitimacy of businesses from which they want to buy offers or products. We have various social media platforms that you can use to promote your business, one of which is the Facebook Social Media Platform. If you don’t have any social media pages for your business yet, then this is the right time to create one. You can start on this one: [Facebook page creation](https://www.facebook.com/business/pages/set-up). 
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img4-300x115.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img4-300x115.png)
 
 With the growing number of businesses promoting their products and services online, Facebook decided to add a feature called the Facebook Business page where business owners can promote their own businesses. Moreover, it is an excellent place to cultivate an audience, create ads, engage with their customers, and so on. This is where you will direct Facebook traffic. You can completely customize it to reflect your brand and include links to other social media platforms as well as your website. It is FREE to create so we recommend that you make the most of it by posting not only your company's promotions, but also information about your products, accomplishments, and so on (engagement is important).
 
@@ -97,15 +97,15 @@ Owners can even add administrators to their page to assist them in managing it. 
 
 -   -   -   This [link](https://www.facebook.com/ads/manager) will head over you to the ads manager. From there select “**Campaigns”**.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img5-300x22.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img5-300x22.png)
 
 -   -   -   Click “**Create”.** There will be a pop-up tab that will be shown, this tab will be asking about your marketing objective. Here you will need to choose “**Conversions**” under the Conversion section.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img6.-300x214.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img6.-300x214.png)
 
 -   -   -   Click “**Continue**”, on the next page you can edit your campaign name.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img7-300x300.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img7-300x300.png)
 
 -   -   -   When you’re done click “**Next**” then on the next page you will need to choose your conversion event location, select “**website**”
 
@@ -117,17 +117,17 @@ The advantage of running this type of ad is that you can keep your costs under c
 
 You can start small while you figure out what works for business marketing. Don't forget to include an end date in your ad, and make sure it corresponds to the end date on your landing page.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img8-300x213.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img8-300x213.png)
 
 **Step 4: Set your Target Audience** 
 
 This is the most important and crucial part of your campaign. In order to market your listing successfully, you need to target the right audience. Try to make it as specific as possible to gather more interest.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img9-300x217.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img9-300x217.png)
 
 -   -   -   Here you can also edit the specific age range, location, and gender of your target audience. This will help Facebook to show your ad to the right audience based on the categories you have added.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img10-300x272.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img10-300x272.png)
 
 -   -   -   In the “**Detailed Targeting**” section you can add the demographics, interests, and behaviour of your target audience. Make sure to include Amazon.com here to target those who are with similar interests on this website.
 
@@ -138,7 +138,7 @@ Since you are done setting your detailed target audience, as well as your budget
 -   -   -   First, you will be directed to a page where you need to choose the page where you want to show your ad.
         -   Next, choose your ad structure whether it’s a carousel, a single image or video, or a collection of images. 
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img11-300x228.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img11-300x228.png)
 
 -   -   -   Under the **Ad creative** section, you can include images, add videos, (they also have the option to create a video in this section), and your ad copy. Make sure to include eye-catching images or videos and a straight to the point and engaging ad copy.  
 
@@ -154,11 +154,11 @@ Fill in the following fields: 
 
 **IMPORTANT:** Amazon has a strict rule about graphics in ads that do not contain more than 20% text. They want their photographs to be eye-catching, not like a billboard with text all over it. That's why you already have spaces to input your ad copy. If your ad is rejected, this is most likely the reason, and you'll need to rework your image to remove as much text as possible (if any). Choose "Create Ad" from the drop-down menu.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img12-224x300.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img12-224x300.png)
 
 -   -   -   When you're finished with the preceding section, you can specify where you want your traffic to go. Either to your Amazon listings or your landing page. Include the URL of the page to which you want your traffic to be directed.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img13-258x300.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img13-258x300.png)
 
 Once you've completed everything and are confident in the information you've provided. You can now press the "Publish" button. That's all, CONGRATULATIONS! Your advertisements are now ready to go live. You only need to wait for Facebook to approve it, and you're done. Your next task will be to monitor the progress of your ads, keep track of their effectiveness (for future ad creation), and make any necessary adjustments.
 

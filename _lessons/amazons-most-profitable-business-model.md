@@ -5,12 +5,12 @@ date: "2021-11-17"
 status: "publish"
 course_id: "96915"
 is_preview: "true"
-original_url: "https://academy.lovetheidea.co.uk/courses/module-1-starting-your-amazon-business/lesson/amazons-most-profitable-business-model/"
+original_url: "/lti-content/courses/module-1-starting-your-amazon-business/lesson/amazons-most-profitable-business-model/"
 ---
 
 This session will outline the course's main objective and demonstrate why it is the quickest and most effective path to enormous success.
 
-![Amazon's Most Profitable Business Model](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Image-2-300x185.png)
+![Amazon's Most Profitable Business Model](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Image-2-300x185.png)
 
 # **Private Labeling** 
 

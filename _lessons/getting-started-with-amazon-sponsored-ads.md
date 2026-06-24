@@ -4,7 +4,7 @@ title: "Getting Started with Amazon Sponsored Ads"
 date: "2022-01-21"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/getting-started-with-amazon-sponsored-ads/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/getting-started-with-amazon-sponsored-ads/"
 ---
 
 This lesson will show you how to take advantage of Amazon's internal advertising program. This program is exclusive to Amazon sellers and is not only the simplest way to get started promoting, but it may also deliver excellent results rapidly.
@@ -15,7 +15,7 @@ One of Amazon's most popular and effective forms of advertising is sponsored pro
 
 Amazon sponsors ads that display in search results and on product pages. Assume you're a red wine vendor on Amazon who utilizes these ads on your page. Your listing may show on a shopper's page when he searches for red wine on Amazon based on keywords or product relevancy.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img3-300x175.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img3-300x175.png)
 
 ### **How do Sponsored Products Ads Work?**
 

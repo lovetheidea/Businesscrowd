@@ -17,7 +17,7 @@ tags:
 speakers:
   - "Chetan Zapadiya"
   - "Love the Idea"
-original_url: "https://academy.lovetheidea.co.uk/?post_type=tp_event&#038;p=98609"
+original_url: "/lti-content/?post_type=tp_event&#038;p=98609"
 ---
 
 Get ready to elevate your knowledge and connections! Join us for our Monthly Circle Call on the 30th at Noon (UK Time).
@@ -42,7 +42,7 @@ Get ready to elevate your knowledge and connections! Join us for our Monthly Cir
 
 Click the “_Book Now_” button to secure your spot and indicate the number of slots you are reserving. 📅 Save the date, mark your calendars, and don’t miss out on this enriching opportunity to learn, connect, and have fun!
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2024/01/image2-1.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2024/01/image2-1.png)
 
 **Location**: Zoom (Link to be posted on [#circle channel](https://join.slack.com/t/lovetheidea/shared_invite/zt-21te4zpwk-oryqf6fYE~g~2EIzqd2~AA))
 
@@ -50,4 +50,4 @@ Click the “_Book Now_” button to secure your spot and indicate the number of
 
 ## **📸 Event Insights:**
 
-Thank you to everyone who attended our Monthly Circle Call! In this engaging presentation, Chetan provides practical insights and strategies to navigate the challenges and foster sustainable growth We appreciate the enthusiasm and participation of each attendee, making this event a memorable and insightful experience. Stay tuned at our [#circle channel](https://join.slack.com/t/lovetheidea/shared_invite/zt-21te4zpwk-oryqf6fYE~g~2EIzqd2~AA) and the [Love the Idea Academy Event](https://academy.lovetheidea.co.uk/events/) page for more exciting events, workshops, and networking opportunities coming your way!
+Thank you to everyone who attended our Monthly Circle Call! In this engaging presentation, Chetan provides practical insights and strategies to navigate the challenges and foster sustainable growth We appreciate the enthusiasm and participation of each attendee, making this event a memorable and insightful experience. Stay tuned at our [#circle channel](https://join.slack.com/t/lovetheidea/shared_invite/zt-21te4zpwk-oryqf6fYE~g~2EIzqd2~AA) and the [Love the Idea Academy Event](/events/) page for more exciting events, workshops, and networking opportunities coming your way!

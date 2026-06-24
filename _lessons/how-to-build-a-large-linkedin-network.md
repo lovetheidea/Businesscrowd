@@ -4,14 +4,14 @@ title: "How to Build a Large LinkedIn Network"
 date: "2024-05-16"
 status: "publish"
 course_slug: "want-to-build-a-massive-linkedin-network-quickly"
-original_url: "https://academy.lovetheidea.co.uk/courses//lesson/connecting-other-marketing-activities-to-linkedin/"
+original_url: "/lti-content/courses//lesson/connecting-other-marketing-activities-to-linkedin/"
 ---
 
 There is a great way to build an LinkedIn network that doesn’t require a lot of money or time to manage.
 
 ### Step 1 - Create a good profile
 
-As discussed in other posts, a good profile is a way to advertise yourself. It is also what potential contacts will see when you try to connect with them. The most vital features are the photos, description, and tagline. Don't worry we will dive deeper on this one at our Lesson 4: [How to Build a Great LinkedIn Profile.](https://academy.lovetheidea.co.uk/courses/want-to-build-a-massive-linkedin-network-quickly/lesson/how-to-build-a-great-linkedin-profile/)
+As discussed in other posts, a good profile is a way to advertise yourself. It is also what potential contacts will see when you try to connect with them. The most vital features are the photos, description, and tagline. Don't worry we will dive deeper on this one at our Lesson 4: [How to Build a Great LinkedIn Profile.](/lti-content/lessons/how-to-build-a-great-linkedin-profile/)
 
 ### Step 2 - Create content to promote your interests
 

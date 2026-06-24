@@ -6,7 +6,7 @@ author: "katiemartinelli"
 categories:
   - "Business"
   - "Guest Blog"
-original_url: "https://academy.lovetheidea.co.uk/?p=93742"
+original_url: "/lti-content/?p=93742"
 ---
 
 Keeping up with ever-evolving learning trends can be hard, as technology continuously develops, but online training is one way of ensuring you stay ahead of the game. Online training is one of the [top learning and development trends of 2019](https://www.highspeedtraining.co.uk/hub/learning-and-development-trends/) and brings many benefits to your business, such as ensuring your team is trained to high standards in an affordable and highly convenient manner.
@@ -19,7 +19,7 @@ Online learning (also known as e-learning and distance learning) is education or
 
 You can purchase as many courses as you need for your employees, either online or over the phone. The courses are then distributed to the selected employees, who can then learn at their own pace. As long as they have access to the internet, learners can access their training anywhere using a computer, laptop, phone or tablet. Online learning provides fantastic flexibility, among other benefits, and aids in making the task of arranging development opportunities far easier.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/11-1024x683.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/11-1024x683.jpg)
 
 **Benefits of Online Training**
 

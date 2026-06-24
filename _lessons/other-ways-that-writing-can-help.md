@@ -4,7 +4,7 @@ title: "Other Ways that Writing can Help"
 date: "2024-03-12"
 status: "publish"
 course_slug: "what-to-do-with-your-spare-time"
-original_url: "https://academy.lovetheidea.co.uk/courses/what-to-do-with-your-spare-time/lesson/other-ways-that-writing-can-help/"
+original_url: "/lti-content/courses/what-to-do-with-your-spare-time/lesson/other-ways-that-writing-can-help/"
 ---
 
 In today's digital world, everyone can tap into the benefits of sharing ideas, not just bloggers. Whether you're a developer, entrepreneur, or just someone enthusiastic about a topic, creating a blog is a game-changer.

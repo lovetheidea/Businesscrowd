@@ -4,7 +4,7 @@ title: "Why Writing Matters?"
 date: "2024-03-12"
 status: "publish"
 course_slug: "what-to-do-with-your-spare-time"
-original_url: "https://academy.lovetheidea.co.uk/courses/what-to-do-with-your-spare-time/lesson/why-writing-matters/"
+original_url: "/lti-content/courses/what-to-do-with-your-spare-time/lesson/why-writing-matters/"
 ---
 
 Blogging is a crucial component of generating leads and building a network. It allows those in the early stages of the purchasing journey to engage with you. Considering it can take 15 engagements before a purchase, blogging can act as the first or several engagements, helping to move a new contact into a position when they’re ready to buy.

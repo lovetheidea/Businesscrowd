@@ -4,7 +4,7 @@ title: "Review Magnets - Using Customer Service to Sell More"
 date: "2022-01-31"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/review-magnets-using-customer-service-to-sell-more/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/review-magnets-using-customer-service-to-sell-more/"
 ---
 
 According to recent surveys, Amazon is consistently regarded as a corporation that gives the absolute finest customer care. As an Amazon merchant, Amazon is now giving you their reputation. As a result, as an Amazon seller, you can rest assured that they are quite particular about how you handle their customers.

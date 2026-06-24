@@ -4,12 +4,12 @@ title: "Selecting a Product Name and a Brand Name"
 date: "2021-12-09"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/selecting-a-product-name-and-a-brand-name/"
+original_url: "/lti-content/courses/amazon-mastery-course-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/selecting-a-product-name-and-a-brand-name/"
 ---
 
 You should have at least one product ready to go at this point. This product will be used until the last Module for this course. We will discuss expanding your Amazon business in the next part of the Amazon Mastery Course: Ultimate Guide to Starting and Running Successful Amazon Business, after which you can decide whether you want to pursue a different opportunity or continue to build up this one and expand into different markets. However, you only require one good product at this time.
 
-### ![Selecting a Product Name and a Brand Name](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/12/Module-3-Image-6-300x185.png)
+### ![Selecting a Product Name and a Brand Name](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/12/Module-3-Image-6-300x185.png)
 
 ### **Choosing your Brand Name** 
 

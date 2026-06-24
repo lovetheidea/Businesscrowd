@@ -4,7 +4,7 @@ title: "Lesson 3"
 date: "2021-02-07"
 status: "publish"
 course_id: "4300"
-original_url: "https://academy.lovetheidea.co.uk/courses/sample-course/lesson/lesson-3-2/"
+original_url: "/lti-content/courses/sample-course/lesson/lesson-3-2/"
 ---
 
 Many startup founders dream of the day their creation claims the top spot in Apple Inc.’s app store. For Vlad Tenev, Robinhood Markets Inc.’s chief executive, it was more like a nightmare.

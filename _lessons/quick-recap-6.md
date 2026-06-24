@@ -4,7 +4,7 @@ title: "Quick Recap"
 date: "2022-03-17"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/quick-recap-6/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/quick-recap-6/"
 ---
 
 The Driving Traffic to your Amazon Listings Module shows you how to drive BUYER traffic from outside (and within) Amazon to dominate your competition.

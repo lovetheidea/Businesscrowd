@@ -4,7 +4,7 @@ title: "Course Review"
 date: "2021-10-15"
 status: "publish"
 course_id: "96510"
-original_url: "https://academy.lovetheidea.co.uk/courses/beginners-guide-to-google-analytics/lesson/course-review/"
+original_url: "/lti-content/courses/beginners-guide-to-google-analytics/lesson/course-review/"
 ---
 
 Let’s go over what you’ve learned in Beginners' Guide to Google Analytics. We discussed:
@@ -15,7 +15,7 @@ Let’s go over what you’ve learned in Beginners' Guide to Google Analytics. W
 
 You should also be familiar with how to navigate Analytics, read overviews and full reports, and set up dashboards and shortcuts to quickly find the data you need.
 
-![Google Analytics Media](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/10/Topic-5-300x185.png)
+![Google Analytics Media](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/10/Topic-5-300x185.png)
 
 We hope you understand how to do basic analysis in the Audience, Acquisition, and Behavior reports as well. Finally, we discussed campaign tracking and how to set up goals to measure conversions.
 

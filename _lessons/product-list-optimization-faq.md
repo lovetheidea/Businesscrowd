@@ -4,7 +4,7 @@ title: "Product List Optimization - FAQ"
 date: "2021-11-26"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-course-part-2/lesson/product-descriptions-that-generate-sales-2/"
+original_url: "/lti-content/courses/amazon-course-part-2/lesson/product-descriptions-that-generate-sales-2/"
 ---
 
 -   **How can I edit my existing listing?** 

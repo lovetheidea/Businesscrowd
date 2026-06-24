@@ -4,12 +4,12 @@ title: "What to Say and What Information to Gather When Contacting Suppliers &am
 date: "2021-11-23"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course/lesson/what-to-say-and-what-information-to-gather-when-contacting-suppliers-how-to-get-started/"
+original_url: "/lti-content/courses/amazon-mastery-course/lesson/what-to-say-and-what-information-to-gather-when-contacting-suppliers-how-to-get-started/"
 ---
 
 In this lesson, you will learn the simple steps to contact suppliers and how to use this process when you are seeking suppliers for your product opportunities. 
 
-![What to Say and What Information to Gather When Contacting Suppliers & How to Get Started](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/12/Module-3-Image-5-300x185.png)
+![What to Say and What Information to Gather When Contacting Suppliers & How to Get Started](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/12/Module-3-Image-5-300x185.png)
 
 Here are the things we will learn in this lesson:
 

@@ -4,7 +4,7 @@ title: "How to Move Audiences Off TikTok And Into Sale Funnels"
 date: "2024-06-14"
 status: "publish"
 course_slug: "is-tiktok-good-for-business"
-original_url: "https://academy.lovetheidea.co.uk/courses/is-tiktok-good-for-business-2/lesson/how-to-move-audiences-off-tiktok-and-into-sale-funnels-2/"
+original_url: "/lti-content/courses/is-tiktok-good-for-business/lesson/how-to-move-audiences-off-tiktok-and-into-sale-funnels-2/"
 ---
 
 The goal of any marketing platform is to ensure that you’re moving audiences from the platform to your sales channel. TikTok is no different. In this article, we look into how you can move audiences from watching your videos on TikTok to other parts of your marketing and sales process.

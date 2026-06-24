@@ -4,12 +4,12 @@ title: "Choosing the Best Keywords to Drive Amazon Sales"
 date: "2021-11-26"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-course-part-2/lesson/choosing-the-best-keywords-to-drive-amazon-sales/"
+original_url: "/lti-content/courses/amazon-course-part-2/lesson/choosing-the-best-keywords-to-drive-amazon-sales/"
 ---
 
 The goal of this lesson is to provide recommendations for choosing keywords for your Amazon product. These will appear in your title, description, and later marketing strategies.
 
-![Choosing the Best Keywords to Drive Amazon Sales](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/12/Module-4-images-2-300x185.png)
+![Choosing the Best Keywords to Drive Amazon Sales](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/12/Module-4-images-2-300x185.png)
 
 ### **Why Keywords Matter on Amazon** 
 
@@ -41,7 +41,7 @@ We want the highest traffic keyword + the lowest traffic keyword. The following 
 
 In the Amazon search field type in your product name – “iPhone 13 pro case” – without pressing “Enter”. You’ll see the most relevant drop-down suggestions. The image below shows Amazon's suggested search, which shows a list of related keywords. At this point, we want to create a list of keywords that we could target in addition to our primary keyword.
 
-![Steps to Spot the Perfect Keywords](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Step-1-Do-the-Manual-Search-300x137.png)
+![Steps to Spot the Perfect Keywords](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Step-1-Do-the-Manual-Search-300x137.png)
 
 The next thing you need to do is to create a document that contains the following: 
 

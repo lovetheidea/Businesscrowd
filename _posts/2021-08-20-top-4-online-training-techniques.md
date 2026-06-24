@@ -6,12 +6,12 @@ author: "tiffanygarden"
 categories:
   - "Business"
   - "Guest Blog"
-original_url: "https://academy.lovetheidea.co.uk/?p=93794"
+original_url: "/lti-content/?p=93794"
 ---
 
 > You have several options if you want to use online training methods for your employees. Online training makes more sense than leading classroom training or other employee training methods when you have a small business and you're working with limited resources. These methods allow you to effectively train your workforce without investing in expensive training techniques that your cash flow might not be able to bear.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/19-1024x576.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/19-1024x576.png)
 
 **Intranet**
 

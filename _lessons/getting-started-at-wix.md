@@ -4,7 +4,7 @@ title: "Getting Started at Wix"
 date: "2021-09-21"
 status: "publish"
 course_id: "96077"
-original_url: "https://academy.lovetheidea.co.uk/courses/the-basics-of-creating-a-website/lesson/getting-started-at-wix/"
+original_url: "/lti-content/courses/the-basics-of-creating-a-website/lesson/getting-started-at-wix/"
 ---
 
 # **Getting Started with Wix | Wix Editor**

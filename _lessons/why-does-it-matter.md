@@ -3,7 +3,7 @@ layout: "lesson"
 title: "Why Does it Matter?"
 date: "2024-04-05"
 status: "publish"
-original_url: "https://academy.lovetheidea.co.uk/courses/new-course-2/lesson/lesson-1-why-does-it-matter/"
+original_url: "/lti-content/courses/new-course-2/lesson/lesson-1-why-does-it-matter/"
 ---
 
 Email is often deemed a numbers game. The more subscribers you have, the more emails you send, and the more people who read your content - the better results you will get. Yet only one of those numbers that you have more control over - how many people read your content.

@@ -4,7 +4,7 @@ title: "Outsourcing to Expand Your Amazon Business: Planning"
 date: "2022-02-14"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/outsourcing-to-expand-your-amazon-business-planning/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/outsourcing-to-expand-your-amazon-business-planning/"
 ---
 
 ### **What you should expect in this lesson?**

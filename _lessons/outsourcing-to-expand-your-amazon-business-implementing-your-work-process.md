@@ -4,7 +4,7 @@ title: "Outsourcing to Expand Your Amazon Business: Implementing Your Work Proce
 date: "2022-02-14"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/outsourcing-to-expand-your-amazon-business-implementing-your-work-process/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/outsourcing-to-expand-your-amazon-business-implementing-your-work-process/"
 ---
 
 ###  **What you should expect in this lesson?**
@@ -22,7 +22,7 @@ Now that you've assembled your team, they're looking to you for guidance. Ascert
 
 The most common role that people forget or simply do not understand is to hire a **Project Manager**. Like what we have mentioned in the previous lesson this is going to be the key to your success. Your project manager will be in charge of working with the team and providing guidance. 
 
-### **![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/02/2-300x184.png)**
+### **![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/02/2-300x184.png)**
 
 Remember to create an online portal for your team to use, such as teamwork.com. This will assist your project manager or you in tracking what is going on in your business, such as your team's individual task progress, which would also inform you who is falling behind on deadlines, who is overloaded with tasks, and who is available for new tasks.
 
@@ -32,7 +32,7 @@ The project manager is in charge of the day-to-day management of the project and
 
 Usually, you have to pay them a bit more than what you are paying the rest of the team, but it is worth it. Spend your time and resources training the project manager to understand your business and your projects.
 
-### **![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/02/1-300x184.png)**
+### **![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/02/1-300x184.png)**
 
 Tasks that you can assign to your Project Manager:
 

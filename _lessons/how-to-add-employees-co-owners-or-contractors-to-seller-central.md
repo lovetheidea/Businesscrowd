@@ -4,7 +4,7 @@ title: "How to Add Employees, Co-owners, or Contractors to Seller Central"
 date: "2022-02-14"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/how-to-add-employees-co-owners-or-contractors-to-seller-central/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/how-to-add-employees-co-owners-or-contractors-to-seller-central/"
 ---
 
 ### **The Steps for Adding a Sub Account** 
@@ -21,7 +21,7 @@ In order to invite new users:
 
 The User Permissions screen can be accessed from your Seller Central Account settings
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/02/Image-1-Module-8-300x54.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/02/Image-1-Module-8-300x54.png)
 
 Add the email address of the person you're granting access to and click **"Send Invitation."** They'll need to create a new Seller Central Account once they've received their invitation. They will be given a Confirmation Code at the conclusion of the setup.
 
@@ -41,7 +41,7 @@ To change the permissions of a new user, follow these steps:
         2.  Click the Edit button next to the account you want to modify.
         3.  Click the button next to each tool for which you want the user to have access to your account.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/02/Image-2-Module-8-300x125.png)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/02/Image-2-Module-8-300x125.png)
 
 Select **"Continue"** when done.
 

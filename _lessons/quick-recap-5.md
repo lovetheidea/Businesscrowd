@@ -4,7 +4,7 @@ title: "Quick Recap"
 date: "2021-12-22"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/quick-recap-5/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/quick-recap-5/"
 ---
 
 The Amazon Listings Launch Formula Module show you how to improve your ranking, make your listings visible, and gain the trust of your ideal customers.

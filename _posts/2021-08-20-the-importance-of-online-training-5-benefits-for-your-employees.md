@@ -6,7 +6,7 @@ author: "akshay"
 categories:
   - "Business"
   - "Guest Blog"
-original_url: "https://academy.lovetheidea.co.uk/?p=93797"
+original_url: "/lti-content/?p=93797"
 ---
 
 We know online learning solutions have been immensely effective for organizations. In this blog, we will see how it benefits the employees
@@ -17,7 +17,7 @@ It’s a well-known fact that using online learning solutions for employee train
 
 Let’s look at the five ways online training can benefit your workforce.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/21-1024x683.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/21-1024x683.jpg)
 
 **1\. Provides access to learning content anytime, anywhere**
 
@@ -41,7 +41,7 @@ A Brandon-Hall Study reported that e-learning requires [40% to 60%](https://book
 
 Unlike instructor-based training, where employees lose valuable work time to attend long training courses, online training improves worker productivity since it’s considerably quicker than the ILT alternative.
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/constructive-1024x683.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/constructive-1024x683.jpg)
 
 **5\. Offers constructive feedback**
 

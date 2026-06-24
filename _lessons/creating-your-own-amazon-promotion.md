@@ -4,12 +4,12 @@ title: "Creating Your Own Amazon Promotion"
 date: "2022-01-21"
 status: "publish"
 course_id: "97199"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/creating-your-own-amazon-promotion/"
+original_url: "/lti-content/courses/amazon-mastery-course-part-2-the-ultimate-guide-to-starting-and-running-a-successful-amazon-business/lesson/creating-your-own-amazon-promotion/"
 ---
 
 This lesson will teach you how to create your own promotion. A promotion is a coupon or discount code that gives a customer a discount or an incentive to purchase your product.
 
-![Creating your own Amazon Promotion](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/02/Creating-your-own-Amazon-Promotion-300x185.png)
+![Creating your own Amazon Promotion](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/02/Creating-your-own-Amazon-Promotion-300x185.png)
 
 We'll go over this information here, however, Amazon provides a great lesson if you want additional details. Simply go to Seller Central and click the "learn more" link next to the "Manage Promotions" headline.
 
@@ -34,7 +34,7 @@ Follow these steps to set up your coupon code
 -   At the new screen, you create your own Tracking ID or name of promotion and description. 
 -   Enter ASIN on ASIN List 
 -   Click **Submit**
--   Click the **Manage Promotion** button, which will take you to the following screen: ![](https://academy.lovetheidea.co.uk/wp-content/uploads/2022/01/Module-6-img1-300x145.png) 
+-   Click the **Manage Promotion** button, which will take you to the following screen: ![](https://r2.businesscrowd.co.uk/wp-content/uploads/2022/01/Module-6-img1-300x145.png) 
 
 As you can see, Amazon has three different sections:
 

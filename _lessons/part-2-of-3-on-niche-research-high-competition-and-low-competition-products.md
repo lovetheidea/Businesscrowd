@@ -4,7 +4,7 @@ title: "Part 2 of 3 on niche research: High Competition and Low Competition Prod
 date: "2021-11-17"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/module-1-starting-your-amazon-business/lesson/part-2-of-3-on-niche-research-high-competition-and-low-competition-products/"
+original_url: "/lti-content/courses/module-1-starting-your-amazon-business/lesson/part-2-of-3-on-niche-research-high-competition-and-low-competition-products/"
 ---
 
 This second of three niche research courses discuss goods with high vs low competition. You will learn the following in this lesson:
@@ -12,7 +12,7 @@ This second of three niche research courses discuss goods with high vs low compe
 -   A good, solid summary of what to anticipate before delving into all of this in-depth in the next courses.
 -   A solid foundation of knowledge is required in order to be really prepared for the next lessons.
 
-![Part 2 of 3 on niche research - High Competition and Low Competition Products](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Part-2-of-3-on-niche-research-High-Competition-and-Low-Competition-Products-300x185.png)
+![Part 2 of 3 on niche research - High Competition and Low Competition Products](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Part-2-of-3-on-niche-research-High-Competition-and-Low-Competition-Products-300x185.png)
 
 ## **The Big Question: High Competition vs. Low Competition** **Products** 
 

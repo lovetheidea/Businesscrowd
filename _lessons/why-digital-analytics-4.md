@@ -4,7 +4,7 @@ title: "Why Digital Analytics?"
 date: "2021-10-27"
 status: "publish"
 course_id: "96770"
-original_url: "https://academy.lovetheidea.co.uk/courses/beginners-guide-to-google-analytics/lesson/why-digital-analytics-4/"
+original_url: "/lti-content/courses/beginners-guide-to-google-analytics/lesson/why-digital-analytics-4/"
 ---
 
 ## **Welcome to** **Beginners' Guide to Google Analytics**
@@ -15,7 +15,7 @@ We are glad you are here to learn about Beginners' Guide to Google Analytics. In
 
 We will guide you through creating an account, preparing views and filters, reading basic reports, setting up dashboards, performing basic analysis, and setting up goals and tracking campaigns.
 
-![Introduction to Google Analytics](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/10/Topic-1-300x185.png)
+![Introduction to Google Analytics](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/10/Topic-1-300x185.png)
 
 ### **Defining Digital Analytics**
 
@@ -29,7 +29,7 @@ Our marketing world uses the concept of purchase funnels. Different stages defin
 -   The way users behave determines how well your business is performing
 -   A conversion occurs when a user becomes a customer and transacts with your business
 
-![Defining Digital Analytics](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/10/Google-Image-1-2-300x231.png)
+![Defining Digital Analytics](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/10/Google-Image-1-2-300x231.png)
 
 In the offline world, this process can be hard to measure. But in the online world, we can measure many different aspects of the funnel using digital analytics. We can track what online behavior led to purchases and use that data to make informed decisions about how to reach new and existing customers.
 

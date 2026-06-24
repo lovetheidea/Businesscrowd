@@ -4,7 +4,7 @@ title: "Intoduction"
 date: "2021-11-19"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course/lesson/welcome-to-module-2/"
+original_url: "/lti-content/courses/amazon-mastery-course/lesson/welcome-to-module-2/"
 ---
 
 The purpose of this lesson is to welcome you to Module 2 and let you know what to expect from this module.

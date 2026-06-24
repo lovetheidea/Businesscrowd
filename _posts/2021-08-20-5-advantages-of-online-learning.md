@@ -10,7 +10,7 @@ categories:
 tags:
   - "education"
   - "online learning"
-original_url: "https://academy.lovetheidea.co.uk/?p=93707"
+original_url: "/lti-content/?p=93707"
 ---
 
 **What Does the Modern Learner Look Like?**
@@ -19,7 +19,7 @@ To understand why online learning (e-learning) is the tool of choice for corpora
 
 Today’s learners want personalized content at their point of need. Since they are mostly on the move, they prefer being able to access content anytime and from anywhere
 
-![](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/08/2-1024x683.jpg)
+![](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/08/2-1024x683.jpg)
 
  TwentyEighty’s 7 Consumer Realities report states that at the time of need, 91 percent of people depend on their smartphones for an answer. Jane Hart of the Centre for Modern Workplace Learning and the Centre for Learning & Performance Technologies [found that](https://modernworkplacelearning.com/wp-content/uploads/2017/12/MWL2018-Part1.pdf) 93 percent of employees prefer to learn on the job. Learners are busy multitasking and have a limited attention span. If organizations want them to learn something new, they have to offer bite-sized pieces of information that do not take too much time to consume.
 

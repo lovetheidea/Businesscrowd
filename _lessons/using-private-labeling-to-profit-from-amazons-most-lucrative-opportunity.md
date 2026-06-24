@@ -4,12 +4,12 @@ title: "Using Private Labeling to Profit from Amazon's Most Lucrative Opportunit
 date: "2021-11-19"
 status: "publish"
 course_id: "96915"
-original_url: "https://academy.lovetheidea.co.uk/courses/amazon-mastery-course/lesson/using-private-labeling-to-profit-from-amazons-most-lucrative-opportunity/"
+original_url: "/lti-content/courses/amazon-mastery-course/lesson/using-private-labeling-to-profit-from-amazons-most-lucrative-opportunity/"
 ---
 
 This lesson focuses on laying the groundwork for you to profit from this extremely profitable business model.
 
-![Using Private Labeling to Profit from Amazon's Most Lucrative Opportunity](https://academy.lovetheidea.co.uk/wp-content/uploads/2021/11/Using-Private-Labeling-to-Profit-from-Amazons-Most-Lucrative-Opportunity-300x185.png)
+![Using Private Labeling to Profit from Amazon's Most Lucrative Opportunity](https://r2.businesscrowd.co.uk/wp-content/uploads/2021/11/Using-Private-Labeling-to-Profit-from-Amazons-Most-Lucrative-Opportunity-300x185.png)
 
 # **What is Private Labeling?**
 
