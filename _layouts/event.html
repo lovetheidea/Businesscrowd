@@ -42,8 +42,12 @@ layout: app
   </main>
 </div>
 <script>
-fetch('/api/me').then(function(r){return r.ok?r.json():null;}).then(function(u){
-  document.getElementById(u?'bc-event-content':'bc-event-gate').style.display='';
-  if(u){var av=document.getElementById('bc-avatar-btn');var ab=document.getElementById('bc-auth-btns');var i=(u.name||'?').split(' ').map(function(n){return n[0];}).join('').slice(0,2).toUpperCase();if(av){av.textContent=i;av.style.display='';}if(ab)ab.style.display='none';}
-}).catch(function(){document.getElementById('bc-event-gate').style.display='';});
+(function(){
+  function show(u){
+    document.getElementById(u?'bc-event-content':'bc-event-gate').style.display='';
+    if(u){var av=document.getElementById('bc-avatar-btn');var ab=document.getElementById('bc-auth-btns');var i=(u.name||'?').split(' ').map(function(n){return n[0];}).join('').slice(0,2).toUpperCase();if(av){av.textContent=i;av.style.display='';}if(ab)ab.style.display='none';}
+  }
+  try{var s=JSON.parse(localStorage.getItem('bc_dev_user'));if(s&&s.name){show(s);return;}}catch(e){}
+  fetch('/api/me').then(function(r){return r.ok?r.json():null;}).then(show).catch(function(){document.getElementById('bc-event-gate').style.display='';});
+})();
 </script>
