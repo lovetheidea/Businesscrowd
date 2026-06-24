@@ -53,17 +53,15 @@ permalink: /dev-login/
 <script>
 function devLogin(name, email, business_name, business_category, plan) {
   var user = { name: name, email: email, business_name: business_name, business_category: business_category, plan: plan };
-  localStorage.setItem('bc_dev_user', JSON.stringify(user));
-  var s = document.getElementById('bc-dev-status');
-  s.textContent = 'Signed in as ' + name + '. Redirecting…';
-  s.style.display = '';
-  setTimeout(function() { window.location.href = '/'; }, 800);
+  try {
+    localStorage.setItem('bc_dev_user', JSON.stringify(user));
+    window.location.href = '/';
+  } catch(e) {
+    alert('localStorage unavailable: ' + e.message);
+  }
 }
 function devLogout() {
   localStorage.removeItem('bc_dev_user');
-  var s = document.getElementById('bc-dev-status');
-  s.textContent = 'Dev session cleared.';
-  s.style.display = '';
-  setTimeout(function() { window.location.href = '/'; }, 800);
+  window.location.href = '/';
 }
 </script>

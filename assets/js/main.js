@@ -1,25 +1,23 @@
-// Auth state — show avatar / hide sign-in buttons if logged in
-// Checks localStorage for dev bypass (local Jekyll) then falls back to /api/me
+// Auth state — runs on every page, checks localStorage (dev) then /api/me (prod)
 (function () {
-  const avatarBtn = document.getElementById('bc-avatar-btn');
-  const notifBtn  = document.getElementById('bc-notif-btn');
-  const authBtns  = document.getElementById('bc-auth-btns');
-  if (!avatarBtn && !authBtns) return;
-
   function applyUser(user) {
     if (!user) return;
-    const initials = (user.name || '?').split(' ').map(function (n) { return n[0]; }).join('').slice(0, 2).toUpperCase();
+    var initials = (user.name || '?').split(' ').map(function (n) { return n[0]; }).join('').slice(0, 2).toUpperCase();
+    var avatarBtn = document.getElementById('bc-avatar-btn');
+    var notifBtn  = document.getElementById('bc-notif-btn');
+    var authBtns  = document.getElementById('bc-auth-btns');
     if (avatarBtn) { avatarBtn.textContent = initials; avatarBtn.style.display = ''; }
     if (notifBtn)  { notifBtn.style.display = ''; }
     if (authBtns)  { authBtns.style.display = 'none'; }
   }
 
-  // Dev bypass via localStorage
+  // Dev bypass — localStorage set by /dev-login/
   try {
-    const devUser = JSON.parse(localStorage.getItem('bc_dev_user'));
-    if (devUser) { applyUser(devUser); return; }
+    var devUser = JSON.parse(localStorage.getItem('bc_dev_user'));
+    if (devUser && devUser.name) { applyUser(devUser); return; }
   } catch (e) {}
 
+  // Production — Cloudflare Worker session
   fetch('/api/me')
     .then(function (r) { return r.ok ? r.json() : null; })
     .then(applyUser)
