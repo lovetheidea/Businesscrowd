@@ -3,6 +3,7 @@ layout: app
 title: "LTI Content — BusinessCrowd"
 permalink: /lti-content/
 ---
+{% assign published_lessons = site.lessons | where: "status", "publish" %}
 <div class="bc-app">
   {% include bc-sidebar.html %}
 
@@ -22,7 +23,7 @@ permalink: /lti-content/
         <div class="bc-lti-gate-card">
           <div class="bc-lti-gate-icon">🔒</div>
           <div class="bc-lti-gate-title">Members only</div>
-          <div class="bc-lti-gate-desc">The LTI training library is exclusive to BusinessCrowd members. Sign up free to unlock {{ site.lessons.size }} lessons, {{ site.courses.size }} courses and {{ site.events.size }} events.</div>
+          <div class="bc-lti-gate-desc">The LTI training library is exclusive to BusinessCrowd members. Sign up free to unlock {{ published_lessons.size }} lessons, {{ site.courses.size }} courses and {{ site.events.size }} events.</div>
           <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;">
             <a href="/signup/" class="bc-auth-btn" style="width:auto;padding:10px 24px;display:inline-block;text-decoration:none;">Join free →</a>
             <a href="/login/" class="bc-topbar-auth-link">Sign in</a>
@@ -42,7 +43,7 @@ permalink: /lti-content/
           </button>
           <button class="bc-lti-tab" data-tab="lessons">
             Lessons
-            <span class="bc-nav-badge" style="background:#059669;">{{ site.lessons.size }}</span>
+            <span class="bc-nav-badge" style="background:#059669;">{{ published_lessons.size }}</span>
           </button>
           <button class="bc-lti-tab" data-tab="blog">
             Blog
@@ -77,13 +78,9 @@ permalink: /lti-content/
         <!-- Lessons -->
         <div class="bc-lti-tab-panel" id="bc-tab-lessons" style="display:none;">
           <div class="bc-section-header">
-            <span class="bc-section-title">All Lessons ({{ site.lessons.size }})</span>
+            <span class="bc-section-title">All Lessons ({{ published_lessons.size }})</span>
           </div>
           <div style="max-width:680px;">
-            {% assign published_lessons = site.lessons | where: "status", "publish" %}
-            {% assign draft_lessons = site.lessons | where_exp: "l", "l.status != 'publish'" %}
-            {% if published_lessons.size > 0 %}
-            <div class="bc-section-header" style="margin-top:0;"><span class="bc-section-title" style="font-size:12px;color:#9CA3AF;">AVAILABLE NOW</span></div>
             {% for lesson in published_lessons %}
             <a href="{{ lesson.url | relative_url }}" class="bc-lesson-row">
               <div class="bc-lesson-row-num">{{ forloop.index }}</div>
@@ -93,20 +90,6 @@ permalink: /lti-content/
               <span class="bc-lti-read" style="flex-shrink:0;">→</span>
             </a>
             {% endfor %}
-            {% endif %}
-            {% if draft_lessons.size > 0 %}
-            <div class="bc-section-header" style="margin-top:16px;"><span class="bc-section-title" style="font-size:12px;color:#9CA3AF;">COMING SOON</span></div>
-            {% for lesson in draft_lessons limit:20 %}
-            <div class="bc-lesson-row bc-lesson-row--draft">
-              <div class="bc-lesson-row-num" style="background:#F3F4F6;color:#D1D5DB;">{{ forloop.index }}</div>
-              <div class="bc-lesson-row-body">
-                <div class="bc-lesson-row-title" style="color:#9CA3AF;">{{ lesson.title }}</div>
-              </div>
-              <span class="bc-lti-cat" style="font-size:10px;flex-shrink:0;background:#F3F4F6;color:#9CA3AF;">Soon</span>
-            </div>
-            {% endfor %}
-            {% if draft_lessons.size > 20 %}<div style="font-size:13px;color:#9CA3AF;padding:12px 0;">+ {{ draft_lessons.size | minus: 20 }} more coming soon</div>{% endif %}
-            {% endif %}
           </div>
         </div>
 
