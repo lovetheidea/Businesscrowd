@@ -1,5 +1,7 @@
 ---
 layout: "course"
+video_url: "https://r2.businesscrowd.co.uk/wp-content/uploads/2024/03/Feb-Circle-Trailer-Social.mp4"
+thumbnail: "https://r2.businesscrowd.co.uk/wp-content/uploads/2024/06/Can-Social-Media-Actions-Land-You-In-Legal-Trouble.png"
 title: "Risk and accountability in online systems"
 date: "2024-03-05"
 author: "jason"

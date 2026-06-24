@@ -1,5 +1,7 @@
 ---
 layout: "course"
+video_url: "https://r2.businesscrowd.co.uk/wp-content/uploads/2024/03/Feb-Circle-Trailer.mp4"
+thumbnail: "https://r2.businesscrowd.co.uk/wp-content/uploads/2024/06/Are-You-Breaking-The-Rules-A-Guide-to-Staying-Legal-And-Professional-Onlin-1.png"
 title: "Professional conduct in regulated digital spaces"
 date: "2024-03-05"
 author: "jason"

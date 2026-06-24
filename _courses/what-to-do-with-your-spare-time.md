@@ -1,5 +1,7 @@
 ---
 layout: "course"
+video_url: "https://r2.businesscrowd.co.uk/wp-content/uploads/2024/03/Jan-Circle-Trailer.mp4"
+thumbnail: "https://r2.businesscrowd.co.uk/wp-content/uploads/2024/06/What-you-should-be-doing-with-your-spare-time.png"
 title: "Writing as a medium for structured thinking"
 date: "2024-02-08"
 author: "jason"

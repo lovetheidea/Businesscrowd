@@ -1,5 +1,7 @@
 ---
 layout: "course"
+video_url: "https://r2.businesscrowd.co.uk/wp-content/uploads/2024/05/May-Circle-Trailer.mp4"
+thumbnail: "https://r2.businesscrowd.co.uk/wp-content/uploads/2024/05/Untitled-design-2.png"
 title: "LinkedIn as an incentive-driven network"
 date: "2024-05-16"
 author: "jason"

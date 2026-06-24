@@ -1,5 +1,7 @@
 ---
 layout: "course"
+video_url: "https://r2.businesscrowd.co.uk/wp-content/uploads/2024/06/June-Trailer.mp4"
+thumbnail: "https://r2.businesscrowd.co.uk/wp-content/uploads/2024/06/TikTok-for-Business-Is-it-time-to-get-involved.png"
 title: "TikTok and the mechanics of attention"
 date: "2024-06-14"
 author: "jason"

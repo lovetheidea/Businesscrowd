@@ -114,13 +114,25 @@ layout: app
           <!-- Sidebar -->
           <aside class="bc-course-sidebar">
             <div class="bc-course-sidebar-card">
-              <!-- Thumbnail placeholder -->
+              <!-- Course video / thumbnail -->
+              {% if page.video_url %}
+              <div class="bc-course-sidebar-video">
+                <video controls preload="metadata" poster="{% if page.thumbnail %}{{ page.thumbnail }}{% endif %}" style="width:100%;display:block;">
+                  <source src="{{ page.video_url }}" type="video/mp4">
+                </video>
+              </div>
+              {% elsif page.thumbnail %}
+              <div class="bc-course-sidebar-thumb">
+                <img src="{{ page.thumbnail }}" alt="{{ page.title }}" style="width:100%;display:block;object-fit:cover;height:160px;">
+              </div>
+              {% else %}
               <div class="bc-course-sidebar-thumb">
                 <div class="bc-course-sidebar-thumb-inner">
                   <span class="bc-course-thumb-logo">LTI</span>
                   <span class="bc-course-thumb-label">Love the Idea Academy</span>
                 </div>
               </div>
+              {% endif %}
               <div class="bc-course-sidebar-price">Free</div>
               <a href="#" class="bc-course-sidebar-cta">Start learning →</a>
               <a href="#" class="bc-course-sidebar-wishlist">Add to wishlist</a>

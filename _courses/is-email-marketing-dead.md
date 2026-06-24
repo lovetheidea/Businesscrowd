@@ -1,5 +1,7 @@
 ---
 layout: "course"
+video_url: "https://r2.businesscrowd.co.uk/wp-content/uploads/2024/04/Mar-Circle-Email-Marketing.mp4"
+thumbnail: "https://r2.businesscrowd.co.uk/wp-content/uploads/2024/06/Is-Email-Marketing-Dead-No-Heres-How-To-Do-It.png"
 title: "Email and long-term audience relationships"
 date: "2024-04-05"
 author: "jason"
