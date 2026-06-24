@@ -37,4 +37,4 @@ For success on LinkedIn, you need a robust network. While the idea of connecting
 
 ### Enroll Now!
 
-Join us in this course to explore practical strategies and tips for expanding your LinkedIn network and boosting your professional presence. [![Go to events](https://academy.lovetheidea.co.uk/wp-content/uploads/2024/03/Blue-and-Yellow-Technology-LinkedIn-Banner-5.jpg)](https://academy.lovetheidea.co.uk/events/)
+Join us in this course to explore practical strategies and tips for expanding your LinkedIn network and boosting your professional presence. [![Go to events](https://academy.lovetheidea.co.uk/wp-content/uploads/2024/03/Blue-and-Yellow-Technology-LinkedIn-Banner-5.jpg)](/events/)

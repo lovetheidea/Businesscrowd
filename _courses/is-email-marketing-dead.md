@@ -37,4 +37,4 @@ Unlock the power of email marketing and take your digital marketing efforts to t
 
 ### Enroll Now!
 
-Embark on your journey to mastering the fundamentals of email marketing, equipping yourself with the knowledge and skills to drive engagement, boost conversions, and achieve your business objectives effectively, toward unlocking the full potential of email marketing in the digital age! [![Go to events](https://academy.lovetheidea.co.uk/wp-content/uploads/2024/03/Blue-and-Yellow-Technology-LinkedIn-Banner-5.jpg)](https://academy.lovetheidea.co.uk/events/)
+Embark on your journey to mastering the fundamentals of email marketing, equipping yourself with the knowledge and skills to drive engagement, boost conversions, and achieve your business objectives effectively, toward unlocking the full potential of email marketing in the digital age! [![Go to events](https://academy.lovetheidea.co.uk/wp-content/uploads/2024/03/Blue-and-Yellow-Technology-LinkedIn-Banner-5.jpg)](/events/)

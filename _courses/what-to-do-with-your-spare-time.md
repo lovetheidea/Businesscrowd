@@ -32,4 +32,4 @@ Unlock the secrets of successful writing with our workshop! Transform spare mome
 
 ### Enroll Now!
 
-Dive into our complete workshop and unlock the essentials for blogging success! Secure your spot today for a rewarding and enriching writing journey. [![Go to events](https://academy.lovetheidea.co.uk/wp-content/uploads/2024/03/Blue-and-Yellow-Technology-LinkedIn-Banner-5.jpg)](https://academy.lovetheidea.co.uk/events/)
+Dive into our complete workshop and unlock the essentials for blogging success! Secure your spot today for a rewarding and enriching writing journey. [![Go to events](https://academy.lovetheidea.co.uk/wp-content/uploads/2024/03/Blue-and-Yellow-Technology-LinkedIn-Banner-5.jpg)](/events/)
