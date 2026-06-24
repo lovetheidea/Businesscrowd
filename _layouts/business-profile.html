@@ -1,0 +1,81 @@
+---
+layout: app
+---
+<div class="bc-app">
+  {% include bc-sidebar.html %}
+  <main class="bc-main">
+    <div class="bc-topbar">
+      <div>
+        <a href="/businesses/" class="bc-back-link">← All Businesses</a>
+        <h1 class="bc-topbar-title" style="margin-top:4px;">{{ page.biz_name }}</h1>
+      </div>
+      {% include bc-topbar-right.html %}
+    </div>
+    <div class="bc-feed">
+
+      <div class="bc-biz-profile-header">
+        <div class="bc-biz-profile-logo" style="background:{{ page.biz_color }};">{{ page.biz_initials }}</div>
+        <div class="bc-biz-profile-header-body">
+          <div class="bc-biz-profile-name">{{ page.biz_name }}</div>
+          <div class="bc-biz-profile-meta">
+            <span class="bc-lti-cat" style="background:{{ page.biz_bg }};color:{{ page.biz_color }};">{{ page.biz_category }}</span>
+            {% if page.biz_location %}<span class="bc-biz-profile-location">📍 {{ page.biz_location }}</span>{% endif %}
+            {% if page.biz_slot %}<span class="bc-biz-profile-slot">Slot: {{ page.biz_slot }}</span>{% endif %}
+          </div>
+          <div class="bc-biz-profile-tagline">{{ page.biz_tagline }}</div>
+        </div>
+        <div class="bc-biz-profile-actions">
+          {% if page.biz_plan == 'pro' %}
+          <span class="bc-lti-cat" style="background:#EEF2FF;color:#4C6EF5;">⭐ Pro member</span>
+          {% else %}
+          <span class="bc-lti-cat" style="background:#F3F4F6;color:#6B7280;">Free member</span>
+          {% endif %}
+        </div>
+      </div>
+
+      <div class="bc-section-header" style="margin-top:24px;">
+        <span class="bc-section-title">About {{ page.biz_name }}</span>
+      </div>
+      <div class="bc-biz-profile-about">
+        <p>{{ page.biz_about }}</p>
+        {% if page.biz_about2 %}<p>{{ page.biz_about2 }}</p>{% endif %}
+      </div>
+
+      {% if page.biz_highlight %}
+      <div class="bc-biz-profile-stats" style="grid-template-columns:repeat({{ page.biz_stats_count | default: 3 }},1fr);">
+        {{ page.biz_highlight }}
+      </div>
+      {% endif %}
+
+      <div class="bc-free-note" style="margin-top:24px;">
+        <strong>Want to connect?</strong> <a href="/signup/">Join BusinessCrowd free</a> to get in touch with {{ page.biz_name }} and hundreds of other UK businesses.
+      </div>
+
+      <div style="margin-top:28px;padding-top:20px;border-top:1px solid #F3F4F6;">
+        <a href="/book-a-slot/" class="bc-auth-btn" style="width:auto;padding:10px 22px;display:inline-block;text-decoration:none;margin-right:10px;">Book your own slot →</a>
+        <a href="/businesses/" class="bc-topbar-auth-link">Browse all businesses</a>
+      </div>
+
+    </div>
+  </main>
+
+  <aside class="bc-right-panel">
+    <div class="bc-panel-section">
+      <div class="bc-panel-header"><span class="bc-panel-title">Their Slot</span></div>
+      {% if page.biz_slot %}
+      <div class="bc-slot-row" style="margin-top:8px;">
+        <div class="bc-slot-row-body">
+          <div class="bc-slot-row-time">{{ page.biz_slot }}</div>
+          <div class="bc-slot-row-type">{{ page.biz_category }}</div>
+        </div>
+        <span class="bc-lti-cat" style="background:{{ page.biz_bg }};color:{{ page.biz_color }};">Booked</span>
+      </div>
+      {% endif %}
+    </div>
+    <div class="bc-join-card">
+      <div class="bc-join-card-title">Get your slot</div>
+      <div class="bc-join-card-desc">Join BusinessCrowd free and get your business in front of the Crowd.</div>
+      <a href="/signup/" class="bc-join-card-cta">Join for Free →</a>
+    </div>
+  </aside>
+</div>
