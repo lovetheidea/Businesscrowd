@@ -5,7 +5,11 @@ date: "2024-02-08"
 author: "jason"
 level: "intermediate"
 duration_minutes: "20"
-benefits: "Secrets to creating a proactive plan How to start expanding your networking circles How writing can help you find more work What platforms are available to help you get started."
+benefits:
+  - "Secrets to creating a proactive plan"
+  - "How to start expanding your networking circles"
+  - "How writing can help you find more work"
+  - "What platforms are available to help you get started"
 audience: "Freelancers
 Digital Nomads
 Job Seekers

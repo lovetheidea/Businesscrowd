@@ -5,7 +5,11 @@ date: "2024-03-05"
 author: "jason"
 level: "all_levels"
 duration_minutes: "10"
-benefits: "Simple steps to staying professional How to watch out for pitfalls Social Media and Email Marketing Rules Staying professional in work and online"
+benefits:
+  - "Simple steps to staying professional"
+  - "How to watch out for pitfalls"
+  - "Social Media and Email Marketing Rules"
+  - "Staying professional in work and online"
 audience: "Bloggers
 Vloggers
 Freelancers

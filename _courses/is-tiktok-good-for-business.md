@@ -5,7 +5,13 @@ date: "2024-06-14"
 author: "jason"
 level: "intermediate"
 duration_minutes: "30"
-benefits: "Understanding TikTok’s Potential Creating Engaging Content Influencer Collaborations Audience Targeting Cost-Effective Marketing Strategies Measuring Success"
+benefits:
+  - "Understanding TikTok’s Potential"
+  - "Creating Engaging Content"
+  - "Influencer Collaborations"
+  - "Audience Targeting"
+  - "Cost-Effective Marketing Strategies"
+  - "Measuring Success"
 audience: "Marketing Professionals
 Small Business Owners
 Entrepreneurs and Startups

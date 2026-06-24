@@ -5,7 +5,14 @@ date: "2024-05-16"
 author: "jason"
 level: "intermediate"
 duration_minutes: "30"
-benefits: "How to Build a Great LinkedIn Profile Connecting Other Marketing Activities to LinkedIn Regular LinkedIn Marketing Activities to Complete Effective Networking Strategies Content Creation and Sharing Engagement Techniques Analytics and Improvement"
+benefits:
+  - "How to Build a Great LinkedIn Profile"
+  - "Connecting Other Marketing Activities to LinkedIn"
+  - "Regular LinkedIn Marketing Activities to Complete"
+  - "Effective Networking Strategies"
+  - "Content Creation and Sharing"
+  - "Engagement Techniques"
+  - "Analytics and Improvement"
 audience: "Marketing Professionals
 Small Business Owners
 Entrepreneurs and Startups

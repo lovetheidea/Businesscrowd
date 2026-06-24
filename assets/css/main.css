@@ -2052,3 +2052,169 @@ a.bc-nav-item {
 .bc-prose a { color: #4C6EF5; text-decoration: underline; }
 .bc-prose blockquote { border-left: 3px solid #4C6EF5; margin: 0 0 1em 0; padding: 8px 16px; background: #EEF2FF; border-radius: 0 8px 8px 0; }
 .bc-prose strong { color: #111827; }
+
+/* ── COURSE DETAIL PAGE ──────────────────────────────────────────────────── */
+.bc-course-body {
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  gap: 32px;
+  align-items: start;
+}
+.bc-course-main { min-width: 0; }
+.bc-course-section { margin-bottom: 32px; }
+.bc-course-section-title {
+  font-size: 18px; font-weight: 800; color: #111827;
+  margin: 0 0 16px; letter-spacing: -0.3px;
+}
+
+/* Learning Objectives */
+.bc-course-objectives {
+  border: 1.5px solid #E5E7EB; border-radius: 12px; padding: 20px 24px;
+}
+.bc-course-objectives-title {
+  font-size: 16px; font-weight: 700; color: #111827; margin: 0 0 16px;
+}
+.bc-course-objectives-grid {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 12px 24px;
+}
+.bc-course-objective-item {
+  display: flex; align-items: flex-start; gap: 8px;
+  font-size: 14px; color: #374151; line-height: 1.5;
+}
+.bc-course-objective-check {
+  color: #059669; font-weight: 700; flex-shrink: 0; margin-top: 1px;
+}
+
+/* Target Audience */
+.bc-course-audience-list {
+  list-style: none; padding: 0; margin: 0;
+  display: flex; flex-direction: column; gap: 8px;
+}
+.bc-course-audience-list li {
+  font-size: 14px; color: #374151; display: flex; align-items: center; gap: 8px;
+}
+.bc-course-audience-list li::before { content: "⇒"; color: #9CA3AF; }
+
+/* Curriculum */
+.bc-course-curriculum-header {
+  display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px;
+}
+.bc-course-curriculum-stats {
+  display: flex; gap: 16px; font-size: 13px; color: #6B7280; font-weight: 500;
+}
+.bc-course-curriculum-box {
+  border: 1.5px solid #E5E7EB; border-radius: 12px; overflow: hidden;
+}
+.bc-course-lesson-row {
+  display: flex; align-items: center; gap: 12px;
+  padding: 14px 18px; border-bottom: 1px solid #F3F4F6;
+  text-decoration: none; color: #374151; font-size: 14px;
+  transition: background 0.15s;
+}
+.bc-course-lesson-row:last-child { border-bottom: none; }
+.bc-course-lesson-row:hover { background: #F9FAFB; }
+.bc-course-lesson-play { color: #9CA3AF; font-size: 11px; flex-shrink: 0; }
+.bc-course-lesson-name { flex: 1; }
+.bc-course-lesson-duration { color: #9CA3AF; font-size: 13px; flex-shrink: 0; }
+.bc-course-lesson-lock { font-size: 12px; flex-shrink: 0; opacity: 0.5; }
+
+/* Sidebar */
+.bc-course-sidebar-card {
+  border: 1.5px solid #E5E7EB; border-radius: 14px; overflow: hidden;
+  position: sticky; top: 20px;
+}
+.bc-course-sidebar-thumb {
+  background: #1E1B4B; height: 160px;
+  display: flex; align-items: center; justify-content: center;
+}
+.bc-course-sidebar-thumb-inner {
+  display: flex; flex-direction: column; align-items: center; gap: 8px;
+}
+.bc-course-thumb-logo {
+  font-size: 28px; font-weight: 900; color: #fff; letter-spacing: -1px;
+}
+.bc-course-thumb-label {
+  font-size: 11px; color: rgba(255,255,255,0.6); text-align: center;
+}
+.bc-course-sidebar-price {
+  font-size: 28px; font-weight: 900; color: #111827;
+  padding: 18px 20px 4px;
+}
+.bc-course-sidebar-cta {
+  display: block; margin: 4px 20px 8px;
+  background: #111827; color: #fff; text-align: center;
+  padding: 12px; border-radius: 8px; font-weight: 700; font-size: 14px;
+  text-decoration: none; transition: background 0.15s;
+}
+.bc-course-sidebar-cta:hover { background: #374151; }
+.bc-course-sidebar-wishlist {
+  display: block; margin: 0 20px 16px;
+  background: #F3F4F6; color: #374151; text-align: center;
+  padding: 10px; border-radius: 8px; font-weight: 600; font-size: 14px;
+  text-decoration: none; transition: background 0.15s;
+}
+.bc-course-sidebar-wishlist:hover { background: #E5E7EB; }
+.bc-course-sidebar-meta {
+  border-top: 1px solid #F3F4F6; padding: 12px 20px; display: flex; flex-direction: column; gap: 10px;
+}
+.bc-course-sidebar-meta-row {
+  display: flex; justify-content: space-between; align-items: flex-start;
+  font-size: 13px; color: #374151; gap: 8px;
+}
+.bc-course-sidebar-meta-label { color: #6B7280; font-weight: 500; flex-shrink: 0; }
+.bc-course-sidebar-enroll {
+  padding: 10px 20px 16px; font-size: 12px; color: #9CA3AF; text-align: center;
+}
+
+/* Course card grid (lti-content courses tab) */
+.bc-course-card-grid {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-top: 4px;
+}
+.bc-course-card-link { text-decoration: none; color: inherit; }
+.bc-course-card {
+  border: 1.5px solid #E5E7EB; border-radius: 12px; overflow: hidden;
+  transition: box-shadow 0.15s, transform 0.15s;
+}
+.bc-course-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.08); transform: translateY(-2px); }
+.bc-course-card-thumb {
+  background: #1E1B4B; height: 140px;
+  display: flex; align-items: center; justify-content: center;
+  position: relative;
+}
+.bc-course-card-thumb-inner {
+  display: flex; align-items: center; justify-content: center;
+}
+.bc-course-card-initials {
+  font-size: 24px; font-weight: 900; color: #fff; letter-spacing: -1px;
+}
+.bc-course-card-free-badge {
+  position: absolute; top: 8px; right: 8px;
+  background: #059669; color: #fff; font-size: 10px; font-weight: 700;
+  padding: 2px 7px; border-radius: 4px; letter-spacing: 0.5px;
+}
+.bc-course-card-body { padding: 14px 16px; }
+.bc-course-card-level {
+  display: inline-block; font-size: 11px; color: #059669; font-weight: 600;
+  background: #ECFDF5; border: 1px solid #A7F3D0; border-radius: 20px;
+  padding: 2px 9px; margin-bottom: 8px;
+}
+.bc-course-card-title {
+  font-size: 15px; font-weight: 700; color: #111827; margin: 0 0 6px; line-height: 1.4;
+}
+.bc-course-card-author { font-size: 13px; color: #6B7280; margin-bottom: 10px; }
+.bc-course-card-footer {
+  display: flex; justify-content: space-between; align-items: center;
+  border-top: 1px solid #F3F4F6; padding-top: 10px;
+}
+.bc-course-card-price { font-size: 14px; font-weight: 700; color: #374151; }
+.bc-course-card-duration { font-size: 12px; color: #9CA3AF; }
+
+@media (max-width: 900px) {
+  .bc-course-body { grid-template-columns: 1fr; }
+  .bc-course-sidebar { order: -1; }
+  .bc-course-card-grid { grid-template-columns: repeat(2, 1fr); }
+  .bc-course-objectives-grid { grid-template-columns: 1fr; }
+}
+@media (max-width: 600px) {
+  .bc-course-card-grid { grid-template-columns: 1fr; }
+}

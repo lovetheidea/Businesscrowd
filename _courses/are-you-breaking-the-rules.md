@@ -5,7 +5,11 @@ date: "2024-03-05"
 author: "jason"
 level: "all_levels"
 duration_minutes: "11"
-benefits: "Simple steps to staying professional How to watch out for pitfalls How your own content can help your SEO Staying professional in work and online"
+benefits:
+  - "Simple steps to staying professional"
+  - "How to watch out for pitfalls"
+  - "How your own content can help your SEO"
+  - "Staying professional in work and online"
 audience: "Website Owners
 Bloggers
 Freelancers

@@ -60,16 +60,26 @@ permalink: /lti-content/
           <div class="bc-section-header">
             <span class="bc-section-title">Courses</span>
           </div>
-          <div class="bc-lti-grid">
+          <div class="bc-course-card-grid">
             {% for course in site.courses %}
-            <a href="{{ course.url | relative_url }}" class="bc-lti-card">
-              <div class="bc-lti-card-meta">
-                {% if course.categories.first %}<span class="bc-lti-cat">{{ course.categories.first }}</span>{% endif %}
-                {% if course.level %}<span class="bc-lti-date">{{ course.level | capitalize }}</span>{% endif %}
+            <a href="{{ course.url | relative_url }}" class="bc-course-card-link">
+              <div class="bc-course-card">
+                <div class="bc-course-card-thumb">
+                  <div class="bc-course-card-thumb-inner">
+                    <span class="bc-course-card-initials">LTI</span>
+                  </div>
+                  <span class="bc-course-card-free-badge">FREE</span>
+                </div>
+                <div class="bc-course-card-body">
+                  {% if course.level %}<span class="bc-course-card-level">{{ course.level | capitalize }}</span>{% endif %}
+                  <h3 class="bc-course-card-title">{{ course.title }}</h3>
+                  <div class="bc-course-card-author">Love the Idea</div>
+                  <div class="bc-course-card-footer">
+                    <span class="bc-course-card-price">Free</span>
+                    {% if course.duration_minutes %}<span class="bc-course-card-duration">⏱ {{ course.duration_minutes }}m</span>{% endif %}
+                  </div>
+                </div>
               </div>
-              <h3 class="bc-lti-title">{{ course.title }}</h3>
-              {% if course.duration_minutes %}<p class="bc-lti-excerpt">⏱ {{ course.duration_minutes }} minutes{% if course.audience %} · {{ course.audience | truncatewords: 8 }}{% endif %}</p>{% else %}<p class="bc-lti-excerpt">{{ course.content | strip_html | truncatewords: 18 }}</p>{% endif %}
-              <span class="bc-lti-read">View course →</span>
             </a>
             {% endfor %}
           </div>

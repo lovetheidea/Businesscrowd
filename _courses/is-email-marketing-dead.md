@@ -5,7 +5,16 @@ date: "2024-04-05"
 author: "jason"
 level: "all_levels"
 duration_minutes: "30"
-benefits: "Top Tips for Writing Email Marketing Messages Building Marketing List for Beginners Create effective email campaigns How to Optimise the Sending of Email Marketing Campaigns Ensure compliance and ethical practices. Troubleshoot common email marketing challenges Master email marketing best practices Measure and analyze campaign performance Optimize email marketing strategy"
+benefits:
+  - "Top Tips for Writing Email Marketing Messages"
+  - "Building Marketing List for Beginners"
+  - "Create effective email campaigns"
+  - "How to Optimise the Sending of Email Marketing Campaigns"
+  - "Ensure compliance and ethical practices"
+  - "Troubleshoot common email marketing challenges"
+  - "Master email marketing best practices"
+  - "Measure and analyze campaign performance"
+  - "Optimize email marketing strategy"
 audience: "Marketing Professionals
 Small Business Owners
 Entrepreneurs and Startups
